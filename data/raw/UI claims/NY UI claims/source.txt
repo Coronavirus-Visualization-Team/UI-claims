@@ -1,0 +1,11 @@
+Beneficiaries-and-Amounts by Region-and-County-February-2020
+	This pdf was downloaded from https://labor.ny.gov/stats/UI/Unemployment-Insurance-Data.shtm 
+	by Laura Kincaide on April 5, 2020. I then used Adobe Acrobat's "Convert to Excel" feature
+	to get this into a more useable version. 
+
+	Note: on the the most current version of the website only the current month and the cumulative
+	claims since January of the current year are available. To get data going farther back in time
+	I changed the URL of the pdf. For example, the URl for February of 2020 is 
+	https://labor.ny.gov/stats/UI/Beneficiaries-and-Amounts-by-Region-and-County-February-2020.pdf
+	I just changed "February-2020" to "January-2020" to get the January 2020 data. 
+

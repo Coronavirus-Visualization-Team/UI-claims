@@ -1,0 +1,169 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+      name:  plog_10
+       log:  /Users/michael/Documents/git_repos/homebase-covid/code/UI claims/GA create monthly county level UI data.log
+  log type:  text
+ opened on:  16 Apr 2020, 14:14:55
+
+.  * Set $root
+. return clear
+
+. capture project, doinfo
+
+. if (_rc==0 & !mi(r(pname))) global root `r(pdir)'  // using -project-
+
+. else {  // running directly
+.         if ("${homebase_root}"=="") do `"`c(sysdir_personal)'profile.do"'
+.         do "${homebase_root}/code/set_environment.do"
+. }
+
+. 
+. * Create required folders
+. cap mkdir "${root}/data/derived/UI claims"
+
+. 
+. * Set convenient globals
+. global raw "${root}/data/raw/UI claims/GA UI claims"
+
+. global crosswalks "${root}/data/raw/crosswalks"
+
+. global output "${root}/data/derived/UI claims"
+
+. 
+. 
+. /*** Import and clean the county-level UI claims data for GA. Output a
+> clean dataset that is long on county and date. 
+> ***/
+. 
+. project, relies_on("${raw}/source.txt")
+project countyUI > do-file relies on: "/Users/michael/Dropbox (Personal)/homebase/Raw Data/UI claims/GA UI claims/source.txt" filesig(3981532431:313)
+
+. project, original("${raw}/initialuiclaims.xlsx")
+project countyUI > do-file uses original: "/Users/michael/Dropbox (Personal)/homebase/Raw Data/UI claims/GA UI claims/initialuiclaims.xlsx" filesig(1573122539:43267)
+
+. import excel "${raw}/initialuiclaims.xlsx", ///
+>                  cellrange(A4:K172) firstrow clear
+(11 vars, 168 obs)
+
+.         
+. * Keep relevant variables
+. keep LWDAArea FEB2020 JAN2020 FEB2019
+
+.         
+. * Rename variables
+. rename (LWDAArea FEB2020 JAN2020 FEB2019) (county_name initial_claimsFeb2020 initial_claimsJan2020 initial_claimsFeb2019)
+
+.         
+. * This sheet has some extra formatting, dropping rows for source information, extra 
+. * headers, etc
+. drop if regex(county_name, "Georgia Department of Labor,")==1 | mi(county_name) //
+(3 observations deleted)
+
+. drop if county_name=="County Unemployment Insurance Initial Claims" | county_name=="LWDA Area"
+(6 observations deleted)
+
+. 
+. * Reshape to be long on county date
+. reshape long initial_claims , i(county_name) j(date) string
+(note: j = Feb2019 Feb2020 Jan2020)
+
+Data                               wide   ->   long
+-----------------------------------------------------------------------------
+Number of obs.                      159   ->     477
+Number of variables                   4   ->       3
+j variable (3 values)                     ->   date
+xij variables:
+initial_claimsFeb2019 initial_claimsFeb2020 initial_claimsJan2020->initial_claims
+-----------------------------------------------------------------------------
+
+. 
+. * Formate the date variable
+. gen int date_numeric = date(date, "MY")
+
+. format date_numeric %td
+
+. drop date
+
+. rename date_numeric date
+
+. sort county_name date
+
+. 
+. * Destring relevant variables 
+. destring initial_claims, replace 
+initial_claims: all characters numeric; replaced as int
+
+. 
+. * Getting a crosswalk for county names
+. project, original("${crosswalks}/cty_cz_st_crosswalk.csv") preserve
+project countyUI > do-file uses original: "/Users/michael/Dropbox (Personal)/homebase/Raw Data/crosswalks/cty_cz_st_crosswalk.csv" filesig(212155919:139356)
+
+. preserve
+
+. import delimited "${crosswalks}/cty_cz_st_crosswalk.csv", clear
+(7 vars, 3,138 obs)
+
+. keep county_name cty statename state_fips stateabbrv
+
+. rename (cty statename stateabbrv) (county_fips  state_name state_abbrev) 
+
+. keep if state_abbrev=="GA"
+(2,979 observations deleted)
+
+. 
+. tempfile GA_county_names 
+
+. save `GA_county_names'
+file /var/folders/mw/4n6y_xgx2_1g1dgrtynw998c0000gn/T//S_66803.000006 saved
+
+. restore
+
+. 
+. * Merge in county name, state, name and fips
+. merge m:1 county_name using `GA_county_names', assert(3) nogen
+
+    Result                           # of obs.
+    -----------------------------------------
+    not matched                             0
+    matched                               477  
+    -----------------------------------------
+
+. 
+. * Switch date to year / month
+. gen int year = year(date)
+
+. gen byte month = month(date)
+
+. drop date
+
+. 
+. * Order
+. order state* county* year month
+
+. 
+. * Check the ID
+. sort county_fips year month
+
+. isid county_fips year month
+
+. 
+. * Save
+. save "${output}/GA_monthly_county_UI.dta", replace
+file /Users/michael/Documents/git_repos/homebase-covid/data/derived/UI claims/GA_monthly_county_UI.dta saved
+
+. export delim  "${output}/GA_monthly_county_UI.csv", replace
+(note: file /Users/michael/Documents/git_repos/homebase-covid/data/derived/UI claims/GA_monthly_county_UI.csv not found)
+file /Users/michael/Documents/git_repos/homebase-covid/data/derived/UI claims/GA_monthly_county_UI.csv saved
+
+. project, creates("${output}/GA_monthly_county_UI.dta")
+project countyUI > do-file creates: "data/derived/UI claims/GA_monthly_county_UI.dta" filesig(4110857199:115407)
+
+. project, creates("${output}/GA_monthly_county_UI.csv")
+project countyUI > do-file creates: "data/derived/UI claims/GA_monthly_county_UI.csv" filesig(3280253225:18134)
+
+. 
+end of do-file
+      name:  plog_10
+       log:  /Users/michael/Documents/git_repos/homebase-covid/code/UI claims/GA create monthly county level UI data.log
+  log type:  text
+ closed on:  16 Apr 2020, 14:14:56
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,213 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+      name:  plog_3
+       log:  /Users/michael/Documents/git_repos/homebase-covid/code/UI claims/CA create monthly county level UI data.log
+  log type:  text
+ opened on:  16 Apr 2020, 14:14:55
+
+.  * Set $root
+. return clear
+
+. capture project, doinfo
+
+. if (_rc==0 & !mi(r(pname))) global root `r(pdir)'  // using -project-
+
+. else {  // running directly
+.         if ("${homebase_root}"=="") do `"`c(sysdir_personal)'profile.do"'
+.         do "${homebase_root}/code/set_environment.do"
+. }
+
+. 
+. * Create required folders
+. cap mkdir "${root}/data/derived/UI claims"
+
+. 
+. * Set convenient globals
+. global raw "${root}/data/raw/UI claims/CA UI claims"
+
+. global crosswalks "${root}/data/raw/crosswalks"
+
+. global output "${root}/data/derived/UI claims"
+
+. 
+. 
+. /*** Import and clean the county-level UI claims data for CA. Output a
+> clean dataset that is long on county and date. 
+> ***/
+. 
+. local years "2019 2020"
+
+. foreach year of local years {
+  2.         * Import excel file
+.         project, relies_on("${raw}/source.txt")
+  3.         project, original("${raw}/qsui-Initial_Claims_by_County_`year'.xlsx")
+  4.         import excel "${raw}/qsui-Initial_Claims_by_County_`year'.xlsx", ///
+>                  cellrange(A4:M63) firstrow clear
+  5. 
+.         * Rename variables
+.         rename (County)  (county_name)   
+  6.                          
+.         * Keep only county-level data
+.         keep if ~mi(county_name) & county_name!="Total All Counties"
+  7. 
+.         * Rename variables to get a stub for the reshape
+.         foreach var of varlist *`year' {
+  8.                 rename `var' initial_claims`var'
+  9.         }
+ 10. 
+.         * Reshape to be long on county date
+.         reshape long initial_claims, i(county_name ) j(date) string
+ 11. 
+.         * Drop empty years
+.         drop if mi(initial_claims)
+ 12.         
+.         * Save a temp file to append
+.         tempfile CA_UI_`year'
+ 13.         save `CA_UI_`year''
+ 14. }
+project countyUI > do-file relies on: "/Users/michael/Dropbox (Personal)/homebase/Raw Data/UI claims/CA UI claims/source.txt" filesig(2987663757:415)
+project countyUI > do-file uses original: "/Users/michael/Dropbox (Personal)/homebase/Raw Data/UI claims/CA UI claims/qsui-Initial_Claims_by_County_2019.xlsx" filesig(2026404688:18600)
+(13 vars, 59 obs)
+(1 observation deleted)
+(note: j = April2019 August2019 December2019 February2019 January2019 July2019 June2019 March2019 May2019 November2019 October2019 September2019)
+
+Data                               wide   ->   long
+-----------------------------------------------------------------------------
+Number of obs.                       58   ->     696
+Number of variables                  13   ->       3
+j variable (12 values)                    ->   date
+xij variables:
+initial_claimsApril2019 initial_claimsAugust2019 ... initial_claimsSeptember2019->initial_claims
+-----------------------------------------------------------------------------
+(0 observations deleted)
+file /var/folders/mw/4n6y_xgx2_1g1dgrtynw998c0000gn/T//S_66803.000005 saved
+project countyUI > do-file relies on: "/Users/michael/Dropbox (Personal)/homebase/Raw Data/UI claims/CA UI claims/source.txt" filesig(2987663757:415)
+project countyUI > do-file uses original: "/Users/michael/Dropbox (Personal)/homebase/Raw Data/UI claims/CA UI claims/qsui-Initial_Claims_by_County_2020.xlsx" filesig(2641855003:20387)
+(13 vars, 59 obs)
+(1 observation deleted)
+(note: j = April2020 August2020 December2020 February2020 January2020 July2020 June2020 March2020 May2020 November2020 October2020 September2020)
+
+Data                               wide   ->   long
+-----------------------------------------------------------------------------
+Number of obs.                       58   ->     696
+Number of variables                  13   ->       3
+j variable (12 values)                    ->   date
+xij variables:
+initial_claimsApril2020 initial_claimsAugust2020 ... initial_claimsSeptember2020->initial_claims
+-----------------------------------------------------------------------------
+(580 observations deleted)
+file /var/folders/mw/4n6y_xgx2_1g1dgrtynw998c0000gn/T//S_66803.000006 saved
+
+.         
+. * Append all years together
+. * Note that this doesn't really need to be done in a loop now, but I'm coding
+. * it this way for consistency with other do files and so it will be easy
+. * to update in the future. 
+. use `CA_UI_2020', clear
+
+. local years "2019"
+
+. foreach year of local years {
+  2.         append using `CA_UI_`year''
+  3. }       
+
+.         
+. * Format the date variable 
+. gen date_numeric = date(date, "MY")
+
+. format date_numeric %td
+
+. drop date
+
+. rename date_numeric date
+
+. sort county_name date
+
+. 
+. * Getting a crosswalk for county names
+. preserve
+
+. project, original("${crosswalks}/cty_cz_st_crosswalk.csv") preserve
+project countyUI > do-file uses original: "/Users/michael/Dropbox (Personal)/homebase/Raw Data/crosswalks/cty_cz_st_crosswalk.csv" filesig(212155919:139356)
+
+. import delimited "${crosswalks}/cty_cz_st_crosswalk.csv", clear
+(7 vars, 3,138 obs)
+
+. keep county_name cty statename state_fips stateabbrv
+
+. rename (cty statename stateabbrv) (county_fips  state_name state_abbrev) 
+
+. keep if state_abbrev=="CA"
+(3,080 observations deleted)
+
+. 
+. tempfile CA_county_names 
+
+. save `CA_county_names'
+file /var/folders/mw/4n6y_xgx2_1g1dgrtynw998c0000gn/T//S_66803.000008 saved
+
+. restore
+
+. 
+. * Format county_name for the merge
+. replace county_name = proper(county_name)
+(812 real changes made)
+
+. 
+. * Merge in county name, state, name and fips
+. merge m:1 county_name using `CA_county_names', assert(3) nogen
+(note: variable county_name was str18, now str31 to accommodate using data's values)
+
+    Result                           # of obs.
+    -----------------------------------------
+    not matched                             0
+    matched                               812  
+    -----------------------------------------
+
+. 
+. * Label variables based on information from the Employment Development Department
+. * of the State of California https://www.edd.ca.gov/about_edd/Quick_Statistics_Information_by_County.htm
+. lab var initial_claims "Individuals who certified for UI benefits for the week containing the 12th of the month. Includes counts for the regular UI program and federal extended benefit programs.  Initial claims totals are not representative of the nu
+> mber of individuals filing as a claimant can have multiple initial claims."
+note: label truncated to 80 characters
+
+. 
+. * Switch date to year / month
+. gen int year = year(date)
+
+. gen byte month = month(date)
+
+. drop date
+
+. 
+. * Order
+. order state* county* year month
+
+. 
+. * Check the ID
+. sort county_fips year month
+
+. isid county_fips year month
+
+. 
+. * Save
+. save "${output}/CA_monthly_county_UI.dta", replace
+file /Users/michael/Documents/git_repos/homebase-covid/data/derived/UI claims/CA_monthly_county_UI.dta saved
+
+. export delim "${output}/CA_monthly_county_UI.csv", replace
+(note: file /Users/michael/Documents/git_repos/homebase-covid/data/derived/UI claims/CA_monthly_county_UI.csv not found)
+file /Users/michael/Documents/git_repos/homebase-covid/data/derived/UI claims/CA_monthly_county_UI.csv saved
+
+. project, creates("${output}/CA_monthly_county_UI.dta") 
+project countyUI > do-file creates: "data/derived/UI claims/CA_monthly_county_UI.dta" filesig(1603681168:60980)
+
+. project, creates("${output}/CA_monthly_county_UI.csv") 
+project countyUI > do-file creates: "data/derived/UI claims/CA_monthly_county_UI.csv" filesig(2361900456:33465)
+
+. 
+. 
+end of do-file
+      name:  plog_3
+       log:  /Users/michael/Documents/git_repos/homebase-covid/code/UI claims/CA create monthly county level UI data.log
+  log type:  text
+ closed on:  16 Apr 2020, 14:14:55
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

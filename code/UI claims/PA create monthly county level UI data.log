@@ -1,0 +1,219 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+      name:  plog_35
+       log:  /Users/michael/Documents/git_repos/homebase-covid/code/UI claims/PA create monthly county level UI data.log
+  log type:  text
+ opened on:  16 Apr 2020, 14:14:57
+
+.  * Set $root
+. return clear
+
+. capture project, doinfo
+
+. if (_rc==0 & !mi(r(pname))) global root `r(pdir)'  // using -project-
+
+. else {  // running directly
+.         if ("${homebase_root}"=="") do `"`c(sysdir_personal)'profile.do"'
+.         do "${homebase_root}/code/set_environment.do"
+. }
+
+. 
+. * Create required folders
+. cap mkdir "${root}/data/derived/UI claims"
+
+. 
+. * Set convenient globals
+. global raw "${root}/data/raw/UI claims/PA UI claims"
+
+. global crosswalks "${root}/data/raw/crosswalks"
+
+. global output "${root}/data/derived/UI claims"
+
+. 
+. /*** Import and clean the county-level UI claims data for PA. Output a
+> clean dataset that is long on county and date. 
+> ***/
+. 
+. local claimtypes "Initial Continued"
+
+. foreach claimtype of local claimtypes {
+  2. 
+. project, relies_on("${raw}/source.txt")
+  3. project, original("${raw}/UC_`claimtype'_Claims_WIA.xlsx")
+  4. import excel "${raw}/UC_`claimtype'_Claims_WIA.xlsx", ///
+>                  cellrange(A9:H101) firstrow clear
+  5.                  
+. * Keep relevant variables
+. keep WorkforceDevelopmentArea JANUARY* DECEMBER*
+  6. 
+. * Drop empty rows
+. drop if mi(WorkforceDevelopmentArea)
+  7. 
+. * Rename
+. rename (WorkforceDevelopmentArea JANUARY2020 DECEMBER2019 JANUARY2019)  (county_name `claimtype'_claimsJanuary2020 `claimtype'_claimsDecember2020 `claimtype'_claimsJanuary2019)
+  8. 
+. * Reshape
+. reshape long `claimtype'_claims, i(county_name) j(date) string
+  9. 
+. tempfile `claimtype'_temp
+ 10. save ``claimtype'_temp'
+ 11. } 
+project countyUI > do-file relies on: "/Users/michael/Dropbox (Personal)/homebase/Raw Data/UI claims/PA UI claims/source.txt" filesig(559688659:242)
+project countyUI > do-file uses original: "/Users/michael/Dropbox (Personal)/homebase/Raw Data/UI claims/PA UI claims/UC_Initial_Claims_WIA.xlsx" filesig(2450233681:23673)
+(8 vars, 92 obs)
+(2 observations deleted)
+(note: j = December2020 January2019 January2020)
+
+Data                               wide   ->   long
+-----------------------------------------------------------------------------
+Number of obs.                       90   ->     270
+Number of variables                   4   ->       3
+j variable (3 values)                     ->   date
+xij variables:
+Initial_claimsDecember2020 Initial_claimsJanuary2019 Initial_claimsJanuary2020->Initial_claims
+-----------------------------------------------------------------------------
+file /var/folders/mw/4n6y_xgx2_1g1dgrtynw998c0000gn/T//S_66803.000005 saved
+project countyUI > do-file relies on: "/Users/michael/Dropbox (Personal)/homebase/Raw Data/UI claims/PA UI claims/source.txt" filesig(559688659:242)
+project countyUI > do-file uses original: "/Users/michael/Dropbox (Personal)/homebase/Raw Data/UI claims/PA UI claims/UC_Continued_Claims_WIA.xlsx" filesig(1625274985:23397)
+(8 vars, 92 obs)
+(2 observations deleted)
+(note: j = December2020 January2019 January2020)
+
+Data                               wide   ->   long
+-----------------------------------------------------------------------------
+Number of obs.                       90   ->     270
+Number of variables                   4   ->       3
+j variable (3 values)                     ->   date
+xij variables:
+Continued_claimsDecember2020 Continued_claimsJanuary2019 Continued_claimsJanuary2020->Continued_claims
+-----------------------------------------------------------------------------
+file /var/folders/mw/4n6y_xgx2_1g1dgrtynw998c0000gn/T//S_66803.000006 saved
+
+. 
+. * Merge variables together 
+. use `Initial_temp', clear
+
+. merge 1:1 county_name date using `Continued_temp', assert(3) nogen
+
+    Result                           # of obs.
+    -----------------------------------------
+    not matched                             0
+    matched                               270  
+    -----------------------------------------
+
+. 
+. * Make variable names lower case
+. rename _all, lower
+
+. 
+. * Format the date variable
+. gen int date_numeric = date(date, "MY")
+
+. format date_numeric %td
+
+. drop date 
+
+. rename date_numeric date
+
+. sort county_name date
+
+. 
+. * Getting a crosswalk for county/state names and fips
+. preserve
+
+. project, original("${crosswalks}/cty_cz_st_crosswalk.csv") preserve
+project countyUI > do-file uses original: "/Users/michael/Dropbox (Personal)/homebase/Raw Data/crosswalks/cty_cz_st_crosswalk.csv" filesig(212155919:139356)
+
+. import delimited "${crosswalks}/cty_cz_st_crosswalk.csv", clear
+(7 vars, 3,138 obs)
+
+. keep county_name cty statename state_fips stateabbrv
+
+. rename (cty statename stateabbrv) (county_fips  state_name state_abbrev) 
+
+. keep if state_abbrev=="PA"
+(3,071 observations deleted)
+
+. 
+. tempfile PA_county_names 
+
+. save `PA_county_names'
+file /var/folders/mw/4n6y_xgx2_1g1dgrtynw998c0000gn/T//S_66803.000008 saved
+
+. restore
+
+. 
+. * Format names for merge
+. replace county_name = proper(county_name)
+(270 real changes made)
+
+. replace county_name = "McKean" if county_name=="Mckean"
+(3 real changes made)
+
+. 
+. 
+. * Merge in county name, state, name and fips
+. * Note that this merge will not work with assert(3) because there are some
+. * rows that are counties and some that are WFAs.
+. merge m:1 county_name using `PA_county_names', assert(1 3)
+(note: variable county_name was str20, now str31 to accommodate using data's values)
+
+    Result                           # of obs.
+    -----------------------------------------
+    not matched                            69
+        from master                        69  (_merge==1)
+        from using                          0  (_merge==2)
+
+    matched                               201  (_merge==3)
+    -----------------------------------------
+
+. * There are 22 WFAs and 1 aggregate. Over 3 months this should give 69 obs for _merge==1
+. count if _merge==1
+  69
+
+. assert r(N)==69
+
+. keep if _merge==3
+(69 observations deleted)
+
+. drop _merge
+
+. 
+. * Switch date to year / month
+. gen int year = year(date)
+
+. gen byte month = month(date)
+
+. drop date
+
+. 
+. * Order
+. order state* county* year month
+
+. 
+. * Check the ID
+. sort county_fips year month
+
+. isid county_fips year month
+
+. 
+. * Save
+. save "${output}/PA_monthly_county_UI.dta", replace
+file /Users/michael/Documents/git_repos/homebase-covid/data/derived/UI claims/PA_monthly_county_UI.dta saved
+
+. export delim "${output}/PA_monthly_county_UI.csv", replace
+(note: file /Users/michael/Documents/git_repos/homebase-covid/data/derived/UI claims/PA_monthly_county_UI.csv not found)
+file /Users/michael/Documents/git_repos/homebase-covid/data/derived/UI claims/PA_monthly_county_UI.csv saved
+
+. project, creates("${output}/PA_monthly_county_UI.dta")
+project countyUI > do-file creates: "data/derived/UI claims/PA_monthly_county_UI.dta" filesig(3634354833:22486)
+
+. project, creates("${output}/PA_monthly_county_UI.csv")
+project countyUI > do-file creates: "data/derived/UI claims/PA_monthly_county_UI.csv" filesig(3699679862:10205)
+
+. 
+end of do-file
+      name:  plog_35
+       log:  /Users/michael/Documents/git_repos/homebase-covid/code/UI claims/PA create monthly county level UI data.log
+  log type:  text
+ closed on:  16 Apr 2020, 14:14:57
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

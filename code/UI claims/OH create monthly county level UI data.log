@@ -1,0 +1,222 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+      name:  plog_24
+       log:  /Users/michael/Documents/git_repos/homebase-covid/code/UI claims/OH create monthly county level UI data.log
+  log type:  text
+ opened on:  16 Apr 2020, 14:14:56
+
+.  * Set $root
+. return clear
+
+. capture project, doinfo
+
+. if (_rc==0 & !mi(r(pname))) global root `r(pdir)'  // using -project-
+
+. else {  // running directly
+.         if ("${homebase_root}"=="") do `"`c(sysdir_personal)'profile.do"'
+.         do "${homebase_root}/code/set_environment.do"
+. }
+
+. 
+. * Create required folders
+. cap mkdir "${root}/data/derived/UI claims"
+
+. 
+. * Set convenient globals
+. global raw "${root}/data/raw/UI claims/OH UI claims"
+
+. global crosswalks "${root}/data/raw/crosswalks"
+
+. global output "${root}/data/derived/UI claims"
+
+. 
+. * looping over all files so we can append them 
+. local months "oct2019 nov2019 dec2019 jan2020 feb2020"
+
+. foreach month of local months {
+  2.         * Import excel file
+.         project, relies_on("${raw}/source.txt")
+  3.                 project, original("${raw}/ohio`month'_manual_edits.xlsx")
+  4.                 import excel "${raw}/ohio`month'_manual_edits.xlsx", ///
+>                          firstrow clear
+  5. 
+.         * Keep only non_missing rows and relevant variables
+.         keep county_name initial_claims continued_claims
+  6. 
+.         * Keep only county-level data
+.         keep if ~mi(county_name) & (regex(county_name, "Interstate Agent")!=1 & ///
+>                 regex(county_name, "Out of State")!=1 & regex(county_name, "Total")!=1)
+  7. 
+.         * Add a date variable
+.         gen date = "`month'"
+  8. 
+.         * Save a temp file to append
+.         tempfile OH_UI_`month'
+  9.         save `OH_UI_`month''
+ 10.         }
+project countyUI > do-file relies on: "/Users/michael/Dropbox (Personal)/homebase/Raw Data/UI claims/OH UI claims/source.txt" filesig(965688989:301)
+project countyUI > do-file uses original: "/Users/michael/Dropbox (Personal)/homebase/Raw Data/UI claims/OH UI claims/ohiooct2019_manual_edits.xlsx" filesig(2498435001:12895)
+(6 vars, 91 obs)
+(3 observations deleted)
+file /var/folders/mw/4n6y_xgx2_1g1dgrtynw998c0000gn/T//S_66803.000004 saved
+project countyUI > do-file relies on: "/Users/michael/Dropbox (Personal)/homebase/Raw Data/UI claims/OH UI claims/source.txt" filesig(965688989:301)
+project countyUI > do-file uses original: "/Users/michael/Dropbox (Personal)/homebase/Raw Data/UI claims/OH UI claims/ohionov2019_manual_edits.xlsx" filesig(1113921357:12832)
+(6 vars, 91 obs)
+(3 observations deleted)
+file /var/folders/mw/4n6y_xgx2_1g1dgrtynw998c0000gn/T//S_66803.000005 saved
+project countyUI > do-file relies on: "/Users/michael/Dropbox (Personal)/homebase/Raw Data/UI claims/OH UI claims/source.txt" filesig(965688989:301)
+project countyUI > do-file uses original: "/Users/michael/Dropbox (Personal)/homebase/Raw Data/UI claims/OH UI claims/ohiodec2019_manual_edits.xlsx" filesig(4231883283:12580)
+(6 vars, 91 obs)
+(3 observations deleted)
+file /var/folders/mw/4n6y_xgx2_1g1dgrtynw998c0000gn/T//S_66803.000006 saved
+project countyUI > do-file relies on: "/Users/michael/Dropbox (Personal)/homebase/Raw Data/UI claims/OH UI claims/source.txt" filesig(965688989:301)
+project countyUI > do-file uses original: "/Users/michael/Dropbox (Personal)/homebase/Raw Data/UI claims/OH UI claims/ohiojan2020_manual_edits.xlsx" filesig(2537850271:12884)
+(6 vars, 91 obs)
+(3 observations deleted)
+file /var/folders/mw/4n6y_xgx2_1g1dgrtynw998c0000gn/T//S_66803.000007 saved
+project countyUI > do-file relies on: "/Users/michael/Dropbox (Personal)/homebase/Raw Data/UI claims/OH UI claims/source.txt" filesig(965688989:301)
+project countyUI > do-file uses original: "/Users/michael/Dropbox (Personal)/homebase/Raw Data/UI claims/OH UI claims/ohiofeb2020_manual_edits.xlsx" filesig(1130573819:12828)
+(6 vars, 92 obs)
+(4 observations deleted)
+file /var/folders/mw/4n6y_xgx2_1g1dgrtynw998c0000gn/T//S_66803.000008 saved
+
+.         
+.         
+. * Append all years together
+. use `OH_UI_oct2019', clear
+
+. local months "nov2019 dec2019 jan2020 feb2020"
+
+. foreach month of local months {
+  2.         append using `OH_UI_`month''
+  3.         }       
+(note: variable county_name was str39, now str41 to accommodate using data's values)
+(note: variable continued_claims was str7, now str10 to accommodate using data's values)
+(note: variable county_name was str41, now str42 to accommodate using data's values)
+(note: variable initial_claims was str6, now str9 to accommodate using data's values)
+(note: variable continued_claims was str10, now str12 to accommodate using data's values)
+
+.                 
+. * Remove spaces "," from vars I want to destring and destring them
+. foreach var of varlist initial_claims continued_claims {
+  2.         replace `var' = subinstr(`var', ",", "", .)
+  3.         destring `var', replace
+  4.         }
+(4 real changes made)
+initial_claims: contains nonnumeric bytes; no replace
+(63 real changes made)
+continued_claims: contains nonnumeric bytes; no replace
+
+.         
+. * Clean the county names for merging
+. replace county_name = subinstr(county_name, ".", "", .)
+(440 real changes made)
+
+. replace county_name = strtrim(county_name)
+(108 real changes made)
+
+. * There are some pesky " "s still in the names, using charlist to fix this
+. project, relies_on("$root/code/ado_ssc/charlist.ado") preserve
+project countyUI > do-file relies on: "code/ado_ssc/charlist.ado" filesig(2894035130:726)
+
+. project, relies_on("$root/code/ado_ssc/charlist.sthlp") preserve
+project countyUI > do-file relies on: "code/ado_ssc/charlist.sthlp" filesig(1055868541:2323)
+
+. charlist county_name
+
+ ABCDEFGHJKLMNOPRSTUVWabcdefghiklmnoprstuwxyz
+
+. replace county_name = subinstr(county_name, char(10), "", .)
+(115 real changes made)
+
+. 
+. * Clean the date variable 
+. gen date_numeric = date(date, "MY")
+
+. format date_numeric %td
+
+. drop date
+
+. rename date_numeric date
+
+. sort county_name date
+
+. 
+. * Get a crosswalk for county names, state names, and fips
+. preserve
+
+. project, original("${crosswalks}/cty_cz_st_crosswalk.csv") preserve
+project countyUI > do-file uses original: "/Users/michael/Dropbox (Personal)/homebase/Raw Data/crosswalks/cty_cz_st_crosswalk.csv" filesig(212155919:139356)
+
+. import delimited "${crosswalks}/cty_cz_st_crosswalk.csv", clear
+(7 vars, 3,138 obs)
+
+. keep county_name cty statename state_fips stateabbrv
+
+. rename (cty statename stateabbrv) (county_fips  state_name state_abbrev) 
+
+. keep if state_abbrev=="OH"
+(3,050 observations deleted)
+
+. 
+. tempfile OH_county_names 
+
+. save `OH_county_names'
+file /var/folders/mw/4n6y_xgx2_1g1dgrtynw998c0000gn/T//S_66803.00000a saved
+
+. restore
+
+. 
+. * Merge in the fips and names
+. merge m:1 county_name using `OH_county_names', assert(3) nogen
+
+    Result                           # of obs.
+    -----------------------------------------
+    not matched                             0
+    matched                               440  
+    -----------------------------------------
+
+. 
+. * Label variables based on information from the Ohio Department of Job and
+. * Family Services https://ohiolmi.com/home/UIclaims
+. lab var initial_claims "initial claims, excluding transitional claims"
+
+. 
+. * Switch date to year / month
+. gen int year = year(date)
+
+. gen byte month = month(date)
+
+. drop date
+
+. 
+. * Order
+. order state* county* year month
+
+. 
+. * Check the ID
+. sort county_fips year month
+
+. isid county_fips year month
+
+. 
+. * Save
+. export delim  "${output}/OH_monthly_county_UI.csv", replace
+(note: file /Users/michael/Documents/git_repos/homebase-covid/data/derived/UI claims/OH_monthly_county_UI.csv not found)
+file /Users/michael/Documents/git_repos/homebase-covid/data/derived/UI claims/OH_monthly_county_UI.csv saved
+
+. save "${output}/OH_monthly_county_UI.dta", replace
+file /Users/michael/Documents/git_repos/homebase-covid/data/derived/UI claims/OH_monthly_county_UI.dta saved
+
+. project, creates("${output}/OH_monthly_county_UI.dta")
+project countyUI > do-file creates: "data/derived/UI claims/OH_monthly_county_UI.dta" filesig(1316338023:47235)
+
+. project, creates("${output}/OH_monthly_county_UI.csv")
+project countyUI > do-file creates: "data/derived/UI claims/OH_monthly_county_UI.csv" filesig(135661835:18331)
+
+. 
+end of do-file
+      name:  plog_24
+       log:  /Users/michael/Documents/git_repos/homebase-covid/code/UI claims/OH create monthly county level UI data.log
+  log type:  text
+ closed on:  16 Apr 2020, 14:14:57
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

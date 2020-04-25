@@ -1,0 +1,4 @@
+ohio`month'.pdf
+	Downloaded from https://ohiolmi.com/home/UIclaims on April 5, 2020 by Margaret Kallus. Laura converted to excel format
+	and then made some edits necessary to import into stata (ex: unmerging cells). All edited versions are saved with 
+	"_manual_edits" at the end of the file name. 

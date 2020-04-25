@@ -1,0 +1,86 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+      name:  plog_1
+       log:  /Users/michael/Documents/git_repos/homebase-covid/countyUI.log
+  log type:  text
+ opened on:  16 Apr 2020, 14:14:54
+
+. *** Initialization ***
+. version 14.1
+
+. set more off
+
+. set varabbrev off
+
+. 
+. project, doinfo
+project countyUI > Project Name: countyUI
+project countyUI > Project Dir.: /Users/michael/Documents/git_repos/homebase-covid
+project countyUI > Build start : 16apr2020, 14:14:54
+project countyUI > Do-file Name: countyUI.do
+
+. local pdir=r(pdir)
+
+. adopath ++ "`pdir'/code/ado_ssc"
+  [1]              "/Users/michael/Documents/git_repos/homebase-covid/code/ado_ssc"
+  [2]  (UPDATES)   "/Applications/Stata/ado/updates/"
+  [3]  (BASE)      "/Applications/Stata/ado/base/"
+  [4]  (SITE)      "/Applications/Stata/ado/site/"
+  [5]              "."
+  [6]  (PERSONAL)  "/Users/michael/Library/Application Support/Stata/ado/personal/"
+  [7]  (PLUS)      "/Users/michael/Library/Application Support/Stata/ado/plus/"
+  [8]  (OLDPLACE)  "~/ado/"
+
+. adopath ++ "`pdir'/code/ado"
+  [1]              "/Users/michael/Documents/git_repos/homebase-covid/code/ado"
+  [2]              "/Users/michael/Documents/git_repos/homebase-covid/code/ado_ssc"
+  [3]  (UPDATES)   "/Applications/Stata/ado/updates/"
+  [4]  (BASE)      "/Applications/Stata/ado/base/"
+  [5]  (SITE)      "/Applications/Stata/ado/site/"
+  [6]              "."
+  [7]  (PERSONAL)  "/Users/michael/Library/Application Support/Stata/ado/personal/"
+  [8]  (PLUS)      "/Users/michael/Library/Application Support/Stata/ado/plus/"
+  [9]  (OLDPLACE)  "~/ado/"
+
+. 
+. project, relies_on("`pdir'/code/set_environment.do")
+project countyUI > do-file relies on: "code/set_environment.do" filesig(1055379522:369)
+
+. 
+. *** Make required folders ***
+. cap mkdir "`pdir'/data/derived"
+
+. 
+. 
+. * Create monthly county level UI data
+. project, do("code/UI claims/CA create monthly county level UI data.do")
+project countyUI > do-file uses original: "code/UI claims/CA create monthly county level UI data.do" filesig(3025293593:3425)
+project countyUI > do-file creates: "code/UI claims/CA create monthly county level UI data.log" filesig(313092149:8303)
+
+. project, do("code/UI claims/GA create monthly county level UI data.do")
+project countyUI > do-file uses original: "code/UI claims/GA create monthly county level UI data.do" filesig(3026402147:2551)
+project countyUI > do-file creates: "code/UI claims/GA create monthly county level UI data.log" filesig(3242106254:5744)
+
+. project, do("code/UI claims/NY create monthly county level UI data.do")
+project countyUI > do-file uses original: "code/UI claims/NY create monthly county level UI data.do" filesig(2480144565:3607)
+project countyUI > do-file creates: "code/UI claims/NY create monthly county level UI data.log" filesig(1842268049:8677)
+
+. project, do("code/UI claims/OH create monthly county level UI data.do")
+project countyUI > do-file uses original: "code/UI claims/OH create monthly county level UI data.do" filesig(3648102063:3340)
+project countyUI > do-file creates: "code/UI claims/OH create monthly county level UI data.log" filesig(3265127226:8974)
+
+. project, do("code/UI claims/PA create monthly county level UI data.do")
+project countyUI > do-file uses original: "code/UI claims/PA create monthly county level UI data.do" filesig(2582941016:3033)
+project countyUI > do-file creates: "code/UI claims/PA create monthly county level UI data.log" filesig(3292264440:7816)
+
+. project, do("code/UI claims/WA create monthly county level UI data.do")
+project countyUI > do-file uses original: "code/UI claims/WA create monthly county level UI data.do" filesig(3023504574:2459)
+project countyUI > do-file creates: "code/UI claims/WA create monthly county level UI data.log" filesig(1444484715:5703)
+
+. 
+. 
+end of do-file
+      name:  plog_1
+       log:  /Users/michael/Documents/git_repos/homebase-covid/countyUI.log
+  log type:  text
+ closed on:  16 Apr 2020, 14:15:01
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

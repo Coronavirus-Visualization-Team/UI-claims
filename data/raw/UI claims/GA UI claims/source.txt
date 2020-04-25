@@ -1,0 +1,4 @@
+initialuiclaims 
+	Downloaded by Laura Kincaide on April 4, 2020 from https://dol.georgia.gov/current-labor-force-data-and-graphs.
+	Navigate to the webpage above and click the link Unemployment Insurance Initial Claims.pdf. I then used
+	Adobe's "Save as Excel" feature to get the data in a more useable format. 

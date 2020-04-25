@@ -1,0 +1,215 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+      name:  plog_15
+       log:  /Users/michael/Documents/git_repos/homebase-covid/code/UI claims/NY create monthly county level UI data.log
+  log type:  text
+ opened on:  16 Apr 2020, 14:14:56
+
+.  * Set $root
+. return clear
+
+. capture project, doinfo
+
+. if (_rc==0 & !mi(r(pname))) global root `r(pdir)'  // using -project-
+
+. else {  // running directly
+.         if ("${homebase_root}"=="") do `"`c(sysdir_personal)'profile.do"'
+.         do "${homebase_root}/code/set_environment.do"
+. }
+
+. 
+. * Create required folders
+. cap mkdir "${root}/data/derived/UI claims"
+
+. 
+. * Set convenient globals
+. global raw "${root}/data/raw/UI claims/NY UI claims"
+
+. global crosswalks "${root}/data/raw/crosswalks"
+
+. global output "${root}/data/derived/UI claims"
+
+. 
+. /*** Import and clean the county-level UI claims data for NY state. Output a
+> clean dataset that is long on county and date. 
+> ***/
+. 
+. * We could get more past months, I just chose October 2019 because 
+. * I couldn't find September 2019
+. * Loop over date tags to import monthly excel sheets
+. local dates "October-2019 November-2019 December-2019 January-2020 February-2020"
+
+. foreach date of local dates {
+  2.         project, relies_on("${raw}/source.txt")
+  3.         project, original("${raw}/Beneficiaries-and-Amounts-by-Region-and-County-`date'.xlsx")
+  4.         import excel "${raw}/Beneficiaries-and-Amounts-by-Region-and-County-`date'.xlsx", ///
+>                  cellrange(A3 ) clear
+  5. 
+.         * Keep only relevant vars
+.         keep B C E
+  6. 
+.         rename (B C E) (county_name initial_claims amount_paid)
+  7.         
+.         * Generate a date variable
+.         gen date = "`date'"
+  8. 
+.         
+.         
+.         * Save a tempfile for appending 
+.         * note that "-" seems to be illegal for tempfile names. Make a new local that
+.         * does not include -
+.         local filename = subinstr("`date'", "-", "", .)
+  9.         tempfile NY_UI_`filename'
+ 10.         save `NY_UI_`filename''
+ 11.          }
+project countyUI > do-file relies on: "/Users/michael/Dropbox (Personal)/homebase/Raw Data/UI claims/NY UI claims/source.txt" filesig(1425953173:749)
+project countyUI > do-file uses original: "/Users/michael/Dropbox (Personal)/homebase/Raw Data/UI claims/NY UI claims/Beneficiaries-and-Amounts-by-Region-and-County-October-2019.xlsx" filesig(216254112:10336)
+(7 vars, 78 obs)
+file /var/folders/mw/4n6y_xgx2_1g1dgrtynw998c0000gn/T//S_66803.000005 saved
+project countyUI > do-file relies on: "/Users/michael/Dropbox (Personal)/homebase/Raw Data/UI claims/NY UI claims/source.txt" filesig(1425953173:749)
+project countyUI > do-file uses original: "/Users/michael/Dropbox (Personal)/homebase/Raw Data/UI claims/NY UI claims/Beneficiaries-and-Amounts-by-Region-and-County-November-2019.xlsx" filesig(1744795665:10322)
+(7 vars, 78 obs)
+file /var/folders/mw/4n6y_xgx2_1g1dgrtynw998c0000gn/T//S_66803.000006 saved
+project countyUI > do-file relies on: "/Users/michael/Dropbox (Personal)/homebase/Raw Data/UI claims/NY UI claims/source.txt" filesig(1425953173:749)
+project countyUI > do-file uses original: "/Users/michael/Dropbox (Personal)/homebase/Raw Data/UI claims/NY UI claims/Beneficiaries-and-Amounts-by-Region-and-County-December-2019.xlsx" filesig(2741496735:10346)
+(7 vars, 78 obs)
+file /var/folders/mw/4n6y_xgx2_1g1dgrtynw998c0000gn/T//S_66803.000007 saved
+project countyUI > do-file relies on: "/Users/michael/Dropbox (Personal)/homebase/Raw Data/UI claims/NY UI claims/source.txt" filesig(1425953173:749)
+project countyUI > do-file uses original: "/Users/michael/Dropbox (Personal)/homebase/Raw Data/UI claims/NY UI claims/Beneficiaries-and-Amounts-by-Region-and-County-January-2020.xlsx" filesig(442152339:10008)
+(7 vars, 78 obs)
+file /var/folders/mw/4n6y_xgx2_1g1dgrtynw998c0000gn/T//S_66803.000008 saved
+project countyUI > do-file relies on: "/Users/michael/Dropbox (Personal)/homebase/Raw Data/UI claims/NY UI claims/source.txt" filesig(1425953173:749)
+project countyUI > do-file uses original: "/Users/michael/Dropbox (Personal)/homebase/Raw Data/UI claims/NY UI claims/Beneficiaries-and-Amounts-by-Region-and-County-February-2020.xlsx" filesig(148389864:10294)
+(7 vars, 78 obs)
+file /var/folders/mw/4n6y_xgx2_1g1dgrtynw998c0000gn/T//S_66803.000009 saved
+
+. 
+.         
+. * Append all months together
+. use `NY_UI_February2020', clear
+
+. local dates "October2019 November2019 December2019 January2020"
+
+. foreach date of local dates {
+  2.         append using `NY_UI_`date''
+  3. }
+
+. 
+. * Keep only county-level data (empty counties are cumulatives for residents, non
+. * residents, etc)
+. keep if ~mi(county_name) & county_name!="Regional Total"
+(80 observations deleted)
+
+. 
+. * Format the date variable 
+. replace date = subinstr(date, "-", " ", .)
+(310 real changes made)
+
+. gen date_numeric = date(date, "MY")
+
+. format date_numeric %td
+
+. drop date
+
+. rename date_numeric date
+
+. 
+. * getting a crosswalk for county names
+. preserve
+
+. project, original("${crosswalks}/cty_cz_st_crosswalk.csv") preserve
+project countyUI > do-file uses original: "/Users/michael/Dropbox (Personal)/homebase/Raw Data/crosswalks/cty_cz_st_crosswalk.csv" filesig(212155919:139356)
+
+. import delimited "${crosswalks}/cty_cz_st_crosswalk.csv", clear
+(7 vars, 3,138 obs)
+
+. keep county_name cty statename state_fips stateabbrv
+
+. rename (cty statename stateabbrv) (county_fips  state_name state_abbrev) 
+
+. keep if state_abbrev=="NY"
+(3,076 observations deleted)
+
+. replace county_name="St. Lawrence" if county_name=="St Lawrence"
+(1 real change made)
+
+. tempfile NY_county_names 
+
+. save `NY_county_names'
+file /var/folders/mw/4n6y_xgx2_1g1dgrtynw998c0000gn/T//S_66803.00000b saved
+
+. restore
+
+. 
+. *merging in county name, state, name and fips
+. merge m:1 county_name using `NY_county_names', assert(3) nogen
+(note: variable county_name was str14, now str31 to accommodate using data's values)
+
+    Result                           # of obs.
+    -----------------------------------------
+    not matched                             0
+    matched                               310  
+    -----------------------------------------
+
+. 
+. 
+. * NY State DOL codes missing as 1/ for initial claims and 2/ for amount paid 
+. replace initial_claims = "" if initial_claims=="1/" 
+(1 real change made)
+
+. replace amount_paid = "" if amount_paid=="2/"
+(0 real changes made)
+
+. 
+. * Destring key variables
+. destring initial_claims amount_paid, replace
+initial_claims: all characters numeric; replaced as int
+(1 missing value generated)
+amount_paid: all characters numeric; replaced as long
+
+. 
+. * Label variables based on the NY State Department of Labor 
+. * https://labor.ny.gov/stats/UI/Unemployment-Insurance-Data.shtm 
+. lab var initial_claims "Counts of beneficiaries of regular unemployment insurance"
+
+. lab var amount_paid "Dollar amount of benefits paid for regular unemployment insurance"
+
+. 
+. * Switch date to year / month
+. gen int year = year(date)
+
+. gen byte month = month(date)
+
+. drop date
+
+. 
+. * Order
+. order state* county* year month
+
+. 
+. * Check the ID
+. sort county_fips year month
+
+. isid county_fips year month
+
+. 
+. * Save
+. save "${output}/NY_monthly_county_UI.dta", replace
+file /Users/michael/Documents/git_repos/homebase-covid/data/derived/UI claims/NY_monthly_county_UI.dta saved
+
+. export delim  "${output}/NY_monthly_county_UI.csv", replace
+(note: file /Users/michael/Documents/git_repos/homebase-covid/data/derived/UI claims/NY_monthly_county_UI.csv not found)
+file /Users/michael/Documents/git_repos/homebase-covid/data/derived/UI claims/NY_monthly_county_UI.csv saved
+
+. project, creates("${output}/NY_monthly_county_UI.dta")
+project countyUI > do-file creates: "data/derived/UI claims/NY_monthly_county_UI.dta" filesig(812097161:28299)
+
+. project, creates("${output}/NY_monthly_county_UI.csv")
+project countyUI > do-file creates: "data/derived/UI claims/NY_monthly_county_UI.csv" filesig(3246435693:15288)
+
+. 
+end of do-file
+      name:  plog_15
+       log:  /Users/michael/Documents/git_repos/homebase-covid/code/UI claims/NY create monthly county level UI data.log
+  log type:  text
+ closed on:  16 Apr 2020, 14:14:56
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

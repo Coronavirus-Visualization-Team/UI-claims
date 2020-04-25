@@ -1,0 +1,5 @@
+qsui-Initial_Claims_by_County_year
+	Downloaded by Laura Kincaide from https://www.edd.ca.gov/about_edd/Quick_Statistics_Information_by_County.htm
+	on April 5, 2020. Naviage to the web address above, and find the header "Initial Claims by County", and select
+	the relevant time period. Note that these are pdfs and I then used Adobe Acrobat's "Conver to Excel" feature
+	to save the data in a more useful format. 

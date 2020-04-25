@@ -1,0 +1,4 @@
+UC_Initial_Claims_WIA
+	Downloaded from https://www.workstats.dli.pa.gov/Products/UCActivity/Pages/default.aspx
+	by Laura Kincaide on April 4, 2020. Navigate to the webpage, the find the hyper link
+	for the Excel version of "Initial Claims"

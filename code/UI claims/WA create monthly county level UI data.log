@@ -1,0 +1,170 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+      name:  plog_41
+       log:  /Users/michael/Documents/git_repos/homebase-covid/code/UI claims/WA create monthly county level UI data.log
+  log type:  text
+ opened on:  16 Apr 2020, 14:14:57
+
+.  * Set $root
+. return clear
+
+. capture project, doinfo
+
+. if (_rc==0 & !mi(r(pname))) global root `r(pdir)'  // using -project-
+
+. else {  // running directly
+.         if ("${homebase_root}"=="") do `"`c(sysdir_personal)'profile.do"'
+.         do "${homebase_root}/code/set_environment.do"
+. }
+
+. 
+. * Create required folders
+. cap mkdir "${root}/data/derived/UI claims"
+
+. 
+. * Set convenient globals
+. global raw "${root}/data/raw/UI claims/WA UI claims"
+
+. global crosswalks "${root}/data/raw/crosswalks"
+
+. global output "${root}/data/derived/UI claims"
+
+. 
+. 
+. /*** Import and clean the county-level UI claims data for WA. Output a
+> clean dataset that is long on county and date. 
+> ***/
+. 
+. * Note that we could get more past months, I just chose Jan 2019 to have a full year
+. * Import the raw data
+. project, relies_on("${raw}/source.txt")
+project countyUI > do-file relies on: "/Users/michael/Dropbox (Personal)/homebase/Raw Data/UI claims/WA UI claims/source.txt" filesig(739497751:223)
+
+. project, original("${raw}/IC_CC_Monthly_County.xlsx")
+project countyUI > do-file uses original: "/Users/michael/Dropbox (Personal)/homebase/Raw Data/UI claims/WA UI claims/IC_CC_Monthly_County.xlsx" filesig(439174926:756872)
+
+. import excel "${raw}/IC_CC_Monthly_County.xlsx", firstrow
+(24 vars, 14,560 obs)
+
+. 
+. * Keep relevant time period
+. keep if Yr>=2019
+(13,440 observations deleted)
+
+. 
+. * Keep only county-level data (ie, dropping this aggregate)
+. drop if CountyArea=="WASHINGTON STATE"
+(28 observations deleted)
+
+. 
+. * Rename variables
+. rename _all, lower
+
+. rename (countyarea )    (county_name)
+
+. 
+. * Keep relevant variables
+. keep county_name claimtype date claims
+
+. 
+. * Clean the claimtype variable for reshaping
+. replace claimtype = subinstr(claimtype, " claims", "", .)
+(1,092 real changes made)
+
+. 
+. * Rehape to be wide on claim type
+. reshape wide claims, i(county_name date) j(claimtype) string
+(note: j = Continued Initial)
+
+Data                               long   ->   wide
+-----------------------------------------------------------------------------
+Number of obs.                     1092   ->     546
+Number of variables                   4   ->       4
+j variable (2 values)         claimtype   ->   (dropped)
+xij variables:
+                                 claims   ->   claimsContinued claimsInitial
+-----------------------------------------------------------------------------
+
+. 
+. * Renaming after the reshape 
+. rename (claimsContinued claimsInitial) (continued_claims initial_claims)
+
+. 
+. * Adding in fips data
+. preserve
+
+. project, original("${crosswalks}/cty_cz_st_crosswalk.csv") preserve
+project countyUI > do-file uses original: "/Users/michael/Dropbox (Personal)/homebase/Raw Data/crosswalks/cty_cz_st_crosswalk.csv" filesig(212155919:139356)
+
+. import delimited "${crosswalks}/cty_cz_st_crosswalk.csv", clear
+(7 vars, 3,138 obs)
+
+. keep county_name cty statename state_fips stateabbrv
+
+. rename (cty statename stateabbrv) (county_fips  state_name state_abbrev) 
+
+. keep if state_abbrev=="WA"
+(3,099 observations deleted)
+
+. tempfile WA_county_names 
+
+. save `WA_county_names'
+file /var/folders/mw/4n6y_xgx2_1g1dgrtynw998c0000gn/T//S_66803.000006 saved
+
+. restore
+
+. 
+. * Format county_name for merging
+. replace county_name = proper(county_name)
+(546 real changes made)
+
+. 
+. * Merge on Fips data
+. merge m:1 county_name using `WA_county_names', assert(3) nogen
+(note: variable county_name was str16, now str31 to accommodate using data's values)
+
+    Result                           # of obs.
+    -----------------------------------------
+    not matched                             0
+    matched                               546  
+    -----------------------------------------
+
+. 
+. * Switch date to year / month
+. gen int year = year(date)
+
+. gen byte month = month(date)
+
+. drop date
+
+. 
+. * Order
+. order state* county* year month
+
+. 
+. * Check the ID
+. sort county_fips year month
+
+. isid county_fips year month
+
+. 
+. * Save
+. save "${output}/WA_monthly_county_UI.dta", replace
+file /Users/michael/Documents/git_repos/homebase-covid/data/derived/UI claims/WA_monthly_county_UI.dta saved
+
+. export delim "${output}/WA_monthly_county_UI.csv", replace
+(note: file /Users/michael/Documents/git_repos/homebase-covid/data/derived/UI claims/WA_monthly_county_UI.csv not found)
+file /Users/michael/Documents/git_repos/homebase-covid/data/derived/UI claims/WA_monthly_county_UI.csv saved
+
+. project, creates("${output}/WA_monthly_county_UI.dta")
+project countyUI > do-file creates: "data/derived/UI claims/WA_monthly_county_UI.dta" filesig(3096852090:46796)
+
+. project, creates("${output}/WA_monthly_county_UI.csv")
+project countyUI > do-file creates: "data/derived/UI claims/WA_monthly_county_UI.csv" filesig(3466479296:25394)
+
+. 
+end of do-file
+      name:  plog_41
+       log:  /Users/michael/Documents/git_repos/homebase-covid/code/UI claims/WA create monthly county level UI data.log
+  log type:  text
+ closed on:  16 Apr 2020, 14:15:01
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
