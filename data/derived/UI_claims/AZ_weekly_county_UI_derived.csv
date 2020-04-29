@@ -1,0 +1,181 @@
+﻿state_name,state_fips,state_abbrev,county_name,county_fips,year,week,initial_claims
+Arizona,04,AZ,Apache,001,2020,5,16
+Arizona,04,AZ,Cochise,003,2020,5,38
+Arizona,04,AZ,Coconino,005,2020,5,46
+Arizona,04,AZ,Gila,007,2020,5,17
+Arizona,04,AZ,Graham,009,2020,5,7
+Arizona,04,AZ,Greenlee,011,2020,5,0
+Arizona,04,AZ,La Paz,012,2020,5,10
+Arizona,04,AZ,Maricopa,013,2020,5,"1,319"
+Arizona,04,AZ,Mohave,015,2020,5,45
+Arizona,04,AZ,Navajo,017,2020,5,40
+Arizona,04,AZ,Pima,019,2020,5,276
+Arizona,04,AZ,Pinal,021,2020,5,111
+Arizona,04,AZ,Santa Cruz,023,2020,5,13
+Arizona,04,AZ,Yavapai,025,2020,5,54
+Arizona,04,AZ,Yuma,027,2020,5,72
+Arizona,04,AZ,Apache,001,2020,6,20
+Arizona,04,AZ,Cochise,003,2020,6,22
+Arizona,04,AZ,Coconino,005,2020,6,46
+Arizona,04,AZ,Gila,007,2020,6,10
+Arizona,04,AZ,Graham,009,2020,6,8
+Arizona,04,AZ,Greenlee,011,2020,6,1
+Arizona,04,AZ,La Paz,012,2020,6,2
+Arizona,04,AZ,Maricopa,013,2020,6,"1,305"
+Arizona,04,AZ,Mohave,015,2020,6,48
+Arizona,04,AZ,Navajo,017,2020,6,37
+Arizona,04,AZ,Pima,019,2020,6,257
+Arizona,04,AZ,Pinal,021,2020,6,121
+Arizona,04,AZ,Santa Cruz,023,2020,6,13
+Arizona,04,AZ,Yavapai,025,2020,6,49
+Arizona,04,AZ,Yuma,027,2020,6,68
+Arizona,04,AZ,Apache,001,2020,7,15
+Arizona,04,AZ,Cochise,003,2020,7,26
+Arizona,04,AZ,Coconino,005,2020,7,27
+Arizona,04,AZ,Gila,007,2020,7,15
+Arizona,04,AZ,Graham,009,2020,7,8
+Arizona,04,AZ,Greenlee,011,2020,7,0
+Arizona,04,AZ,La Paz,012,2020,7,4
+Arizona,04,AZ,Maricopa,013,2020,7,"1,272"
+Arizona,04,AZ,Mohave,015,2020,7,45
+Arizona,04,AZ,Navajo,017,2020,7,35
+Arizona,04,AZ,Pima,019,2020,7,230
+Arizona,04,AZ,Pinal,021,2020,7,108
+Arizona,04,AZ,Santa Cruz,023,2020,7,9
+Arizona,04,AZ,Yavapai,025,2020,7,47
+Arizona,04,AZ,Yuma,027,2020,7,90
+Arizona,04,AZ,Apache,001,2020,8,16
+Arizona,04,AZ,Cochise,003,2020,8,23
+Arizona,04,AZ,Coconino,005,2020,8,29
+Arizona,04,AZ,Gila,007,2020,8,16
+Arizona,04,AZ,Graham,009,2020,8,15
+Arizona,04,AZ,Greenlee,011,2020,8,1
+Arizona,04,AZ,La Paz,012,2020,8,8
+Arizona,04,AZ,Maricopa,013,2020,8,"1,070"
+Arizona,04,AZ,Mohave,015,2020,8,52
+Arizona,04,AZ,Navajo,017,2020,8,33
+Arizona,04,AZ,Pima,019,2020,8,226
+Arizona,04,AZ,Pinal,021,2020,8,107
+Arizona,04,AZ,Santa Cruz,023,2020,8,10
+Arizona,04,AZ,Yavapai,025,2020,8,50
+Arizona,04,AZ,Yuma,027,2020,8,57
+Arizona,04,AZ,Apache,001,2020,9,16
+Arizona,04,AZ,Cochise,003,2020,9,28
+Arizona,04,AZ,Coconino,005,2020,9,20
+Arizona,04,AZ,Gila,007,2020,9,15
+Arizona,04,AZ,Graham,009,2020,9,9
+Arizona,04,AZ,Greenlee,011,2020,9,2
+Arizona,04,AZ,La Paz,012,2020,9,4
+Arizona,04,AZ,Maricopa,013,2020,9,"1,002"
+Arizona,04,AZ,Mohave,015,2020,9,42
+Arizona,04,AZ,Navajo,017,2020,9,26
+Arizona,04,AZ,Pima,019,2020,9,220
+Arizona,04,AZ,Pinal,021,2020,9,95
+Arizona,04,AZ,Santa Cruz,023,2020,9,14
+Arizona,04,AZ,Yavapai,025,2020,9,46
+Arizona,04,AZ,Yuma,027,2020,9,58
+Arizona,04,AZ,Apache,001,2020,10,13
+Arizona,04,AZ,Cochise,003,2020,10,23
+Arizona,04,AZ,Coconino,005,2020,10,40
+Arizona,04,AZ,Gila,007,2020,10,13
+Arizona,04,AZ,Graham,009,2020,10,10
+Arizona,04,AZ,Greenlee,011,2020,10,3
+Arizona,04,AZ,La Paz,012,2020,10,3
+Arizona,04,AZ,Maricopa,013,2020,10,"1,088"
+Arizona,04,AZ,Mohave,015,2020,10,55
+Arizona,04,AZ,Navajo,017,2020,10,19
+Arizona,04,AZ,Pima,019,2020,10,259
+Arizona,04,AZ,Pinal,021,2020,10,79
+Arizona,04,AZ,Santa Cruz,023,2020,10,12
+Arizona,04,AZ,Yavapai,025,2020,10,47
+Arizona,04,AZ,Yuma,027,2020,10,59
+Arizona,04,AZ,Apache,001,2020,11,11
+Arizona,04,AZ,Cochise,003,2020,11,31
+Arizona,04,AZ,Coconino,005,2020,11,38
+Arizona,04,AZ,Gila,007,2020,11,7
+Arizona,04,AZ,Graham,009,2020,11,6
+Arizona,04,AZ,Greenlee,011,2020,11,2
+Arizona,04,AZ,La Paz,012,2020,11,6
+Arizona,04,AZ,Maricopa,013,2020,11,"1,264"
+Arizona,04,AZ,Mohave,015,2020,11,49
+Arizona,04,AZ,Navajo,017,2020,11,29
+Arizona,04,AZ,Pima,019,2020,11,259
+Arizona,04,AZ,Pinal,021,2020,11,111
+Arizona,04,AZ,Santa Cruz,023,2020,11,9
+Arizona,04,AZ,Yavapai,025,2020,11,47
+Arizona,04,AZ,Yuma,027,2020,11,91
+Arizona,04,AZ,Apache,001,2020,12,45
+Arizona,04,AZ,Cochise,003,2020,12,94
+Arizona,04,AZ,Coconino,005,2020,12,569
+Arizona,04,AZ,Gila,007,2020,12,29
+Arizona,04,AZ,Graham,009,2020,12,15
+Arizona,04,AZ,Greenlee,011,2020,12,4
+Arizona,04,AZ,La Paz,012,2020,12,11
+Arizona,04,AZ,Maricopa,013,2020,12,"13,323"
+Arizona,04,AZ,Mohave,015,2020,12,289
+Arizona,04,AZ,Navajo,017,2020,12,121
+Arizona,04,AZ,Pima,019,2020,12,"2,958"
+Arizona,04,AZ,Pinal,021,2020,12,697
+Arizona,04,AZ,Santa Cruz,023,2020,12,76
+Arizona,04,AZ,Yavapai,025,2020,12,598
+Arizona,04,AZ,Yuma,027,2020,12,228
+Arizona,04,AZ,Apache,001,2020,13,154
+Arizona,04,AZ,Cochise,003,2020,13,459
+Arizona,04,AZ,Coconino,005,2020,13,"1,700"
+Arizona,04,AZ,Gila,007,2020,13,163
+Arizona,04,AZ,Graham,009,2020,13,67
+Arizona,04,AZ,Greenlee,011,2020,13,16
+Arizona,04,AZ,La Paz,012,2020,13,35
+Arizona,04,AZ,Maricopa,013,2020,13,"37,433"
+Arizona,04,AZ,Mohave,015,2020,13,"1,312"
+Arizona,04,AZ,Navajo,017,2020,13,391
+Arizona,04,AZ,Pima,019,2020,13,"7,255"
+Arizona,04,AZ,Pinal,021,2020,13,"2,412"
+Arizona,04,AZ,Santa Cruz,023,2020,13,256
+Arizona,04,AZ,Yavapai,025,2020,13,"2,271"
+Arizona,04,AZ,Yuma,027,2020,13,"1,017"
+Arizona,04,AZ,Apache,001,2020,14,192
+Arizona,04,AZ,Cochise,003,2020,14,608
+Arizona,04,AZ,Coconino,005,2020,14,"1,729"
+Arizona,04,AZ,Gila,007,2020,14,384
+Arizona,04,AZ,Graham,009,2020,14,153
+Arizona,04,AZ,Greenlee,011,2020,14,17
+Arizona,04,AZ,La Paz,012,2020,14,74
+Arizona,04,AZ,Maricopa,013,2020,14,"47,986"
+Arizona,04,AZ,Mohave,015,2020,14,"1,443"
+Arizona,04,AZ,Navajo,017,2020,14,623
+Arizona,04,AZ,Pima,019,2020,14,"10,189"
+Arizona,04,AZ,Pinal,021,2020,14,"3,343"
+Arizona,04,AZ,Santa Cruz,023,2020,14,365
+Arizona,04,AZ,Yavapai,025,2020,14,"2,154"
+Arizona,04,AZ,Yuma,027,2020,14,"1,526"
+Arizona,04,AZ,Apache,001,2020,15,153
+Arizona,04,AZ,Cochise,003,2020,15,472
+Arizona,04,AZ,Coconino,005,2020,15,"1,078"
+Arizona,04,AZ,Gila,007,2020,15,177
+Arizona,04,AZ,Graham,009,2020,15,65
+Arizona,04,AZ,Greenlee,011,2020,15,12
+Arizona,04,AZ,La Paz,012,2020,15,50
+Arizona,04,AZ,Maricopa,013,2020,15,"32,308"
+Arizona,04,AZ,Mohave,015,2020,15,986
+Arizona,04,AZ,Navajo,017,2020,15,449
+Arizona,04,AZ,Pima,019,2020,15,"6,798"
+Arizona,04,AZ,Pinal,021,2020,15,"2,241"
+Arizona,04,AZ,Santa Cruz,023,2020,15,217
+Arizona,04,AZ,Yavapai,025,2020,15,"1,397"
+Arizona,04,AZ,Yuma,027,2020,15,"1,852"
+Arizona,04,AZ,Apache,001,2020,16,112
+Arizona,04,AZ,Cochise,003,2020,16,333
+Arizona,04,AZ,Coconino,005,2020,16,821
+Arizona,04,AZ,Gila,007,2020,16,124
+Arizona,04,AZ,Graham,009,2020,16,59
+Arizona,04,AZ,Greenlee,011,2020,16,15
+Arizona,04,AZ,La Paz,012,2020,16,27
+Arizona,04,AZ,Maricopa,013,2020,16,"23,139"
+Arizona,04,AZ,Mohave,015,2020,16,630
+Arizona,04,AZ,Navajo,017,2020,16,266
+Arizona,04,AZ,Pima,019,2020,16,"4,865"
+Arizona,04,AZ,Pinal,021,2020,16,"1,552"
+Arizona,04,AZ,Santa Cruz,023,2020,16,157
+Arizona,04,AZ,Yavapai,025,2020,16,"1,026"
+Arizona,04,AZ,Yuma,027,2020,16,"1,554"
