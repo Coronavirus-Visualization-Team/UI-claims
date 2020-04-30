@@ -1,0 +1,385 @@
+state_name,state_fips,state_abbrev,county_name,county_fips,year,week,initial_claims
+Colorado,8,CO,Adams,8001,2020,15,5138
+Colorado,8,CO,Alamosa,8003,2020,15,137
+Colorado,8,CO,Arapahoe,8005,2020,15,7229
+Colorado,8,CO,Archuleta,8007,2020,15,195
+Colorado,8,CO,Baca,8009,2020,15,30
+Colorado,8,CO,Bent,8011,2020,15,24
+Colorado,8,CO,Broomfield,08-09280,2020,15,2911
+Colorado,8,CO,Boulder,8013,2020,15,699
+Colorado,8,CO,Chaffee,8015,2020,15,183
+Colorado,8,CO,Cheyenne,8017,2020,15,23
+Colorado,8,CO,Clear Creek,8019,2020,15,189
+Colorado,8,CO,Conejos,8021,2020,15,71
+Colorado,8,CO,Costilla,8023,2020,15,26
+Colorado,8,CO,Crowley,8025,2020,15,24
+Colorado,8,CO,Custer,8027,2020,15,36
+Colorado,8,CO,Delta,8029,2020,15,181
+Colorado,8,CO,Denver,8031,2020,15,8229
+Colorado,8,CO,Dolores,8033,2020,15,52
+Colorado,8,CO,Douglas,8035,2020,15,2952
+Colorado,8,CO,Eagle,8037,2020,15,1129
+Colorado,8,CO,Elbert,8039,2020,15,161
+Colorado,8,CO,El Paso,8041,2020,15,5737
+Colorado,8,CO,Fremont,8043,2020,15,206
+Colorado,8,CO,Garfield,8045,2020,15,676
+Colorado,8,CO,Gilpin,8047,2020,15,146
+Colorado,8,CO,Grand,8049,2020,15,282
+Colorado,8,CO,Gunnison,8051,2020,15,288
+Colorado,8,CO,Hinsdale,8053,2020,15,27
+Colorado,8,CO,Huerfano,8055,2020,15,51
+Colorado,8,CO,Jackson,8057,2020,15,22
+Colorado,8,CO,Jefferson,8059,2020,15,5849
+Colorado,8,CO,Kiowa,8061,2020,15,29
+Colorado,8,CO,Kit Carson,8063,2020,15,29
+Colorado,8,CO,Lake,8065,2020,15,129
+Colorado,8,CO,La Plata,8067,2020,15,553
+Colorado,8,CO,Larimer,8069,2020,15,3416
+Colorado,8,CO,Las Animas,8071,2020,15,128
+Colorado,8,CO,Lincoln,8073,2020,15,45
+Colorado,8,CO,Logan,8075,2020,15,101
+Colorado,8,CO,Mesa,8077,2020,15,1270
+Colorado,8,CO,Mineral,8079,2020,15,20
+Colorado,8,CO,Moffat,8081,2020,15,94
+Colorado,8,CO,Montezuma,8083,2020,15,175
+Colorado,8,CO,Montrose,8085,2020,15,333
+Colorado,8,CO,Morgan,8087,2020,15,113
+Colorado,8,CO,Otero,8089,2020,15,83
+Colorado,8,CO,Ouray,8091,2020,15,80
+Colorado,8,CO,Park,8093,2020,15,172
+Colorado,8,CO,Phillips,8095,2020,15,35
+Colorado,8,CO,Pitkin,8097,2020,15,383
+Colorado,8,CO,Prowers,8099,2020,15,45
+Colorado,8,CO,Pueblo,8101,2020,15,1138
+Colorado,8,CO,Rio Blanco,8103,2020,15,37
+Colorado,8,CO,Rio Grande,8105,2020,15,59
+Colorado,8,CO,Routt,8107,2020,15,411
+Colorado,8,CO,Saguache,8109,2020,15,31
+Colorado,8,CO,San Juan,8111,2020,15,19
+Colorado,8,CO,San Miguel,8113,2020,15,273
+Colorado,8,CO,Sedgwick,8115,2020,15,6
+Colorado,8,CO,Summit,8117,2020,15,827
+Colorado,8,CO,Teller,8119,2020,15,221
+Colorado,8,CO,Washington,8121,2020,15,29
+Colorado,8,CO,Weld,8123,2020,15,2652
+Colorado,8,CO,Yuma,8125,2020,15,20
+Colorado,8,CO,Adams,8001,2020,14,7435
+Colorado,8,CO,Alamosa,8003,2020,14,195
+Colorado,8,CO,Arapahoe,8005,2020,14,10288
+Colorado,8,CO,Archuleta,8007,2020,14,224
+Colorado,8,CO,Baca,8009,2020,14,29
+Colorado,8,CO,Bent,8011,2020,14,30
+Colorado,8,CO,Broomfield,08-09280,2020,14,4060
+Colorado,8,CO,Boulder,8013,2020,14,976
+Colorado,8,CO,Chaffee,8015,2020,14,229
+Colorado,8,CO,Cheyenne,8017,2020,14,24
+Colorado,8,CO,Clear Creek,8019,2020,14,214
+Colorado,8,CO,Conejos,8021,2020,14,80
+Colorado,8,CO,Costilla,8023,2020,14,28
+Colorado,8,CO,Crowley,8025,2020,14,44
+Colorado,8,CO,Custer,8027,2020,14,44
+Colorado,8,CO,Delta,8029,2020,14,239
+Colorado,8,CO,Denver,8031,2020,14,11606
+Colorado,8,CO,Dolores,8033,2020,14,46
+Colorado,8,CO,Douglas,8035,2020,14,4247
+Colorado,8,CO,Eagle,8037,2020,14,1709
+Colorado,8,CO,Elbert,8039,2020,14,261
+Colorado,8,CO,El Paso,8041,2020,14,8444
+Colorado,8,CO,Fremont,8043,2020,14,287
+Colorado,8,CO,Garfield,8045,2020,14,1015
+Colorado,8,CO,Gilpin,8047,2020,14,221
+Colorado,8,CO,Grand,8049,2020,14,435
+Colorado,8,CO,Gunnison,8051,2020,14,366
+Colorado,8,CO,Hinsdale,8053,2020,14,29
+Colorado,8,CO,Huerfano,8055,2020,14,49
+Colorado,8,CO,Jackson,8057,2020,14,26
+Colorado,8,CO,Jefferson,8059,2020,14,8502
+Colorado,8,CO,Kiowa,8061,2020,14,13
+Colorado,8,CO,Kit Carson,8063,2020,14,40
+Colorado,8,CO,Lake,8065,2020,14,200
+Colorado,8,CO,La Plata,8067,2020,14,877
+Colorado,8,CO,Larimer,8069,2020,14,5146
+Colorado,8,CO,Las Animas,8071,2020,14,131
+Colorado,8,CO,Lincoln,8073,2020,14,60
+Colorado,8,CO,Logan,8075,2020,14,114
+Colorado,8,CO,Mesa,8077,2020,14,1958
+Colorado,8,CO,Mineral,8079,2020,14,25
+Colorado,8,CO,Moffat,8081,2020,14,157
+Colorado,8,CO,Montezuma,8083,2020,14,240
+Colorado,8,CO,Montrose,8085,2020,14,493
+Colorado,8,CO,Morgan,8087,2020,14,215
+Colorado,8,CO,Otero,8089,2020,14,80
+Colorado,8,CO,Ouray,8091,2020,14,105
+Colorado,8,CO,Park,8093,2020,14,250
+Colorado,8,CO,Phillips,8095,2020,14,48
+Colorado,8,CO,Pitkin,8097,2020,14,637
+Colorado,8,CO,Prowers,8099,2020,14,46
+Colorado,8,CO,Pueblo,8101,2020,14,1761
+Colorado,8,CO,Rio Blanco,8103,2020,14,43
+Colorado,8,CO,Rio Grande,8105,2020,14,79
+Colorado,8,CO,Routt,8107,2020,14,682
+Colorado,8,CO,Saguache,8109,2020,14,62
+Colorado,8,CO,San Juan,8111,2020,14,30
+Colorado,8,CO,San Miguel,8113,2020,14,307
+Colorado,8,CO,Sedgwick,8115,2020,14,11
+Colorado,8,CO,Summit,8117,2020,14,1277
+Colorado,8,CO,Teller,8119,2020,14,375
+Colorado,8,CO,Washington,8121,2020,14,31
+Colorado,8,CO,Weld,8123,2020,14,3539
+Colorado,8,CO,Yuma,8125,2020,14,31
+Colorado,8,CO,Adams,8001,2020,13,7729
+Colorado,8,CO,Alamosa,8003,2020,13,184
+Colorado,8,CO,Arapahoe,8005,2020,13,10171
+Colorado,8,CO,Archuleta,8007,2020,13,268
+Colorado,8,CO,Baca,8009,2020,13,18
+Colorado,8,CO,Bent,8011,2020,13,21
+Colorado,8,CO,Broomfield,08-09280,2020,13,4386
+Colorado,8,CO,Boulder,8013,2020,13,931
+Colorado,8,CO,Chaffee,8015,2020,13,356
+Colorado,8,CO,Cheyenne,8017,2020,13,8
+Colorado,8,CO,Clear Creek,8019,2020,13,238
+Colorado,8,CO,Conejos,8021,2020,13,90
+Colorado,8,CO,Costilla,8023,2020,13,28
+Colorado,8,CO,Crowley,8025,2020,13,20
+Colorado,8,CO,Custer,8027,2020,13,53
+Colorado,8,CO,Delta,8029,2020,13,305
+Colorado,8,CO,Denver,8031,2020,13,12576
+Colorado,8,CO,Dolores,8033,2020,13,43
+Colorado,8,CO,Douglas,8035,2020,13,4287
+Colorado,8,CO,Eagle,8037,2020,13,1975
+Colorado,8,CO,Elbert,8039,2020,13,218
+Colorado,8,CO,El Paso,8041,2020,13,9801
+Colorado,8,CO,Fremont,8043,2020,13,343
+Colorado,8,CO,Garfield,8045,2020,13,1160
+Colorado,8,CO,Gilpin,8047,2020,13,276
+Colorado,8,CO,Grand,8049,2020,13,448
+Colorado,8,CO,Gunnison,8051,2020,13,437
+Colorado,8,CO,Hinsdale,8053,2020,13,6
+Colorado,8,CO,Huerfano,8055,2020,13,53
+Colorado,8,CO,Jackson,8057,2020,13,16
+Colorado,8,CO,Jefferson,8059,2020,13,9424
+Colorado,8,CO,Kiowa,8061,2020,13,12
+Colorado,8,CO,Kit Carson,8063,2020,13,22
+Colorado,8,CO,Lake,8065,2020,13,223
+Colorado,8,CO,La Plata,8067,2020,13,1130
+Colorado,8,CO,Larimer,8069,2020,13,5505
+Colorado,8,CO,Las Animas,8071,2020,13,118
+Colorado,8,CO,Lincoln,8073,2020,13,38
+Colorado,8,CO,Logan,8075,2020,13,142
+Colorado,8,CO,Mesa,8077,2020,13,2288
+Colorado,8,CO,Mineral,8079,2020,13,9
+Colorado,8,CO,Moffat,8081,2020,13,160
+Colorado,8,CO,Montezuma,8083,2020,13,257
+Colorado,8,CO,Montrose,8085,2020,13,596
+Colorado,8,CO,Morgan,8087,2020,13,191
+Colorado,8,CO,Otero,8089,2020,13,103
+Colorado,8,CO,Ouray,8091,2020,13,123
+Colorado,8,CO,Park,8093,2020,13,265
+Colorado,8,CO,Phillips,8095,2020,13,27
+Colorado,8,CO,Pitkin,8097,2020,13,630
+Colorado,8,CO,Prowers,8099,2020,13,53
+Colorado,8,CO,Pueblo,8101,2020,13,2006
+Colorado,8,CO,Rio Blanco,8103,2020,13,39
+Colorado,8,CO,Rio Grande,8105,2020,13,116
+Colorado,8,CO,Routt,8107,2020,13,838
+Colorado,8,CO,Saguache,8109,2020,13,51
+Colorado,8,CO,San Juan,8111,2020,13,26
+Colorado,8,CO,San Miguel,8113,2020,13,368
+Colorado,8,CO,Sedgwick,8115,2020,13,9
+Colorado,8,CO,Summit,8117,2020,13,1231
+Colorado,8,CO,Teller,8119,2020,13,502
+Colorado,8,CO,Washington,8121,2020,13,15
+Colorado,8,CO,Weld,8123,2020,13,3521
+Colorado,8,CO,Yuma,8125,2020,13,17
+Colorado,8,CO,Adams,8001,2020,12,2228
+Colorado,8,CO,Alamosa,8003,2020,12,35
+Colorado,8,CO,Arapahoe,8005,2020,12,2848
+Colorado,8,CO,Archuleta,8007,2020,12,70
+Colorado,8,CO,Baca,8009,2020,12,***
+Colorado,8,CO,Bent,8011,2020,12,***
+Colorado,8,CO,Broomfield,08-09280,2020,12,1383
+Colorado,8,CO,Boulder,8013,2020,12,283
+Colorado,8,CO,Chaffee,8015,2020,12,89
+Colorado,8,CO,Cheyenne,8017,2020,12,***
+Colorado,8,CO,Clear Creek,8019,2020,12,79
+Colorado,8,CO,Conejos,8021,2020,12,15
+Colorado,8,CO,Costilla,8023,2020,12,6
+Colorado,8,CO,Crowley,8025,2020,12,6
+Colorado,8,CO,Custer,8027,2020,12,8
+Colorado,8,CO,Delta,8029,2020,12,60
+Colorado,8,CO,Denver,8031,2020,12,4841
+Colorado,8,CO,Dolores,8033,2020,12,6
+Colorado,8,CO,Douglas,8035,2020,12,1028
+Colorado,8,CO,Eagle,8037,2020,12,774
+Colorado,8,CO,Elbert,8039,2020,12,49
+Colorado,8,CO,El Paso,8041,2020,12,2869
+Colorado,8,CO,Fremont,8043,2020,12,101
+Colorado,8,CO,Garfield,8045,2020,12,268
+Colorado,8,CO,Gilpin,8047,2020,12,72
+Colorado,8,CO,Grand,8049,2020,12,81
+Colorado,8,CO,Gunnison,8051,2020,12,175
+Colorado,8,CO,Hinsdale,8053,2020,12,***
+Colorado,8,CO,Huerfano,8055,2020,12,9
+Colorado,8,CO,Jackson,8057,2020,12,8
+Colorado,8,CO,Jefferson,8059,2020,12,2857
+Colorado,8,CO,Kiowa,8061,2020,12,***
+Colorado,8,CO,Kit Carson,8063,2020,12,***
+Colorado,8,CO,Lake,8065,2020,12,56
+Colorado,8,CO,La Plata,8067,2020,12,252
+Colorado,8,CO,Larimer,8069,2020,12,1523
+Colorado,8,CO,Las Animas,8071,2020,12,26
+Colorado,8,CO,Lincoln,8073,2020,12,10
+Colorado,8,CO,Logan,8075,2020,12,28
+Colorado,8,CO,Mesa,8077,2020,12,463
+Colorado,8,CO,Mineral,8079,2020,12,***
+Colorado,8,CO,Moffat,8081,2020,12,16
+Colorado,8,CO,Montezuma,8083,2020,12,54
+Colorado,8,CO,Montrose,8085,2020,12,116
+Colorado,8,CO,Morgan,8087,2020,12,41
+Colorado,8,CO,Otero,8089,2020,12,16
+Colorado,8,CO,Ouray,8091,2020,12,24
+Colorado,8,CO,Park,8093,2020,12,72
+Colorado,8,CO,Phillips,8095,2020,12,***
+Colorado,8,CO,Pitkin,8097,2020,12,322
+Colorado,8,CO,Prowers,8099,2020,12,10
+Colorado,8,CO,Pueblo,8101,2020,12,560
+Colorado,8,CO,Rio Blanco,8103,2020,12,***
+Colorado,8,CO,Rio Grande,8105,2020,12,39
+Colorado,8,CO,Routt,8107,2020,12,273
+Colorado,8,CO,Saguache,8109,2020,12,10
+Colorado,8,CO,San Juan,8111,2020,12,***
+Colorado,8,CO,San Miguel,8113,2020,12,136
+Colorado,8,CO,Sedgwick,8115,2020,12,***
+Colorado,8,CO,Summit,8117,2020,12,385
+Colorado,8,CO,Teller,8119,2020,12,145
+Colorado,8,CO,Washington,8121,2020,12,***
+Colorado,8,CO,Weld,8123,2020,12,867
+Colorado,8,CO,Yuma,8125,2020,12,19
+Colorado,8,CO,Adams,8001,2020,11,300
+Colorado,8,CO,Alamosa,8003,2020,11,***
+Colorado,8,CO,Arapahoe,8005,2020,11,417
+Colorado,8,CO,Archuleta,8007,2020,11,***
+Colorado,8,CO,Baca,8009,2020,11,***
+Colorado,8,CO,Bent,8011,2020,11,***
+Colorado,8,CO,Broomfield,08-09280,2020,11,163
+Colorado,8,CO,Boulder,8013,2020,11,34
+Colorado,8,CO,Chaffee,8015,2020,11,***
+Colorado,8,CO,Cheyenne,8017,2020,11,***
+Colorado,8,CO,Clear Creek,8019,2020,11,8
+Colorado,8,CO,Conejos,8021,2020,11,6
+Colorado,8,CO,Costilla,8023,2020,11,***
+Colorado,8,CO,Crowley,8025,2020,11,6
+Colorado,8,CO,Custer,8027,2020,11,***
+Colorado,8,CO,Delta,8029,2020,11,16
+Colorado,8,CO,Denver,8031,2020,11,611
+Colorado,8,CO,Dolores,8033,2020,11,***
+Colorado,8,CO,Douglas,8035,2020,11,127
+Colorado,8,CO,Eagle,8037,2020,11,97
+Colorado,8,CO,Elbert,8039,2020,11,6
+Colorado,8,CO,El Paso,8041,2020,11,328
+Colorado,8,CO,Fremont,8043,2020,11,15
+Colorado,8,CO,Garfield,8045,2020,11,37
+Colorado,8,CO,Gilpin,8047,2020,11,***
+Colorado,8,CO,Grand,8049,2020,11,10
+Colorado,8,CO,Gunnison,8051,2020,11,15
+Colorado,8,CO,Hinsdale,8053,2020,11,***
+Colorado,8,CO,Huerfano,8055,2020,11,***
+Colorado,8,CO,Jackson,8057,2020,11,***
+Colorado,8,CO,Jefferson,8059,2020,11,334
+Colorado,8,CO,Kiowa,8061,2020,11,***
+Colorado,8,CO,Kit Carson,8063,2020,11,***
+Colorado,8,CO,Lake,8065,2020,11,10
+Colorado,8,CO,La Plata,8067,2020,11,13
+Colorado,8,CO,Larimer,8069,2020,11,123
+Colorado,8,CO,Las Animas,8071,2020,11,13
+Colorado,8,CO,Lincoln,8073,2020,11,***
+Colorado,8,CO,Logan,8075,2020,11,***
+Colorado,8,CO,Mesa,8077,2020,11,95
+Colorado,8,CO,Mineral,8079,2020,11,***
+Colorado,8,CO,Moffat,8081,2020,11,7
+Colorado,8,CO,Montezuma,8083,2020,11,10
+Colorado,8,CO,Montrose,8085,2020,11,26
+Colorado,8,CO,Morgan,8087,2020,11,9
+Colorado,8,CO,Otero,8089,2020,11,10
+Colorado,8,CO,Ouray,8091,2020,11,7
+Colorado,8,CO,Park,8093,2020,11,9
+Colorado,8,CO,Phillips,8095,2020,11,6
+Colorado,8,CO,Pitkin,8097,2020,11,51
+Colorado,8,CO,Prowers,8099,2020,11,***
+Colorado,8,CO,Pueblo,8101,2020,11,78
+Colorado,8,CO,Rio Blanco,8103,2020,11,6
+Colorado,8,CO,Rio Grande,8105,2020,11,***
+Colorado,8,CO,Routt,8107,2020,11,16
+Colorado,8,CO,Saguache,8109,2020,11,***
+Colorado,8,CO,San Juan,8111,2020,11,***
+Colorado,8,CO,San Miguel,8113,2020,11,13
+Colorado,8,CO,Sedgwick,8115,2020,11,***
+Colorado,8,CO,Summit,8117,2020,11,9
+Colorado,8,CO,Teller,8119,2020,11,11
+Colorado,8,CO,Washington,8121,2020,11,***
+Colorado,8,CO,Weld,8123,2020,11,139
+Colorado,8,CO,Yuma,8125,2020,11,***
+Colorado,8,CO,Adams,8001,2020,10,189
+Colorado,8,CO,Alamosa,8003,2020,10,***
+Colorado,8,CO,Arapahoe,8005,2020,10,220
+Colorado,8,CO,Archuleta,8007,2020,10,***
+Colorado,8,CO,Baca,8009,2020,10,***
+Colorado,8,CO,Bent,8011,2020,10,***
+Colorado,8,CO,Broomfield,08-09280,2020,10,80
+Colorado,8,CO,Boulder,8013,2020,10,22
+Colorado,8,CO,Chaffee,8015,2020,10,6
+Colorado,8,CO,Cheyenne,8017,2020,10,***
+Colorado,8,CO,Clear Creek,8019,2020,10,***
+Colorado,8,CO,Conejos,8021,2020,10,7
+Colorado,8,CO,Costilla,8023,2020,10,***
+Colorado,8,CO,Crowley,8025,2020,10,***
+Colorado,8,CO,Custer,8027,2020,10,***
+Colorado,8,CO,Delta,8029,2020,10,15
+Colorado,8,CO,Denver,8031,2020,10,273
+Colorado,8,CO,Dolores,8033,2020,10,***
+Colorado,8,CO,Douglas,8035,2020,10,96
+Colorado,8,CO,Eagle,8037,2020,10,11
+Colorado,8,CO,Elbert,8039,2020,10,9
+Colorado,8,CO,El Paso,8041,2020,10,269
+Colorado,8,CO,Fremont,8043,2020,10,***
+Colorado,8,CO,Garfield,8045,2020,10,16
+Colorado,8,CO,Gilpin,8047,2020,10,***
+Colorado,8,CO,Grand,8049,2020,10,7
+Colorado,8,CO,Gunnison,8051,2020,10,8
+Colorado,8,CO,Hinsdale,8053,2020,10,***
+Colorado,8,CO,Huerfano,8055,2020,10,***
+Colorado,8,CO,Jackson,8057,2020,10,***
+Colorado,8,CO,Jefferson,8059,2020,10,191
+Colorado,8,CO,Kiowa,8061,2020,10,***
+Colorado,8,CO,Kit Carson,8063,2020,10,***
+Colorado,8,CO,Lake,8065,2020,10,***
+Colorado,8,CO,La Plata,8067,2020,10,14
+Colorado,8,CO,Larimer,8069,2020,10,96
+Colorado,8,CO,Las Animas,8071,2020,10,7
+Colorado,8,CO,Lincoln,8073,2020,10,***
+Colorado,8,CO,Logan,8075,2020,10,***
+Colorado,8,CO,Mesa,8077,2020,10,42
+Colorado,8,CO,Mineral,8079,2020,10,***
+Colorado,8,CO,Moffat,8081,2020,10,6
+Colorado,8,CO,Montezuma,8083,2020,10,8
+Colorado,8,CO,Montrose,8085,2020,10,38
+Colorado,8,CO,Morgan,8087,2020,10,***
+Colorado,8,CO,Otero,8089,2020,10,6
+Colorado,8,CO,Ouray,8091,2020,10,***
+Colorado,8,CO,Park,8093,2020,10,6
+Colorado,8,CO,Phillips,8095,2020,10,***
+Colorado,8,CO,Pitkin,8097,2020,10,7
+Colorado,8,CO,Prowers,8099,2020,10,***
+Colorado,8,CO,Pueblo,8101,2020,10,57
+Colorado,8,CO,Rio Blanco,8103,2020,10,6
+Colorado,8,CO,Rio Grande,8105,2020,10,6
+Colorado,8,CO,Routt,8107,2020,10,7
+Colorado,8,CO,Saguache,8109,2020,10,***
+Colorado,8,CO,San Juan,8111,2020,10,***
+Colorado,8,CO,San Miguel,8113,2020,10,***
+Colorado,8,CO,Sedgwick,8115,2020,10,***
+Colorado,8,CO,Summit,8117,2020,10,***
+Colorado,8,CO,Teller,8119,2020,10,6
+Colorado,8,CO,Washington,8121,2020,10,***
+Colorado,8,CO,Weld,8123,2020,10,107
+Colorado,8,CO,Yuma,8125,2020,10,***
