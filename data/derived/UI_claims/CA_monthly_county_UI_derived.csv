@@ -1,0 +1,813 @@
+state_name,state_fips,state_abbrev,county_name,county_fips,year,month,initial_claims
+California,6,CA,Alameda,6001,2019,1,7186
+California,6,CA,Alameda,6001,2019,2,5308
+California,6,CA,Alameda,6001,2019,3,5524
+California,6,CA,Alameda,6001,2019,4,5966
+California,6,CA,Alameda,6001,2019,5,5460
+California,6,CA,Alameda,6001,2019,6,5726
+California,6,CA,Alameda,6001,2019,7,5880
+California,6,CA,Alameda,6001,2019,8,5257
+California,6,CA,Alameda,6001,2019,9,4801
+California,6,CA,Alameda,6001,2019,10,5124
+California,6,CA,Alameda,6001,2019,11,4507
+California,6,CA,Alameda,6001,2019,12,5602
+California,6,CA,Alameda,6001,2020,1,6430
+California,6,CA,Alameda,6001,2020,2,5130
+California,6,CA,Alpine,6003,2019,1,7
+California,6,CA,Alpine,6003,2019,2,0
+California,6,CA,Alpine,6003,2019,3,0
+California,6,CA,Alpine,6003,2019,4,7
+California,6,CA,Alpine,6003,2019,5,14
+California,6,CA,Alpine,6003,2019,6,7
+California,6,CA,Alpine,6003,2019,7,5
+California,6,CA,Alpine,6003,2019,8,0
+California,6,CA,Alpine,6003,2019,9,0
+California,6,CA,Alpine,6003,2019,10,0
+California,6,CA,Alpine,6003,2019,11,6
+California,6,CA,Alpine,6003,2019,12,6
+California,6,CA,Alpine,6003,2020,1,12
+California,6,CA,Alpine,6003,2020,2,0
+California,6,CA,Amador,6005,2019,1,277
+California,6,CA,Amador,6005,2019,2,177
+California,6,CA,Amador,6005,2019,3,159
+California,6,CA,Amador,6005,2019,4,139
+California,6,CA,Amador,6005,2019,5,158
+California,6,CA,Amador,6005,2019,6,115
+California,6,CA,Amador,6005,2019,7,109
+California,6,CA,Amador,6005,2019,8,93
+California,6,CA,Amador,6005,2019,9,99
+California,6,CA,Amador,6005,2019,10,130
+California,6,CA,Amador,6005,2019,11,174
+California,6,CA,Amador,6005,2019,12,274
+California,6,CA,Amador,6005,2020,1,224
+California,6,CA,Amador,6005,2020,2,158
+California,6,CA,Butte,6007,2019,1,2322
+California,6,CA,Butte,6007,2019,2,1529
+California,6,CA,Butte,6007,2019,3,1341
+California,6,CA,Butte,6007,2019,4,1188
+California,6,CA,Butte,6007,2019,5,1452
+California,6,CA,Butte,6007,2019,6,1164
+California,6,CA,Butte,6007,2019,7,1032
+California,6,CA,Butte,6007,2019,8,906
+California,6,CA,Butte,6007,2019,9,912
+California,6,CA,Butte,6007,2019,10,1090
+California,6,CA,Butte,6007,2019,11,1353
+California,6,CA,Butte,6007,2019,12,1698
+California,6,CA,Butte,6007,2020,1,1739
+California,6,CA,Butte,6007,2020,2,1126
+California,6,CA,Calaveras,6009,2019,1,377
+California,6,CA,Calaveras,6009,2019,2,287
+California,6,CA,Calaveras,6009,2019,3,241
+California,6,CA,Calaveras,6009,2019,4,202
+California,6,CA,Calaveras,6009,2019,5,162
+California,6,CA,Calaveras,6009,2019,6,185
+California,6,CA,Calaveras,6009,2019,7,172
+California,6,CA,Calaveras,6009,2019,8,176
+California,6,CA,Calaveras,6009,2019,9,183
+California,6,CA,Calaveras,6009,2019,10,188
+California,6,CA,Calaveras,6009,2019,11,224
+California,6,CA,Calaveras,6009,2019,12,376
+California,6,CA,Calaveras,6009,2020,1,319
+California,6,CA,Calaveras,6009,2020,2,246
+California,6,CA,Colusa,6011,2019,1,898
+California,6,CA,Colusa,6011,2019,2,411
+California,6,CA,Colusa,6011,2019,3,377
+California,6,CA,Colusa,6011,2019,4,252
+California,6,CA,Colusa,6011,2019,5,243
+California,6,CA,Colusa,6011,2019,6,238
+California,6,CA,Colusa,6011,2019,7,166
+California,6,CA,Colusa,6011,2019,8,141
+California,6,CA,Colusa,6011,2019,9,118
+California,6,CA,Colusa,6011,2019,10,667
+California,6,CA,Colusa,6011,2019,11,782
+California,6,CA,Colusa,6011,2019,12,812
+California,6,CA,Colusa,6011,2020,1,921
+California,6,CA,Colusa,6011,2020,2,335
+California,6,CA,Contra Costa,6013,2019,1,5300
+California,6,CA,Contra Costa,6013,2019,2,3819
+California,6,CA,Contra Costa,6013,2019,3,4132
+California,6,CA,Contra Costa,6013,2019,4,4155
+California,6,CA,Contra Costa,6013,2019,5,3908
+California,6,CA,Contra Costa,6013,2019,6,3858
+California,6,CA,Contra Costa,6013,2019,7,4098
+California,6,CA,Contra Costa,6013,2019,8,3549
+California,6,CA,Contra Costa,6013,2019,9,3424
+California,6,CA,Contra Costa,6013,2019,10,3696
+California,6,CA,Contra Costa,6013,2019,11,3457
+California,6,CA,Contra Costa,6013,2019,12,4262
+California,6,CA,Contra Costa,6013,2020,1,4759
+California,6,CA,Contra Costa,6013,2020,2,3609
+California,6,CA,Del Norte,6015,2019,1,200
+California,6,CA,Del Norte,6015,2019,2,119
+California,6,CA,Del Norte,6015,2019,3,141
+California,6,CA,Del Norte,6015,2019,4,168
+California,6,CA,Del Norte,6015,2019,5,146
+California,6,CA,Del Norte,6015,2019,6,162
+California,6,CA,Del Norte,6015,2019,7,178
+California,6,CA,Del Norte,6015,2019,8,126
+California,6,CA,Del Norte,6015,2019,9,131
+California,6,CA,Del Norte,6015,2019,10,205
+California,6,CA,Del Norte,6015,2019,11,174
+California,6,CA,Del Norte,6015,2019,12,175
+California,6,CA,Del Norte,6015,2020,1,207
+California,6,CA,Del Norte,6015,2020,2,144
+California,6,CA,El Dorado,6017,2019,1,1210
+California,6,CA,El Dorado,6017,2019,2,749
+California,6,CA,El Dorado,6017,2019,3,702
+California,6,CA,El Dorado,6017,2019,4,891
+California,6,CA,El Dorado,6017,2019,5,793
+California,6,CA,El Dorado,6017,2019,6,614
+California,6,CA,El Dorado,6017,2019,7,553
+California,6,CA,El Dorado,6017,2019,8,459
+California,6,CA,El Dorado,6017,2019,9,565
+California,6,CA,El Dorado,6017,2019,10,676
+California,6,CA,El Dorado,6017,2019,11,714
+California,6,CA,El Dorado,6017,2019,12,931
+California,6,CA,El Dorado,6017,2020,1,1003
+California,6,CA,El Dorado,6017,2020,2,642
+California,6,CA,Fresno,6019,2019,1,15311
+California,6,CA,Fresno,6019,2019,2,8339
+California,6,CA,Fresno,6019,2019,3,6945
+California,6,CA,Fresno,6019,2019,4,6700
+California,6,CA,Fresno,6019,2019,5,6016
+California,6,CA,Fresno,6019,2019,6,6596
+California,6,CA,Fresno,6019,2019,7,6291
+California,6,CA,Fresno,6019,2019,8,5616
+California,6,CA,Fresno,6019,2019,9,6033
+California,6,CA,Fresno,6019,2019,10,11129
+California,6,CA,Fresno,6019,2019,11,9107
+California,6,CA,Fresno,6019,2019,12,9367
+California,6,CA,Fresno,6019,2020,1,13016
+California,6,CA,Fresno,6019,2020,2,7884
+California,6,CA,Glenn,6021,2019,1,412
+California,6,CA,Glenn,6021,2019,2,278
+California,6,CA,Glenn,6021,2019,3,317
+California,6,CA,Glenn,6021,2019,4,272
+California,6,CA,Glenn,6021,2019,5,235
+California,6,CA,Glenn,6021,2019,6,207
+California,6,CA,Glenn,6021,2019,7,180
+California,6,CA,Glenn,6021,2019,8,159
+California,6,CA,Glenn,6021,2019,9,142
+California,6,CA,Glenn,6021,2019,10,219
+California,6,CA,Glenn,6021,2019,11,236
+California,6,CA,Glenn,6021,2019,12,475
+California,6,CA,Glenn,6021,2020,1,375
+California,6,CA,Glenn,6021,2020,2,212
+California,6,CA,Humboldt,6023,2019,1,1055
+California,6,CA,Humboldt,6023,2019,2,643
+California,6,CA,Humboldt,6023,2019,3,621
+California,6,CA,Humboldt,6023,2019,4,576
+California,6,CA,Humboldt,6023,2019,5,681
+California,6,CA,Humboldt,6023,2019,6,599
+California,6,CA,Humboldt,6023,2019,7,546
+California,6,CA,Humboldt,6023,2019,8,454
+California,6,CA,Humboldt,6023,2019,9,477
+California,6,CA,Humboldt,6023,2019,10,500
+California,6,CA,Humboldt,6023,2019,11,574
+California,6,CA,Humboldt,6023,2019,12,928
+California,6,CA,Humboldt,6023,2020,1,1008
+California,6,CA,Humboldt,6023,2020,2,628
+California,6,CA,Imperial,6025,2019,1,3431
+California,6,CA,Imperial,6025,2019,2,1845
+California,6,CA,Imperial,6025,2019,3,2638
+California,6,CA,Imperial,6025,2019,4,5684
+California,6,CA,Imperial,6025,2019,5,2829
+California,6,CA,Imperial,6025,2019,6,3126
+California,6,CA,Imperial,6025,2019,7,5915
+California,6,CA,Imperial,6025,2019,8,2678
+California,6,CA,Imperial,6025,2019,9,2170
+California,6,CA,Imperial,6025,2019,10,3318
+California,6,CA,Imperial,6025,2019,11,2280
+California,6,CA,Imperial,6025,2019,12,2104
+California,6,CA,Imperial,6025,2020,1,2984
+California,6,CA,Imperial,6025,2020,2,1860
+California,6,CA,Inyo,6027,2019,1,148
+California,6,CA,Inyo,6027,2019,2,60
+California,6,CA,Inyo,6027,2019,3,44
+California,6,CA,Inyo,6027,2019,4,68
+California,6,CA,Inyo,6027,2019,5,55
+California,6,CA,Inyo,6027,2019,6,81
+California,6,CA,Inyo,6027,2019,7,62
+California,6,CA,Inyo,6027,2019,8,53
+California,6,CA,Inyo,6027,2019,9,43
+California,6,CA,Inyo,6027,2019,10,75
+California,6,CA,Inyo,6027,2019,11,83
+California,6,CA,Inyo,6027,2019,12,62
+California,6,CA,Inyo,6027,2020,1,96
+California,6,CA,Inyo,6027,2020,2,67
+California,6,CA,Kern,6029,2019,1,11382
+California,6,CA,Kern,6029,2019,2,6703
+California,6,CA,Kern,6029,2019,3,6146
+California,6,CA,Kern,6029,2019,4,5549
+California,6,CA,Kern,6029,2019,5,5248
+California,6,CA,Kern,6029,2019,6,6578
+California,6,CA,Kern,6029,2019,7,6229
+California,6,CA,Kern,6029,2019,8,4926
+California,6,CA,Kern,6029,2019,9,4118
+California,6,CA,Kern,6029,2019,10,6488
+California,6,CA,Kern,6029,2019,11,9502
+California,6,CA,Kern,6029,2019,12,9374
+California,6,CA,Kern,6029,2020,1,11751
+California,6,CA,Kern,6029,2020,2,7290
+California,6,CA,Kings,6031,2019,1,2140
+California,6,CA,Kings,6031,2019,2,1274
+California,6,CA,Kings,6031,2019,3,1317
+California,6,CA,Kings,6031,2019,4,1153
+California,6,CA,Kings,6031,2019,5,1201
+California,6,CA,Kings,6031,2019,6,1266
+California,6,CA,Kings,6031,2019,7,972
+California,6,CA,Kings,6031,2019,8,1022
+California,6,CA,Kings,6031,2019,9,880
+California,6,CA,Kings,6031,2019,10,1779
+California,6,CA,Kings,6031,2019,11,1558
+California,6,CA,Kings,6031,2019,12,1952
+California,6,CA,Kings,6031,2020,1,2151
+California,6,CA,Kings,6031,2020,2,1190
+California,6,CA,Lake,6033,2019,1,584
+California,6,CA,Lake,6033,2019,2,394
+California,6,CA,Lake,6033,2019,3,424
+California,6,CA,Lake,6033,2019,4,392
+California,6,CA,Lake,6033,2019,5,310
+California,6,CA,Lake,6033,2019,6,284
+California,6,CA,Lake,6033,2019,7,295
+California,6,CA,Lake,6033,2019,8,245
+California,6,CA,Lake,6033,2019,9,317
+California,6,CA,Lake,6033,2019,10,423
+California,6,CA,Lake,6033,2019,11,709
+California,6,CA,Lake,6033,2019,12,579
+California,6,CA,Lake,6033,2020,1,572
+California,6,CA,Lake,6033,2020,2,346
+California,6,CA,Lassen,6035,2019,1,310
+California,6,CA,Lassen,6035,2019,2,148
+California,6,CA,Lassen,6035,2019,3,133
+California,6,CA,Lassen,6035,2019,4,93
+California,6,CA,Lassen,6035,2019,5,94
+California,6,CA,Lassen,6035,2019,6,79
+California,6,CA,Lassen,6035,2019,7,58
+California,6,CA,Lassen,6035,2019,8,55
+California,6,CA,Lassen,6035,2019,9,54
+California,6,CA,Lassen,6035,2019,10,112
+California,6,CA,Lassen,6035,2019,11,148
+California,6,CA,Lassen,6035,2019,12,220
+California,6,CA,Lassen,6035,2020,1,232
+California,6,CA,Lassen,6035,2020,2,94
+California,6,CA,Los Angeles,6037,2019,1,54312
+California,6,CA,Los Angeles,6037,2019,2,42480
+California,6,CA,Los Angeles,6037,2019,3,45545
+California,6,CA,Los Angeles,6037,2019,4,48594
+California,6,CA,Los Angeles,6037,2019,5,47372
+California,6,CA,Los Angeles,6037,2019,6,49678
+California,6,CA,Los Angeles,6037,2019,7,49679
+California,6,CA,Los Angeles,6037,2019,8,45841
+California,6,CA,Los Angeles,6037,2019,9,41801
+California,6,CA,Los Angeles,6037,2019,10,43810
+California,6,CA,Los Angeles,6037,2019,11,39761
+California,6,CA,Los Angeles,6037,2019,12,48716
+California,6,CA,Los Angeles,6037,2020,1,52544
+California,6,CA,Los Angeles,6037,2020,2,43272
+California,6,CA,Madera,6039,2019,1,1691
+California,6,CA,Madera,6039,2019,2,1122
+California,6,CA,Madera,6039,2019,3,1179
+California,6,CA,Madera,6039,2019,4,882
+California,6,CA,Madera,6039,2019,5,784
+California,6,CA,Madera,6039,2019,6,826
+California,6,CA,Madera,6039,2019,7,792
+California,6,CA,Madera,6039,2019,8,644
+California,6,CA,Madera,6039,2019,9,668
+California,6,CA,Madera,6039,2019,10,1360
+California,6,CA,Madera,6039,2019,11,1426
+California,6,CA,Madera,6039,2019,12,1469
+California,6,CA,Madera,6039,2020,1,1519
+California,6,CA,Madera,6039,2020,2,1041
+California,6,CA,Marin,6041,2019,1,778
+California,6,CA,Marin,6041,2019,2,534
+California,6,CA,Marin,6041,2019,3,579
+California,6,CA,Marin,6041,2019,4,605
+California,6,CA,Marin,6041,2019,5,635
+California,6,CA,Marin,6041,2019,6,606
+California,6,CA,Marin,6041,2019,7,664
+California,6,CA,Marin,6041,2019,8,585
+California,6,CA,Marin,6041,2019,9,542
+California,6,CA,Marin,6041,2019,10,540
+California,6,CA,Marin,6041,2019,11,585
+California,6,CA,Marin,6041,2019,12,595
+California,6,CA,Marin,6041,2020,1,699
+California,6,CA,Marin,6041,2020,2,614
+California,6,CA,Mariposa,6043,2019,1,348
+California,6,CA,Mariposa,6043,2019,2,136
+California,6,CA,Mariposa,6043,2019,3,113
+California,6,CA,Mariposa,6043,2019,4,91
+California,6,CA,Mariposa,6043,2019,5,69
+California,6,CA,Mariposa,6043,2019,6,51
+California,6,CA,Mariposa,6043,2019,7,44
+California,6,CA,Mariposa,6043,2019,8,50
+California,6,CA,Mariposa,6043,2019,9,39
+California,6,CA,Mariposa,6043,2019,10,103
+California,6,CA,Mariposa,6043,2019,11,122
+California,6,CA,Mariposa,6043,2019,12,185
+California,6,CA,Mariposa,6043,2020,1,180
+California,6,CA,Mariposa,6043,2020,2,79
+California,6,CA,Mendocino,6045,2019,1,716
+California,6,CA,Mendocino,6045,2019,2,563
+California,6,CA,Mendocino,6045,2019,3,407
+California,6,CA,Mendocino,6045,2019,4,392
+California,6,CA,Mendocino,6045,2019,5,450
+California,6,CA,Mendocino,6045,2019,6,340
+California,6,CA,Mendocino,6045,2019,7,285
+California,6,CA,Mendocino,6045,2019,8,259
+California,6,CA,Mendocino,6045,2019,9,256
+California,6,CA,Mendocino,6045,2019,10,380
+California,6,CA,Mendocino,6045,2019,11,633
+California,6,CA,Mendocino,6045,2019,12,748
+California,6,CA,Mendocino,6045,2020,1,666
+California,6,CA,Mendocino,6045,2020,2,400
+California,6,CA,Merced,6047,2019,1,4656
+California,6,CA,Merced,6047,2019,2,2492
+California,6,CA,Merced,6047,2019,3,2158
+California,6,CA,Merced,6047,2019,4,2079
+California,6,CA,Merced,6047,2019,5,1834
+California,6,CA,Merced,6047,2019,6,1795
+California,6,CA,Merced,6047,2019,7,1720
+California,6,CA,Merced,6047,2019,8,1342
+California,6,CA,Merced,6047,2019,9,1253
+California,6,CA,Merced,6047,2019,10,2651
+California,6,CA,Merced,6047,2019,11,3715
+California,6,CA,Merced,6047,2019,12,3955
+California,6,CA,Merced,6047,2020,1,4726
+California,6,CA,Merced,6047,2020,2,2476
+California,6,CA,Modoc,6049,2019,1,125
+California,6,CA,Modoc,6049,2019,2,45
+California,6,CA,Modoc,6049,2019,3,44
+California,6,CA,Modoc,6049,2019,4,33
+California,6,CA,Modoc,6049,2019,5,31
+California,6,CA,Modoc,6049,2019,6,34
+California,6,CA,Modoc,6049,2019,7,19
+California,6,CA,Modoc,6049,2019,8,25
+California,6,CA,Modoc,6049,2019,9,35
+California,6,CA,Modoc,6049,2019,10,43
+California,6,CA,Modoc,6049,2019,11,72
+California,6,CA,Modoc,6049,2019,12,82
+California,6,CA,Modoc,6049,2020,1,70
+California,6,CA,Modoc,6049,2020,2,39
+California,6,CA,Mono,6051,2019,1,127
+California,6,CA,Mono,6051,2019,2,59
+California,6,CA,Mono,6051,2019,3,58
+California,6,CA,Mono,6051,2019,4,117
+California,6,CA,Mono,6051,2019,5,192
+California,6,CA,Mono,6051,2019,6,75
+California,6,CA,Mono,6051,2019,7,73
+California,6,CA,Mono,6051,2019,8,82
+California,6,CA,Mono,6051,2019,9,116
+California,6,CA,Mono,6051,2019,10,134
+California,6,CA,Mono,6051,2019,11,142
+California,6,CA,Mono,6051,2019,12,104
+California,6,CA,Mono,6051,2020,1,85
+California,6,CA,Mono,6051,2020,2,49
+California,6,CA,Monterey,6053,2019,1,6459
+California,6,CA,Monterey,6053,2019,2,2485
+California,6,CA,Monterey,6053,2019,3,2116
+California,6,CA,Monterey,6053,2019,4,2210
+California,6,CA,Monterey,6053,2019,5,1752
+California,6,CA,Monterey,6053,2019,6,1541
+California,6,CA,Monterey,6053,2019,7,1335
+California,6,CA,Monterey,6053,2019,8,1244
+California,6,CA,Monterey,6053,2019,9,1404
+California,6,CA,Monterey,6053,2019,10,3483
+California,6,CA,Monterey,6053,2019,11,9169
+California,6,CA,Monterey,6053,2019,12,6057
+California,6,CA,Monterey,6053,2020,1,6279
+California,6,CA,Monterey,6053,2020,2,2298
+California,6,CA,Napa,6055,2019,1,817
+California,6,CA,Napa,6055,2019,2,598
+California,6,CA,Napa,6055,2019,3,519
+California,6,CA,Napa,6055,2019,4,472
+California,6,CA,Napa,6055,2019,5,458
+California,6,CA,Napa,6055,2019,6,410
+California,6,CA,Napa,6055,2019,7,392
+California,6,CA,Napa,6055,2019,8,402
+California,6,CA,Napa,6055,2019,9,402
+California,6,CA,Napa,6055,2019,10,513
+California,6,CA,Napa,6055,2019,11,878
+California,6,CA,Napa,6055,2019,12,777
+California,6,CA,Napa,6055,2020,1,680
+California,6,CA,Napa,6055,2020,2,481
+California,6,CA,Nevada,6057,2019,1,615
+California,6,CA,Nevada,6057,2019,2,422
+California,6,CA,Nevada,6057,2019,3,376
+California,6,CA,Nevada,6057,2019,4,454
+California,6,CA,Nevada,6057,2019,5,400
+California,6,CA,Nevada,6057,2019,6,316
+California,6,CA,Nevada,6057,2019,7,306
+California,6,CA,Nevada,6057,2019,8,263
+California,6,CA,Nevada,6057,2019,9,293
+California,6,CA,Nevada,6057,2019,10,410
+California,6,CA,Nevada,6057,2019,11,462
+California,6,CA,Nevada,6057,2019,12,504
+California,6,CA,Nevada,6057,2020,1,524
+California,6,CA,Nevada,6057,2020,2,343
+California,6,CA,Orange,6059,2019,1,11036
+California,6,CA,Orange,6059,2019,2,8485
+California,6,CA,Orange,6059,2019,3,8733
+California,6,CA,Orange,6059,2019,4,9130
+California,6,CA,Orange,6059,2019,5,8748
+California,6,CA,Orange,6059,2019,6,9125
+California,6,CA,Orange,6059,2019,7,9446
+California,6,CA,Orange,6059,2019,8,8612
+California,6,CA,Orange,6059,2019,9,8075
+California,6,CA,Orange,6059,2019,10,8433
+California,6,CA,Orange,6059,2019,11,7557
+California,6,CA,Orange,6059,2019,12,8466
+California,6,CA,Orange,6059,2020,1,10299
+California,6,CA,Orange,6059,2020,2,7961
+California,6,CA,Placer,6061,2019,1,1893
+California,6,CA,Placer,6061,2019,2,1386
+California,6,CA,Placer,6061,2019,3,1392
+California,6,CA,Placer,6061,2019,4,1331
+California,6,CA,Placer,6061,2019,5,1257
+California,6,CA,Placer,6061,2019,6,1156
+California,6,CA,Placer,6061,2019,7,1091
+California,6,CA,Placer,6061,2019,8,1022
+California,6,CA,Placer,6061,2019,9,982
+California,6,CA,Placer,6061,2019,10,1119
+California,6,CA,Placer,6061,2019,11,1074
+California,6,CA,Placer,6061,2019,12,1576
+California,6,CA,Placer,6061,2020,1,1664
+California,6,CA,Placer,6061,2020,2,1111
+California,6,CA,Plumas,6063,2019,1,387
+California,6,CA,Plumas,6063,2019,2,156
+California,6,CA,Plumas,6063,2019,3,127
+California,6,CA,Plumas,6063,2019,4,101
+California,6,CA,Plumas,6063,2019,5,91
+California,6,CA,Plumas,6063,2019,6,80
+California,6,CA,Plumas,6063,2019,7,45
+California,6,CA,Plumas,6063,2019,8,53
+California,6,CA,Plumas,6063,2019,9,61
+California,6,CA,Plumas,6063,2019,10,165
+California,6,CA,Plumas,6063,2019,11,245
+California,6,CA,Plumas,6063,2019,12,295
+California,6,CA,Plumas,6063,2020,1,300
+California,6,CA,Plumas,6063,2020,2,128
+California,6,CA,Riverside,6065,2019,1,13892
+California,6,CA,Riverside,6065,2019,2,10863
+California,6,CA,Riverside,6065,2019,3,10678
+California,6,CA,Riverside,6065,2019,4,11227
+California,6,CA,Riverside,6065,2019,5,11703
+California,6,CA,Riverside,6065,2019,6,12828
+California,6,CA,Riverside,6065,2019,7,14612
+California,6,CA,Riverside,6065,2019,8,11825
+California,6,CA,Riverside,6065,2019,9,9978
+California,6,CA,Riverside,6065,2019,10,10783
+California,6,CA,Riverside,6065,2019,11,9402
+California,6,CA,Riverside,6065,2019,12,11314
+California,6,CA,Riverside,6065,2020,1,13396
+California,6,CA,Riverside,6065,2020,2,10400
+California,6,CA,Sacramento,6067,2019,1,9237
+California,6,CA,Sacramento,6067,2019,2,6901
+California,6,CA,Sacramento,6067,2019,3,7162
+California,6,CA,Sacramento,6067,2019,4,7038
+California,6,CA,Sacramento,6067,2019,5,6757
+California,6,CA,Sacramento,6067,2019,6,6526
+California,6,CA,Sacramento,6067,2019,7,6356
+California,6,CA,Sacramento,6067,2019,8,5848
+California,6,CA,Sacramento,6067,2019,9,5555
+California,6,CA,Sacramento,6067,2019,10,6067
+California,6,CA,Sacramento,6067,2019,11,5931
+California,6,CA,Sacramento,6067,2019,12,8033
+California,6,CA,Sacramento,6067,2020,1,8852
+California,6,CA,Sacramento,6067,2020,2,6233
+California,6,CA,San Benito,6069,2019,1,727
+California,6,CA,San Benito,6069,2019,2,503
+California,6,CA,San Benito,6069,2019,3,420
+California,6,CA,San Benito,6069,2019,4,389
+California,6,CA,San Benito,6069,2019,5,370
+California,6,CA,San Benito,6069,2019,6,294
+California,6,CA,San Benito,6069,2019,7,292
+California,6,CA,San Benito,6069,2019,8,270
+California,6,CA,San Benito,6069,2019,9,320
+California,6,CA,San Benito,6069,2019,10,426
+California,6,CA,San Benito,6069,2019,11,574
+California,6,CA,San Benito,6069,2019,12,685
+California,6,CA,San Benito,6069,2020,1,698
+California,6,CA,San Benito,6069,2020,2,461
+California,6,CA,San Bernardino,6071,2019,1,12626
+California,6,CA,San Bernardino,6071,2019,2,9359
+California,6,CA,San Bernardino,6071,2019,3,9967
+California,6,CA,San Bernardino,6071,2019,4,10608
+California,6,CA,San Bernardino,6071,2019,5,10109
+California,6,CA,San Bernardino,6071,2019,6,10392
+California,6,CA,San Bernardino,6071,2019,7,10080
+California,6,CA,San Bernardino,6071,2019,8,9563
+California,6,CA,San Bernardino,6071,2019,9,8504
+California,6,CA,San Bernardino,6071,2019,10,9159
+California,6,CA,San Bernardino,6071,2019,11,8525
+California,6,CA,San Bernardino,6071,2019,12,10478
+California,6,CA,San Bernardino,6071,2020,1,12970
+California,6,CA,San Bernardino,6071,2020,2,9580
+California,6,CA,San Diego,6073,2019,1,14273
+California,6,CA,San Diego,6073,2019,2,10777
+California,6,CA,San Diego,6073,2019,3,11376
+California,6,CA,San Diego,6073,2019,4,11859
+California,6,CA,San Diego,6073,2019,5,11502
+California,6,CA,San Diego,6073,2019,6,12268
+California,6,CA,San Diego,6073,2019,7,11911
+California,6,CA,San Diego,6073,2019,8,11358
+California,6,CA,San Diego,6073,2019,9,10590
+California,6,CA,San Diego,6073,2019,10,11451
+California,6,CA,San Diego,6073,2019,11,9910
+California,6,CA,San Diego,6073,2019,12,11389
+California,6,CA,San Diego,6073,2020,1,13326
+California,6,CA,San Diego,6073,2020,2,10347
+California,6,CA,San Francisco,6075,2019,1,4045
+California,6,CA,San Francisco,6075,2019,2,2952
+California,6,CA,San Francisco,6075,2019,3,3281
+California,6,CA,San Francisco,6075,2019,4,3313
+California,6,CA,San Francisco,6075,2019,5,3301
+California,6,CA,San Francisco,6075,2019,6,3112
+California,6,CA,San Francisco,6075,2019,7,3407
+California,6,CA,San Francisco,6075,2019,8,2986
+California,6,CA,San Francisco,6075,2019,9,3028
+California,6,CA,San Francisco,6075,2019,10,3118
+California,6,CA,San Francisco,6075,2019,11,2677
+California,6,CA,San Francisco,6075,2019,12,3185
+California,6,CA,San Francisco,6075,2020,1,3781
+California,6,CA,San Francisco,6075,2020,2,3303
+California,6,CA,San Joaquin,6077,2019,1,7166
+California,6,CA,San Joaquin,6077,2019,2,4866
+California,6,CA,San Joaquin,6077,2019,3,4678
+California,6,CA,San Joaquin,6077,2019,4,4640
+California,6,CA,San Joaquin,6077,2019,5,4394
+California,6,CA,San Joaquin,6077,2019,6,4690
+California,6,CA,San Joaquin,6077,2019,7,4499
+California,6,CA,San Joaquin,6077,2019,8,3870
+California,6,CA,San Joaquin,6077,2019,9,3810
+California,6,CA,San Joaquin,6077,2019,10,5544
+California,6,CA,San Joaquin,6077,2019,11,5620
+California,6,CA,San Joaquin,6077,2019,12,6331
+California,6,CA,San Joaquin,6077,2020,1,7004
+California,6,CA,San Joaquin,6077,2020,2,4504
+California,6,CA,San Luis Obispo,6079,2019,1,1147
+California,6,CA,San Luis Obispo,6079,2019,2,881
+California,6,CA,San Luis Obispo,6079,2019,3,999
+California,6,CA,San Luis Obispo,6079,2019,4,778
+California,6,CA,San Luis Obispo,6079,2019,5,756
+California,6,CA,San Luis Obispo,6079,2019,6,716
+California,6,CA,San Luis Obispo,6079,2019,7,675
+California,6,CA,San Luis Obispo,6079,2019,8,647
+California,6,CA,San Luis Obispo,6079,2019,9,605
+California,6,CA,San Luis Obispo,6079,2019,10,727
+California,6,CA,San Luis Obispo,6079,2019,11,730
+California,6,CA,San Luis Obispo,6079,2019,12,1089
+California,6,CA,San Luis Obispo,6079,2020,1,1080
+California,6,CA,San Luis Obispo,6079,2020,2,736
+California,6,CA,San Mateo,6081,2019,1,2040
+California,6,CA,San Mateo,6081,2019,2,1711
+California,6,CA,San Mateo,6081,2019,3,1732
+California,6,CA,San Mateo,6081,2019,4,1792
+California,6,CA,San Mateo,6081,2019,5,1646
+California,6,CA,San Mateo,6081,2019,6,1764
+California,6,CA,San Mateo,6081,2019,7,1834
+California,6,CA,San Mateo,6081,2019,8,1617
+California,6,CA,San Mateo,6081,2019,9,1610
+California,6,CA,San Mateo,6081,2019,10,1614
+California,6,CA,San Mateo,6081,2019,11,1409
+California,6,CA,San Mateo,6081,2019,12,1609
+California,6,CA,San Mateo,6081,2020,1,1987
+California,6,CA,San Mateo,6081,2020,2,1751
+California,6,CA,Santa Barbara,6083,2019,1,2802
+California,6,CA,Santa Barbara,6083,2019,2,1673
+California,6,CA,Santa Barbara,6083,2019,3,1623
+California,6,CA,Santa Barbara,6083,2019,4,1468
+California,6,CA,Santa Barbara,6083,2019,5,1258
+California,6,CA,Santa Barbara,6083,2019,6,1270
+California,6,CA,Santa Barbara,6083,2019,7,1250
+California,6,CA,Santa Barbara,6083,2019,8,1407
+California,6,CA,Santa Barbara,6083,2019,9,1283
+California,6,CA,Santa Barbara,6083,2019,10,1667
+California,6,CA,Santa Barbara,6083,2019,11,2984
+California,6,CA,Santa Barbara,6083,2019,12,3183
+California,6,CA,Santa Barbara,6083,2020,1,2522
+California,6,CA,Santa Barbara,6083,2020,2,1469
+California,6,CA,Santa Clara,6085,2019,1,6519
+California,6,CA,Santa Clara,6085,2019,2,5114
+California,6,CA,Santa Clara,6085,2019,3,5142
+California,6,CA,Santa Clara,6085,2019,4,5260
+California,6,CA,Santa Clara,6085,2019,5,4752
+California,6,CA,Santa Clara,6085,2019,6,4713
+California,6,CA,Santa Clara,6085,2019,7,5235
+California,6,CA,Santa Clara,6085,2019,8,4828
+California,6,CA,Santa Clara,6085,2019,9,4353
+California,6,CA,Santa Clara,6085,2019,10,4735
+California,6,CA,Santa Clara,6085,2019,11,4317
+California,6,CA,Santa Clara,6085,2019,12,5065
+California,6,CA,Santa Clara,6085,2020,1,6069
+California,6,CA,Santa Clara,6085,2020,2,4909
+California,6,CA,Santa Cruz,6087,2019,1,3495
+California,6,CA,Santa Cruz,6087,2019,2,1467
+California,6,CA,Santa Cruz,6087,2019,3,1145
+California,6,CA,Santa Cruz,6087,2019,4,1084
+California,6,CA,Santa Cruz,6087,2019,5,1126
+California,6,CA,Santa Cruz,6087,2019,6,946
+California,6,CA,Santa Cruz,6087,2019,7,874
+California,6,CA,Santa Cruz,6087,2019,8,817
+California,6,CA,Santa Cruz,6087,2019,9,840
+California,6,CA,Santa Cruz,6087,2019,10,2132
+California,6,CA,Santa Cruz,6087,2019,11,3381
+California,6,CA,Santa Cruz,6087,2019,12,2486
+California,6,CA,Santa Cruz,6087,2020,1,3286
+California,6,CA,Santa Cruz,6087,2020,2,1348
+California,6,CA,Shasta,6089,2019,1,2299
+California,6,CA,Shasta,6089,2019,2,1360
+California,6,CA,Shasta,6089,2019,3,1416
+California,6,CA,Shasta,6089,2019,4,1383
+California,6,CA,Shasta,6089,2019,5,1098
+California,6,CA,Shasta,6089,2019,6,951
+California,6,CA,Shasta,6089,2019,7,845
+California,6,CA,Shasta,6089,2019,8,802
+California,6,CA,Shasta,6089,2019,9,821
+California,6,CA,Shasta,6089,2019,10,946
+California,6,CA,Shasta,6089,2019,11,1118
+California,6,CA,Shasta,6089,2019,12,1787
+California,6,CA,Shasta,6089,2020,1,1959
+California,6,CA,Shasta,6089,2020,2,1111
+California,6,CA,Sierra,6091,2019,1,40
+California,6,CA,Sierra,6091,2019,2,8
+California,6,CA,Sierra,6091,2019,3,10
+California,6,CA,Sierra,6091,2019,4,12
+California,6,CA,Sierra,6091,2019,5,13
+California,6,CA,Sierra,6091,2019,6,8
+California,6,CA,Sierra,6091,2019,7,7
+California,6,CA,Sierra,6091,2019,8,0
+California,6,CA,Sierra,6091,2019,9,8
+California,6,CA,Sierra,6091,2019,10,10
+California,6,CA,Sierra,6091,2019,11,26
+California,6,CA,Sierra,6091,2019,12,31
+California,6,CA,Sierra,6091,2020,1,33
+California,6,CA,Sierra,6091,2020,2,19
+California,6,CA,Siskiyou,6093,2019,1,759
+California,6,CA,Siskiyou,6093,2019,2,350
+California,6,CA,Siskiyou,6093,2019,3,273
+California,6,CA,Siskiyou,6093,2019,4,268
+California,6,CA,Siskiyou,6093,2019,5,207
+California,6,CA,Siskiyou,6093,2019,6,208
+California,6,CA,Siskiyou,6093,2019,7,173
+California,6,CA,Siskiyou,6093,2019,8,154
+California,6,CA,Siskiyou,6093,2019,9,192
+California,6,CA,Siskiyou,6093,2019,10,283
+California,6,CA,Siskiyou,6093,2019,11,548
+California,6,CA,Siskiyou,6093,2019,12,547
+California,6,CA,Siskiyou,6093,2020,1,593
+California,6,CA,Siskiyou,6093,2020,2,261
+California,6,CA,Solano,6095,2019,1,3087
+California,6,CA,Solano,6095,2019,2,2234
+California,6,CA,Solano,6095,2019,3,2244
+California,6,CA,Solano,6095,2019,4,2291
+California,6,CA,Solano,6095,2019,5,1978
+California,6,CA,Solano,6095,2019,6,1971
+California,6,CA,Solano,6095,2019,7,1998
+California,6,CA,Solano,6095,2019,8,1841
+California,6,CA,Solano,6095,2019,9,1710
+California,6,CA,Solano,6095,2019,10,1925
+California,6,CA,Solano,6095,2019,11,2095
+California,6,CA,Solano,6095,2019,12,2597
+California,6,CA,Solano,6095,2020,1,2836
+California,6,CA,Solano,6095,2020,2,2013
+California,6,CA,Sonoma,6097,2019,1,2276
+California,6,CA,Sonoma,6097,2019,2,1638
+California,6,CA,Sonoma,6097,2019,3,2090
+California,6,CA,Sonoma,6097,2019,4,1673
+California,6,CA,Sonoma,6097,2019,5,1532
+California,6,CA,Sonoma,6097,2019,6,1445
+California,6,CA,Sonoma,6097,2019,7,1496
+California,6,CA,Sonoma,6097,2019,8,1325
+California,6,CA,Sonoma,6097,2019,9,1254
+California,6,CA,Sonoma,6097,2019,10,1670
+California,6,CA,Sonoma,6097,2019,11,3980
+California,6,CA,Sonoma,6097,2019,12,2523
+California,6,CA,Sonoma,6097,2020,1,2391
+California,6,CA,Sonoma,6097,2020,2,1600
+California,6,CA,Stanislaus,6099,2019,1,6067
+California,6,CA,Stanislaus,6099,2019,2,4226
+California,6,CA,Stanislaus,6099,2019,3,4069
+California,6,CA,Stanislaus,6099,2019,4,4343
+California,6,CA,Stanislaus,6099,2019,5,3736
+California,6,CA,Stanislaus,6099,2019,6,3728
+California,6,CA,Stanislaus,6099,2019,7,3627
+California,6,CA,Stanislaus,6099,2019,8,2981
+California,6,CA,Stanislaus,6099,2019,9,2630
+California,6,CA,Stanislaus,6099,2019,10,4249
+California,6,CA,Stanislaus,6099,2019,11,4437
+California,6,CA,Stanislaus,6099,2019,12,5390
+California,6,CA,Stanislaus,6099,2020,1,5729
+California,6,CA,Stanislaus,6099,2020,2,3909
+California,6,CA,Sutter,6101,2019,1,1502
+California,6,CA,Sutter,6101,2019,2,1143
+California,6,CA,Sutter,6101,2019,3,991
+California,6,CA,Sutter,6101,2019,4,926
+California,6,CA,Sutter,6101,2019,5,738
+California,6,CA,Sutter,6101,2019,6,592
+California,6,CA,Sutter,6101,2019,7,539
+California,6,CA,Sutter,6101,2019,8,478
+California,6,CA,Sutter,6101,2019,9,526
+California,6,CA,Sutter,6101,2019,10,1008
+California,6,CA,Sutter,6101,2019,11,1368
+California,6,CA,Sutter,6101,2019,12,1458
+California,6,CA,Sutter,6101,2020,1,1388
+California,6,CA,Sutter,6101,2020,2,1003
+California,6,CA,Tehama,6103,2019,1,611
+California,6,CA,Tehama,6103,2019,2,414
+California,6,CA,Tehama,6103,2019,3,421
+California,6,CA,Tehama,6103,2019,4,399
+California,6,CA,Tehama,6103,2019,5,366
+California,6,CA,Tehama,6103,2019,6,378
+California,6,CA,Tehama,6103,2019,7,353
+California,6,CA,Tehama,6103,2019,8,257
+California,6,CA,Tehama,6103,2019,9,337
+California,6,CA,Tehama,6103,2019,10,327
+California,6,CA,Tehama,6103,2019,11,390
+California,6,CA,Tehama,6103,2019,12,584
+California,6,CA,Tehama,6103,2020,1,578
+California,6,CA,Tehama,6103,2020,2,361
+California,6,CA,Trinity,6105,2019,1,174
+California,6,CA,Trinity,6105,2019,2,85
+California,6,CA,Trinity,6105,2019,3,47
+California,6,CA,Trinity,6105,2019,4,60
+California,6,CA,Trinity,6105,2019,5,53
+California,6,CA,Trinity,6105,2019,6,38
+California,6,CA,Trinity,6105,2019,7,42
+California,6,CA,Trinity,6105,2019,8,47
+California,6,CA,Trinity,6105,2019,9,48
+California,6,CA,Trinity,6105,2019,10,81
+California,6,CA,Trinity,6105,2019,11,64
+California,6,CA,Trinity,6105,2019,12,90
+California,6,CA,Trinity,6105,2020,1,148
+California,6,CA,Trinity,6105,2020,2,69
+California,6,CA,Tulare,6107,2019,1,7658
+California,6,CA,Tulare,6107,2019,2,4208
+California,6,CA,Tulare,6107,2019,3,3620
+California,6,CA,Tulare,6107,2019,4,3557
+California,6,CA,Tulare,6107,2019,5,3101
+California,6,CA,Tulare,6107,2019,6,4380
+California,6,CA,Tulare,6107,2019,7,4937
+California,6,CA,Tulare,6107,2019,8,3481
+California,6,CA,Tulare,6107,2019,9,3107
+California,6,CA,Tulare,6107,2019,10,5474
+California,6,CA,Tulare,6107,2019,11,6124
+California,6,CA,Tulare,6107,2019,12,5791
+California,6,CA,Tulare,6107,2020,1,7569
+California,6,CA,Tulare,6107,2020,2,4032
+California,6,CA,Tuolumne,6109,2019,1,561
+California,6,CA,Tuolumne,6109,2019,2,288
+California,6,CA,Tuolumne,6109,2019,3,276
+California,6,CA,Tuolumne,6109,2019,4,244
+California,6,CA,Tuolumne,6109,2019,5,283
+California,6,CA,Tuolumne,6109,2019,6,229
+California,6,CA,Tuolumne,6109,2019,7,155
+California,6,CA,Tuolumne,6109,2019,8,193
+California,6,CA,Tuolumne,6109,2019,9,169
+California,6,CA,Tuolumne,6109,2019,10,206
+California,6,CA,Tuolumne,6109,2019,11,206
+California,6,CA,Tuolumne,6109,2019,12,371
+California,6,CA,Tuolumne,6109,2020,1,411
+California,6,CA,Tuolumne,6109,2020,2,260
+California,6,CA,Ventura,6111,2019,1,4223
+California,6,CA,Ventura,6111,2019,2,3318
+California,6,CA,Ventura,6111,2019,3,3243
+California,6,CA,Ventura,6111,2019,4,3314
+California,6,CA,Ventura,6111,2019,5,3252
+California,6,CA,Ventura,6111,2019,6,3577
+California,6,CA,Ventura,6111,2019,7,4310
+California,6,CA,Ventura,6111,2019,8,3869
+California,6,CA,Ventura,6111,2019,9,3334
+California,6,CA,Ventura,6111,2019,10,4115
+California,6,CA,Ventura,6111,2019,11,3513
+California,6,CA,Ventura,6111,2019,12,3830
+California,6,CA,Ventura,6111,2020,1,4550
+California,6,CA,Ventura,6111,2020,2,3315
+California,6,CA,Yolo,6113,2019,1,1615
+California,6,CA,Yolo,6113,2019,2,1004
+California,6,CA,Yolo,6113,2019,3,917
+California,6,CA,Yolo,6113,2019,4,942
+California,6,CA,Yolo,6113,2019,5,806
+California,6,CA,Yolo,6113,2019,6,860
+California,6,CA,Yolo,6113,2019,7,726
+California,6,CA,Yolo,6113,2019,8,631
+California,6,CA,Yolo,6113,2019,9,651
+California,6,CA,Yolo,6113,2019,10,1123
+California,6,CA,Yolo,6113,2019,11,1330
+California,6,CA,Yolo,6113,2019,12,1594
+California,6,CA,Yolo,6113,2020,1,1554
+California,6,CA,Yolo,6113,2020,2,899
+California,6,CA,Yuba,6115,2019,1,895
+California,6,CA,Yuba,6115,2019,2,621
+California,6,CA,Yuba,6115,2019,3,634
+California,6,CA,Yuba,6115,2019,4,609
+California,6,CA,Yuba,6115,2019,5,502
+California,6,CA,Yuba,6115,2019,6,403
+California,6,CA,Yuba,6115,2019,7,400
+California,6,CA,Yuba,6115,2019,8,412
+California,6,CA,Yuba,6115,2019,9,381
+California,6,CA,Yuba,6115,2019,10,520
+California,6,CA,Yuba,6115,2019,11,589
+California,6,CA,Yuba,6115,2019,12,871
+California,6,CA,Yuba,6115,2020,1,847
+California,6,CA,Yuba,6115,2020,2,523

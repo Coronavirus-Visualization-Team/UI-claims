@@ -1,0 +1,153 @@
+state_name,state_fips,state_abbrev,county_name,county_fips,year,week,initial_claims
+Maryland,24,MD,Allegany,24001,2020,15,551
+Maryland,24,MD,Anne Arundel,24003,2020,15,4441
+Maryland,24,MD,Baltimore City,24510,2020,15,4894
+Maryland,24,MD,Baltimore County,24005,2020,15,7189
+Maryland,24,MD,Calvert,24009,2020,15,579
+Maryland,24,MD,Caroline,24011,2020,15,201
+Maryland,24,MD,Carroll,24013,2020,15,1069
+Maryland,24,MD,Cecil,24015,2020,15,492
+Maryland,24,MD,Charles,24017,2020,15,1161
+Maryland,24,MD,Dorchester,24019,2020,15,209
+Maryland,24,MD,Frederick,24021,2020,15,1834
+Maryland,24,MD,Garrett,24023,2020,15,220
+Maryland,24,MD,Harford,24025,2020,15,1878
+Maryland,24,MD,Howard,24027,2020,15,2521
+Maryland,24,MD,Kent,24029,2020,15,121
+Maryland,24,MD,Montgomery,24031,2020,15,6938
+Maryland,24,MD,Non - Maryland,,2020,15,3384
+Maryland,24,MD,Prince George's,24033,2020,15,6216
+Maryland,24,MD,Queen Anne's,24035,2020,15,341
+Maryland,24,MD,Somerset,24037,2020,15,128
+Maryland,24,MD,St. Mary's,24039,2020,15,604
+Maryland,24,MD,Talbot,24041,2020,15,231
+Maryland,24,MD,Unknown,,2020,15,43
+Maryland,24,MD,Washington,24043,2020,15,1017
+Maryland,24,MD,Wicomico,24045,2020,15,816
+Maryland,24,MD,Worcester,24047,2020,15,467
+Maryland,24,MD,Allegany,24001,2020,14,699
+Maryland,24,MD,Anne Arundel,24003,2020,14,5733
+Maryland,24,MD,Baltimore City,24510,2020,14,6150
+Maryland,24,MD,Baltimore County,24005,2020,14,9187
+Maryland,24,MD,Calvert,24009,2020,14,732
+Maryland,24,MD,Caroline,24011,2020,14,295
+Maryland,24,MD,Carroll,24013,2020,14,1423
+Maryland,24,MD,Cecil,24015,2020,14,667
+Maryland,24,MD,Charles,24017,2020,14,1338
+Maryland,24,MD,Dorchester,24019,2020,14,294
+Maryland,24,MD,Frederick,24021,2020,14,2358
+Maryland,24,MD,Garrett,24023,2020,14,259
+Maryland,24,MD,Harford,24025,2020,14,2512
+Maryland,24,MD,Howard,24027,2020,14,3005
+Maryland,24,MD,Kent,24029,2020,14,118
+Maryland,24,MD,Montgomery,24031,2020,14,9548
+Maryland,24,MD,Non - Maryland,,2020,14,4785
+Maryland,24,MD,Prince George's,24033,2020,14,7768
+Maryland,24,MD,Queen Anne's,24035,2020,14,473
+Maryland,24,MD,Somerset,24037,2020,14,164
+Maryland,24,MD,St. Mary's,24039,2020,14,789
+Maryland,24,MD,Talbot,24041,2020,14,309
+Maryland,24,MD,Unknown,,2020,14,50
+Maryland,24,MD,Washington,24043,2020,14,1402
+Maryland,24,MD,Wicomico,24045,2020,14,1048
+Maryland,24,MD,Worcester,24047,2020,14,664
+Maryland,24,MD,Allegany,24001,2020,13,1057
+Maryland,24,MD,Anne Arundel,24003,2020,13,10573
+Maryland,24,MD,Baltimore City,24510,2020,13,10691
+Maryland,24,MD,Baltimore County,24005,2020,13,16791
+Maryland,24,MD,Calvert,24009,2020,13,1384
+Maryland,24,MD,Caroline,24011,2020,13,467
+Maryland,24,MD,Carroll,24013,2020,13,2979
+Maryland,24,MD,Cecil,24015,2020,13,1174
+Maryland,24,MD,Charles,24017,2020,13,2549
+Maryland,24,MD,Dorchester,24019,2020,13,480
+Maryland,24,MD,Frederick,24021,2020,13,4555
+Maryland,24,MD,Garrett,24023,2020,13,535
+Maryland,24,MD,Harford,24025,2020,13,4752
+Maryland,24,MD,Howard,24027,2020,13,5736
+Maryland,24,MD,Kent,24029,2020,13,281
+Maryland,24,MD,Montgomery,24031,2020,13,15751
+Maryland,24,MD,Non - Maryland,,2020,13,6524
+Maryland,24,MD,Prince George's,24033,2020,13,13339
+Maryland,24,MD,Queen Anne's,24035,2020,13,956
+Maryland,24,MD,Somerset,24037,2020,13,274
+Maryland,24,MD,St. Mary's,24039,2020,13,1282
+Maryland,24,MD,Talbot,24041,2020,13,560
+Maryland,24,MD,Washington,24043,2020,13,97
+Maryland,24,MD,Wicomico,24045,2020,13,2394
+Maryland,24,MD,Worcester,24047,2020,13,1972
+Maryland,24,MD,Allegany,24001,2020,12,848
+Maryland,24,MD,Anne Arundel,24003,2020,12,4517
+Maryland,24,MD,Baltimore City,24510,2020,12,5392
+Maryland,24,MD,Baltimore County,24005,2020,12,6763
+Maryland,24,MD,Calvert,24009,2020,12,620
+Maryland,24,MD,Caroline,24011,2020,12,225
+Maryland,24,MD,Carroll,24013,2020,12,1158
+Maryland,24,MD,Cecil,24015,2020,12,665
+Maryland,24,MD,Charles,24017,2020,12,938
+Maryland,24,MD,Dorchester,24019,2020,12,249
+Maryland,24,MD,Frederick,24021,2020,12,1729
+Maryland,24,MD,Garrett,24023,2020,12,286
+Maryland,24,MD,Harford,24025,2020,12,2038
+Maryland,24,MD,Howard,24027,2020,12,1587
+Maryland,24,MD,Kent,24029,2020,12,90
+Maryland,24,MD,Montgomery,24031,2020,12,3941
+Maryland,24,MD,Non - Maryland,,2020,12,2779
+Maryland,24,MD,Prince George's,24033,2020,12,3792
+Maryland,24,MD,Queen Anne's,24035,2020,12,455
+Maryland,24,MD,Somerset,24037,2020,12,128
+Maryland,24,MD,St. Mary's,24039,2020,12,547
+Maryland,24,MD,Talbot,24041,2020,12,456
+Maryland,24,MD,Washington,24043,2020,12,1238
+Maryland,24,MD,Wicomico,24045,2020,12,922
+Maryland,24,MD,Worcester,24047,2020,12,971
+Maryland,24,MD,Allegany,24001,2020,11,62
+Maryland,24,MD,Anne Arundel,24003,2020,11,281
+Maryland,24,MD,Baltimore City,24510,2020,11,746
+Maryland,24,MD,Baltimore County,24005,2020,11,568
+Maryland,24,MD,Calvert,24009,2020,11,42
+Maryland,24,MD,Caroline,24011,2020,11,23
+Maryland,24,MD,Carroll,24013,2020,11,75
+Maryland,24,MD,Cecil,24015,2020,11,41
+Maryland,24,MD,Charles,24017,2020,11,116
+Maryland,24,MD,Dorchester,24019,2020,11,22
+Maryland,24,MD,Frederick,24021,2020,11,100
+Maryland,24,MD,Garrett,24023,2020,11,18
+Maryland,24,MD,Harford,24025,2020,11,122
+Maryland,24,MD,Howard,24027,2020,11,121
+Maryland,24,MD,Kent,24029,2020,11,5
+Maryland,24,MD,Montgomery,24031,2020,11,256
+Maryland,24,MD,Non - Maryland,,2020,11,449
+Maryland,24,MD,Prince George's,24033,2020,11,518
+Maryland,24,MD,Queen Anne's,24035,2020,11,11
+Maryland,24,MD,Somerset,24037,2020,11,10
+Maryland,24,MD,St. Mary's,24039,2020,11,48
+Maryland,24,MD,Talbot,24041,2020,11,15
+Maryland,24,MD,Washington,24043,2020,11,95
+Maryland,24,MD,Wicomico,24045,2020,11,78
+Maryland,24,MD,Worcester,24047,2020,11,30
+Maryland,24,MD,Allegany,24001,2020,10,30
+Maryland,24,MD,Anne Arundel,24003,2020,10,146
+Maryland,24,MD,Baltimore City,24510,2020,10,378
+Maryland,24,MD,Baltimore County,24005,2020,10,321
+Maryland,24,MD,Calvert,24009,2020,10,30
+Maryland,24,MD,Caroline,24011,2020,10,14
+Maryland,24,MD,Carroll,24013,2020,10,31
+Maryland,24,MD,Cecil,24015,2020,10,29
+Maryland,24,MD,Charles,24017,2020,10,50
+Maryland,24,MD,Dorchester,24019,2020,10,29
+Maryland,24,MD,Frederick,24021,2020,10,51
+Maryland,24,MD,Garrett,24023,2020,10,11
+Maryland,24,MD,Harford,24025,2020,10,89
+Maryland,24,MD,Howard,24027,2020,10,62
+Maryland,24,MD,Kent,24029,2020,10,4
+Maryland,24,MD,Montgomery,24031,2020,10,195
+Maryland,24,MD,Non - Maryland,,2020,10,208
+Maryland,24,MD,Prince George's,24033,2020,10,257
+Maryland,24,MD,Queen Anne's,24035,2020,10,7
+Maryland,24,MD,Somerset,24037,2020,10,7
+Maryland,24,MD,St. Mary's,24039,2020,10,24
+Maryland,24,MD,Talbot,24041,2020,10,6
+Maryland,24,MD,Washington,24043,2020,10,42
+Maryland,24,MD,Wicomico,24045,2020,10,36
+Maryland,24,MD,Worcester,24047,2020,10,33
