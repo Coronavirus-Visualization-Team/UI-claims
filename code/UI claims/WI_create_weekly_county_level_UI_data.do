@@ -40,5 +40,7 @@ order state* county* year week
 * Check the ID
 sort county_fips year week
 
-save "$derived/UI_claims/`state'_`frequency'_county_UI.dta", replace
-export delim "$derived/UI_claims/`state'_`frequency'_county_UI.csv", replace
+rename claims initial_claims
+
+save "$derived/UI_claims/`state'_`frequency'_county_UI_derived.dta", replace
+export delim "$derived/UI_claims/`state'_`frequency'_county_UI_derived.csv", replace
