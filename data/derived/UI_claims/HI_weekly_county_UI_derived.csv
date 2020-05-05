@@ -1,4 +1,4 @@
-state_name,state_fips,abbrev,county_name,county_fips,year,week,initial_claims
+state_name,state_fips,state_abbrev,county_name,county_fips,year,week,initial_claims
 Hawaii,15,HI,OAHU,15003,2020,1,1091
 Hawaii,15,HI,OAHU,15003,2020,2,1104
 Hawaii,15,HI,OAHU,15003,2020,3,777
