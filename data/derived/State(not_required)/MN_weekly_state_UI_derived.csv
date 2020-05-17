@@ -1,7 +1,7 @@
-Week Ending Date, Year, Total Claims 
-03-21, 2020, "113,620"
-03-28, 2020, "105,753"
-04-04, 2020, "103,777"
-04-11, 2020, "82,156"
-04-18, 2020, "66,682"
-04-25, 2020, "45,894"
+state_name,state_fips,state_abbrev,county_name,county_fips,year,week,initial_claims
+Minnesota,27,MN,,,2020,12,"113,620"
+Minnesota,27,MN,,,2020,13,"105,753"
+Minnesota,27,MN,,,2020,14,"103,777"
+Minnesota,27,MN,,,2020,15,"82,156"
+Minnesota,27,MN,,,2020,16,"66,682"
+Minnesota,27,MN,,,2020,17,"45,894"

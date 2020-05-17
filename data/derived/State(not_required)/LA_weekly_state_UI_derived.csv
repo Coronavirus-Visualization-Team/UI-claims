@@ -1,17 +1,3 @@
-,Louisiana Unemployment Insurance,,,
-,Weekly Claims Data,,,
-,,Current Selection,Prior Week,Prior Year
-,Week Ending Dates,5/2/2020,4/25/2020,5/4/2019
-,UI Program,,,
-,Initial Claims,"50,941","66,141","2,009"
-,Continued Claims,"310,013","300,657","13,841"
-,Insured Unemployment Rate,5.5,4.3,0.8
-,UCFE Program,,,
-,Initial Claims,63,60,5
-,Continued Claims,99,95,42
-,UCX Program,,,
-,Initial Claims,33,26,4
-,Continued Claims,40,39,15
-,"Total Claims, All Programs",,,
-,Initial Claims,"51,037","66,227","2,018"
-,Continued Claims,"310,152","300,791","13,898"
+state_name,state_fips,state_abbrev,county_name,county_fips,year,week,initial_claims
+Louisiana,22,LA,,,2020,17,"66,141"
+Louisiana,22,LA,,,2020,18,"50,941"

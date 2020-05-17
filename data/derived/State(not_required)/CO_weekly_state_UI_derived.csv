@@ -1,9 +1,8 @@
-Week #,Week Ending Date,Colorado Total
-N/A,2019 Weekly Average,"1,834"
-10,07-Mar-20,"1,791"
-11,14-Mar-20,"3,041"
-12,21-Mar-20,"24,054"
-13,28-Mar-20,"66,491"
-14,04-Apr-20,"59,618"
-15,11-Apr-20,"40,822"
-16,18-Apr-20,"29,590"
+state_name,state_fips,state_abbrev,county_name,county_fips,year,week,initial_claims
+Colorado,08,CO,,,2020,10,"1,791"
+Colorado,08,CO,,,2020,11,"3,041"
+Colorado,08,CO,,,2020,12,"24,054"
+Colorado,08,CO,,,2020,13,"66,491"
+Colorado,08,CO,,,2020,14,"59,618"
+Colorado,08,CO,,,2020,15,"40,822"
+Colorado,08,CO,,,2020,16,"29,590"
