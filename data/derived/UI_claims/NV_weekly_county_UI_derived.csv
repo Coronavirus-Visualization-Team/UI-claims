@@ -1,293 +1,4 @@
 state_name,state_fips,state_abbrev,county_name,county_fips,year,week,initial_claims
-Nevada,32,NV,Churchill,32001,2020,18,149
-Nevada,32,NV,Clark,32003,2020,18,35896
-Nevada,32,NV,Douglas,32005,2020,18,462
-Nevada,32,NV,Elko,32007,2020,18,398
-Nevada,32,NV,Esmeralda,32009,2020,18,2
-Nevada,32,NV,Eureka,32011,2020,18,7
-Nevada,32,NV,Humboldt,32013,2020,18,88
-Nevada,32,NV,Lander,32015,2020,18,31
-Nevada,32,NV,Lincoln,32017,2020,18,14
-Nevada,32,NV,Lyon,32019,2020,18,561
-Nevada,32,NV,Mineral,32021,2020,18,23
-Nevada,32,NV,Nye,32023,2020,18,315
-Nevada,32,NV,Pershing,32027,2020,18,17
-Nevada,32,NV,Storey,32029,2020,18,11
-Nevada,32,NV,Washoe,32031,2020,18,5630
-Nevada,32,NV,White Pine,32033,2020,18,31
-Nevada,32,NV,Carson City,32510,2020,18,551
-Nevada,32,NV,Carson City,32510,2020,17,539
-Nevada,32,NV,Churchill,32001,2020,17,184
-Nevada,32,NV,Clark,32003,2020,17,31495
-Nevada,32,NV,Douglas,32005,2020,17,372
-Nevada,32,NV,Elko,32007,2020,17,369
-Nevada,32,NV,Esmeralda,32009,2020,17,3
-Nevada,32,NV,Eureka,32011,2020,17,1
-Nevada,32,NV,Humboldt,32013,2020,17,128
-Nevada,32,NV,Lander,32015,2020,17,16
-Nevada,32,NV,Lincoln,32017,2020,17,3
-Nevada,32,NV,Lyon,32019,2020,17,889
-Nevada,32,NV,Mineral,32021,2020,17,18
-Nevada,32,NV,Nye,32023,2020,17,268
-Nevada,32,NV,Pershing,32027,2020,17,17
-Nevada,32,NV,Storey,32029,2020,17,13
-Nevada,32,NV,Washoe,32031,2020,17,5892
-Nevada,32,NV,White Pine,32033,2020,17,32
-Nevada,32,NV,Carson City,32510,2020,16,662
-Nevada,32,NV,Churchill,32001,2020,16,186
-Nevada,32,NV,Clark,32003,2020,16,47949
-Nevada,32,NV,Douglas,32005,2020,16,506
-Nevada,32,NV,Elko,32007,2020,16,579
-Nevada,32,NV,Esmeralda,32009,2020,16,2
-Nevada,32,NV,Eureka,32011,2020,16,12
-Nevada,32,NV,Humboldt,32013,2020,16,84
-Nevada,32,NV,Lander,32015,2020,16,20
-Nevada,32,NV,Lincoln,32017,2020,16,19
-Nevada,32,NV,Lyon,32019,2020,16,744
-Nevada,32,NV,Mineral,32021,2020,16,37
-Nevada,32,NV,Nye,32023,2020,16,382
-Nevada,32,NV,Pershing,32027,2020,16,16
-Nevada,32,NV,Storey,32029,2020,16,17
-Nevada,32,NV,Washoe,32031,2020,16,7734
-Nevada,32,NV,White Pine,32033,2020,16,36
-Nevada,32,NV,Carson City,32510,2020,15,943
-Nevada,32,NV,Churchill,32001,2020,15,232
-Nevada,32,NV,Clark,32003,2020,15,64889
-Nevada,32,NV,Douglas,32005,2020,15,735
-Nevada,32,NV,Elko,32007,2020,15,839
-Nevada,32,NV,Esmeralda,32009,2020,15,3
-Nevada,32,NV,Eureka,32011,2020,15,10
-Nevada,32,NV,Humboldt,32013,2020,15,112
-Nevada,32,NV,Lander,32015,2020,15,39
-Nevada,32,NV,Lincoln,32017,2020,15,28
-Nevada,32,NV,Lyon,32019,2020,15,722
-Nevada,32,NV,Mineral,32021,2020,15,23
-Nevada,32,NV,Nye,32023,2020,15,587
-Nevada,32,NV,Pershing,32027,2020,15,15
-Nevada,32,NV,Storey,32029,2020,15,23
-Nevada,32,NV,Washoe,32031,2020,15,9034
-Nevada,32,NV,White Pine,32033,2020,15,62
-Nevada,32,NV,Carson City,32510,2020,14,848
-Nevada,32,NV,Churchill,32001,2020,14,171
-Nevada,32,NV,Clark,32003,2020,14,58935
-Nevada,32,NV,Douglas,32005,2020,14,541
-Nevada,32,NV,Elko,32007,2020,14,569
-Nevada,32,NV,Esmeralda,32009,2020,14,3
-Nevada,32,NV,Eureka,32011,2020,14,8
-Nevada,32,NV,Humboldt,32013,2020,14,103
-Nevada,32,NV,Lander,32015,2020,14,31
-Nevada,32,NV,Lincoln,32017,2020,14,19
-Nevada,32,NV,Lyon,32019,2020,14,601
-Nevada,32,NV,Mineral,32021,2020,14,31
-Nevada,32,NV,Nye,32023,2020,14,511
-Nevada,32,NV,Pershing,32027,2020,14,28
-Nevada,32,NV,Storey,32029,2020,14,16
-Nevada,32,NV,Washoe,32031,2020,14,7664
-Nevada,32,NV,White Pine,32033,2020,14,47
-Nevada,32,NV,Carson City,32510,2020,13,1153
-Nevada,32,NV,Churchill,32001,2020,13,223
-Nevada,32,NV,Clark,32003,2020,13,78983
-Nevada,32,NV,Douglas,32005,2020,13,652
-Nevada,32,NV,Elko,32007,2020,13,524
-Nevada,32,NV,Esmeralda,32009,2020,13,3
-Nevada,32,NV,Eureka,32011,2020,13,2
-Nevada,32,NV,Humboldt,32013,2020,13,108
-Nevada,32,NV,Lander,32015,2020,13,30
-Nevada,32,NV,Lincoln,32017,2020,13,23
-Nevada,32,NV,Lyon,32019,2020,13,793
-Nevada,32,NV,Mineral,32021,2020,13,46
-Nevada,32,NV,Nye,32023,2020,13,539
-Nevada,32,NV,Pershing,32027,2020,13,31
-Nevada,32,NV,Storey,32029,2020,13,25
-Nevada,32,NV,Washoe,32031,2020,13,8916
-Nevada,32,NV,White Pine,32033,2020,13,64
-Nevada,32,NV,Carson City,32510,2020,12,381
-Nevada,32,NV,Churchill,32001,2020,12,101
-Nevada,32,NV,Clark,32003,2020,12,17809
-Nevada,32,NV,Douglas,32005,2020,12,212
-Nevada,32,NV,Elko,32007,2020,12,205
-Nevada,32,NV,Esmeralda,32009,2020,12,4
-Nevada,32,NV,Eureka,32011,2020,12,6
-Nevada,32,NV,Humboldt,32013,2020,12,67
-Nevada,32,NV,Lander,32015,2020,12,39
-Nevada,32,NV,Lincoln,32017,2020,12,14
-Nevada,32,NV,Lyon,32019,2020,12,377
-Nevada,32,NV,Mineral,32021,2020,12,26
-Nevada,32,NV,Nye,32023,2020,12,234
-Nevada,32,NV,Pershing,32027,2020,12,21
-Nevada,32,NV,Storey,32029,2020,12,5
-Nevada,32,NV,Washoe,32031,2020,12,2470
-Nevada,32,NV,White Pine,32033,2020,12,42
-Nevada,32,NV,Carson City,32510,2020,11,43
-Nevada,32,NV,Churchill,32001,2020,11,9
-Nevada,32,NV,Clark,32003,2020,11,6070
-Nevada,32,NV,Douglas,32005,2020,11,20
-Nevada,32,NV,Elko,32007,2020,11,24
-Nevada,32,NV,Esmeralda,32009,2020,11,1
-Nevada,32,NV,Eureka,32011,2020,11,0
-Nevada,32,NV,Humboldt,32013,2020,11,5
-Nevada,32,NV,Lander,32015,2020,11,2
-Nevada,32,NV,Lincoln,32017,2020,11,1
-Nevada,32,NV,Lyon,32019,2020,11,38
-Nevada,32,NV,Mineral,32021,2020,11,3
-Nevada,32,NV,Nye,32023,2020,11,31
-Nevada,32,NV,Pershing,32027,2020,11,3
-Nevada,32,NV,Storey,32029,2020,11,0
-Nevada,32,NV,Washoe,32031,2020,11,318
-Nevada,32,NV,White Pine,32033,2020,11,4
-Nevada,32,NV,Carson City,32510,2020,10,37
-Nevada,32,NV,Churchill,32001,2020,10,16
-Nevada,32,NV,Clark,32003,2020,10,2106
-Nevada,32,NV,Douglas,32005,2020,10,21
-Nevada,32,NV,Elko,32007,2020,10,17
-Nevada,32,NV,Esmeralda,32009,2020,10,0
-Nevada,32,NV,Eureka,32011,2020,10,2
-Nevada,32,NV,Humboldt,32013,2020,10,6
-Nevada,32,NV,Lander,32015,2020,10,5
-Nevada,32,NV,Lincoln,32017,2020,10,2
-Nevada,32,NV,Lyon,32019,2020,10,45
-Nevada,32,NV,Mineral,32021,2020,10,1
-Nevada,32,NV,Nye,32023,2020,10,16
-Nevada,32,NV,Pershing,32027,2020,10,0
-Nevada,32,NV,Storey,32029,2020,10,0
-Nevada,32,NV,Washoe,32031,2020,10,306
-Nevada,32,NV,White Pine,32033,2020,10,0
-Nevada,32,NV,Carson City,32510,2020,9,41
-Nevada,32,NV,Churchill,32001,2020,9,9
-Nevada,32,NV,Clark,32003,2020,9,2139
-Nevada,32,NV,Douglas,32005,2020,9,21
-Nevada,32,NV,Elko,32007,2020,9,19
-Nevada,32,NV,Esmeralda,32009,2020,9,1
-Nevada,32,NV,Eureka,32011,2020,9,1
-Nevada,32,NV,Humboldt,32013,2020,9,7
-Nevada,32,NV,Lander,32015,2020,9,4
-Nevada,32,NV,Lincoln,32017,2020,9,2
-Nevada,32,NV,Lyon,32019,2020,9,54
-Nevada,32,NV,Mineral,32021,2020,9,2
-Nevada,32,NV,Nye,32023,2020,9,23
-Nevada,32,NV,Pershing,32027,2020,9,0
-Nevada,32,NV,Storey,32029,2020,9,4
-Nevada,32,NV,Washoe,32031,2020,9,298
-Nevada,32,NV,White Pine,32033,2020,9,2
-Nevada,32,NV,Carson City,32510,2020,8,44
-Nevada,32,NV,Churchill,32001,2020,8,12
-Nevada,32,NV,Clark,32003,2020,8,1810
-Nevada,32,NV,Douglas,32005,2020,8,26
-Nevada,32,NV,Elko,32007,2020,8,19
-Nevada,32,NV,Esmeralda,32009,2020,8,0
-Nevada,32,NV,Eureka,32011,2020,8,1
-Nevada,32,NV,Humboldt,32013,2020,8,1
-Nevada,32,NV,Lander,32015,2020,8,1
-Nevada,32,NV,Lincoln,32017,2020,8,1
-Nevada,32,NV,Lyon,32019,2020,8,29
-Nevada,32,NV,Mineral,32021,2020,8,4
-Nevada,32,NV,Nye,32023,2020,8,19
-Nevada,32,NV,Pershing,32027,2020,8,3
-Nevada,32,NV,Storey,32029,2020,8,2
-Nevada,32,NV,Washoe,32031,2020,8,295
-Nevada,32,NV,White Pine,32033,2020,8,0
-Nevada,32,NV,Carson City,32510,2020,7,37
-Nevada,32,NV,Churchill,32001,2020,7,14
-Nevada,32,NV,Clark,32003,2020,7,2297
-Nevada,32,NV,Douglas,32005,2020,7,23
-Nevada,32,NV,Elko,32007,2020,7,38
-Nevada,32,NV,Esmeralda,32009,2020,7,0
-Nevada,32,NV,Eureka,32011,2020,7,0
-Nevada,32,NV,Humboldt,32013,2020,7,10
-Nevada,32,NV,Lander,32015,2020,7,1
-Nevada,32,NV,Lincoln,32017,2020,7,0
-Nevada,32,NV,Lyon,32019,2020,7,62
-Nevada,32,NV,Mineral,32021,2020,7,2
-Nevada,32,NV,Nye,32023,2020,7,31
-Nevada,32,NV,Pershing,32027,2020,7,0
-Nevada,32,NV,Storey,32029,2020,7,2
-Nevada,32,NV,Washoe,32031,2020,7,290
-Nevada,32,NV,White Pine,32033,2020,7,5
-Nevada,32,NV,Carson City,32510,2020,6,40
-Nevada,32,NV,Churchill,32001,2020,6,12
-Nevada,32,NV,Clark,32003,2020,6,2445
-Nevada,32,NV,Douglas,32005,2020,6,26
-Nevada,32,NV,Elko,32007,2020,6,33
-Nevada,32,NV,Esmeralda,32009,2020,6,0
-Nevada,32,NV,Eureka,32011,2020,6,0
-Nevada,32,NV,Humboldt,32013,2020,6,17
-Nevada,32,NV,Lander,32015,2020,6,5
-Nevada,32,NV,Lincoln,32017,2020,6,1
-Nevada,32,NV,Lyon,32019,2020,6,55
-Nevada,32,NV,Mineral,32021,2020,6,1
-Nevada,32,NV,Nye,32023,2020,6,23
-Nevada,32,NV,Pershing,32027,2020,6,1
-Nevada,32,NV,Storey,32029,2020,6,2
-Nevada,32,NV,Washoe,32031,2020,6,332
-Nevada,32,NV,White Pine,32033,2020,6,11
-Nevada,32,NV,Carson City,32510,2020,5,55
-Nevada,32,NV,Churchill,32001,2020,5,20
-Nevada,32,NV,Clark,32003,2020,5,1949
-Nevada,32,NV,Douglas,32005,2020,5,24
-Nevada,32,NV,Elko,32007,2020,5,34
-Nevada,32,NV,Esmeralda,32009,2020,5,0
-Nevada,32,NV,Eureka,32011,2020,5,0
-Nevada,32,NV,Humboldt,32013,2020,5,2
-Nevada,32,NV,Lander,32015,2020,5,2
-Nevada,32,NV,Lincoln,32017,2020,5,0
-Nevada,32,NV,Lyon,32019,2020,5,44
-Nevada,32,NV,Mineral,32021,2020,5,1
-Nevada,32,NV,Nye,32023,2020,5,29
-Nevada,32,NV,Pershing,32027,2020,5,5
-Nevada,32,NV,Storey,32029,2020,5,0
-Nevada,32,NV,Washoe,32031,2020,5,344
-Nevada,32,NV,White Pine,32033,2020,5,6
-Nevada,32,NV,Carson City,32510,2020,4,65
-Nevada,32,NV,Churchill,32001,2020,4,21
-Nevada,32,NV,Clark,32003,2020,4,1773
-Nevada,32,NV,Douglas,32005,2020,4,24
-Nevada,32,NV,Elko,32007,2020,4,28
-Nevada,32,NV,Esmeralda,32009,2020,4,0
-Nevada,32,NV,Eureka,32011,2020,4,2
-Nevada,32,NV,Humboldt,32013,2020,4,11
-Nevada,32,NV,Lander,32015,2020,4,4
-Nevada,32,NV,Lincoln,32017,2020,4,2
-Nevada,32,NV,Lyon,32019,2020,4,58
-Nevada,32,NV,Mineral,32021,2020,4,3
-Nevada,32,NV,Nye,32023,2020,4,17
-Nevada,32,NV,Pershing,32027,2020,4,4
-Nevada,32,NV,Storey,32029,2020,4,1
-Nevada,32,NV,Washoe,32031,2020,4,300
-Nevada,32,NV,White Pine,32033,2020,4,2
-Nevada,32,NV,Carson City,32510,2020,3,57
-Nevada,32,NV,Churchill,32001,2020,3,23
-Nevada,32,NV,Clark,32003,2020,3,2051
-Nevada,32,NV,Douglas,32005,2020,3,30
-Nevada,32,NV,Elko,32007,2020,3,40
-Nevada,32,NV,Esmeralda,32009,2020,3,0
-Nevada,32,NV,Eureka,32011,2020,3,0
-Nevada,32,NV,Humboldt,32013,2020,3,14
-Nevada,32,NV,Lander,32015,2020,3,2
-Nevada,32,NV,Lincoln,32017,2020,3,0
-Nevada,32,NV,Lyon,32019,2020,3,56
-Nevada,32,NV,Mineral,32021,2020,3,4
-Nevada,32,NV,Nye,32023,2020,3,23
-Nevada,32,NV,Pershing,32027,2020,3,3
-Nevada,32,NV,Storey,32029,2020,3,0
-Nevada,32,NV,Washoe,32031,2020,3,401
-Nevada,32,NV,White Pine,32033,2020,3,11
-Nevada,32,NV,Carson City,32510,2020,2,65
-Nevada,32,NV,Churchill,32001,2020,2,35
-Nevada,32,NV,Clark,32003,2020,2,2187
-Nevada,32,NV,Douglas,32005,2020,2,48
-Nevada,32,NV,Elko,32007,2020,2,56
-Nevada,32,NV,Esmeralda,32009,2020,2,1
-Nevada,32,NV,Eureka,32011,2020,2,0
-Nevada,32,NV,Humboldt,32013,2020,2,20
-Nevada,32,NV,Lander,32015,2020,2,13
-Nevada,32,NV,Lincoln,32017,2020,2,3
-Nevada,32,NV,Lyon,32019,2020,2,83
-Nevada,32,NV,Mineral,32021,2020,2,7
-Nevada,32,NV,Nye,32023,2020,2,29
-Nevada,32,NV,Pershing,32027,2020,2,4
-Nevada,32,NV,Storey,32029,2020,2,0
-Nevada,32,NV,Washoe,32031,2020,2,435
-Nevada,32,NV,White Pine,32033,2020,2,6
 Nevada,32,NV,Carson City,32510,2020,1,42
 Nevada,32,NV,Churchill,32001,2020,1,22
 Nevada,32,NV,Clark,32003,2020,1,1827
@@ -305,3 +16,291 @@ Nevada,32,NV,Pershing,32027,2020,1,6
 Nevada,32,NV,Storey,32029,2020,1,1
 Nevada,32,NV,Washoe,32031,2020,1,436
 Nevada,32,NV,White Pine,32033,2020,1,10
+Nevada,32,NV,Carson City,32510,2020,2,65
+Nevada,32,NV,Churchill,32001,2020,2,35
+Nevada,32,NV,Clark,32003,2020,2,2187
+Nevada,32,NV,Douglas,32005,2020,2,48
+Nevada,32,NV,Elko,32007,2020,2,56
+Nevada,32,NV,Esmeralda,32009,2020,2,1
+Nevada,32,NV,Eureka,32011,2020,2,0
+Nevada,32,NV,Humboldt,32013,2020,2,20
+Nevada,32,NV,Lander,32015,2020,2,13
+Nevada,32,NV,Lincoln,32017,2020,2,3
+Nevada,32,NV,Lyon,32019,2020,2,83
+Nevada,32,NV,Mineral,32021,2020,2,7
+Nevada,32,NV,Nye,32023,2020,2,29
+Nevada,32,NV,Pershing,32027,2020,2,4
+Nevada,32,NV,Storey,32029,2020,2,0
+Nevada,32,NV,Washoe,32031,2020,2,435
+Nevada,32,NV,White Pine,32033,2020,2,6
+Nevada,32,NV,Carson City,32510,2020,3,57
+Nevada,32,NV,Churchill,32001,2020,3,23
+Nevada,32,NV,Clark,32003,2020,3,2051
+Nevada,32,NV,Douglas,32005,2020,3,30
+Nevada,32,NV,Elko,32007,2020,3,40
+Nevada,32,NV,Esmeralda,32009,2020,3,0
+Nevada,32,NV,Eureka,32011,2020,3,0
+Nevada,32,NV,Humboldt,32013,2020,3,14
+Nevada,32,NV,Lander,32015,2020,3,2
+Nevada,32,NV,Lincoln,32017,2020,3,0
+Nevada,32,NV,Lyon,32019,2020,3,56
+Nevada,32,NV,Mineral,32021,2020,3,4
+Nevada,32,NV,Nye,32023,2020,3,23
+Nevada,32,NV,Pershing,32027,2020,3,3
+Nevada,32,NV,Storey,32029,2020,3,0
+Nevada,32,NV,Washoe,32031,2020,3,401
+Nevada,32,NV,White Pine,32033,2020,3,11
+Nevada,32,NV,Carson City,32510,2020,4,65
+Nevada,32,NV,Churchill,32001,2020,4,21
+Nevada,32,NV,Clark,32003,2020,4,1773
+Nevada,32,NV,Douglas,32005,2020,4,24
+Nevada,32,NV,Elko,32007,2020,4,28
+Nevada,32,NV,Esmeralda,32009,2020,4,0
+Nevada,32,NV,Eureka,32011,2020,4,2
+Nevada,32,NV,Humboldt,32013,2020,4,11
+Nevada,32,NV,Lander,32015,2020,4,4
+Nevada,32,NV,Lincoln,32017,2020,4,2
+Nevada,32,NV,Lyon,32019,2020,4,58
+Nevada,32,NV,Mineral,32021,2020,4,3
+Nevada,32,NV,Nye,32023,2020,4,17
+Nevada,32,NV,Pershing,32027,2020,4,4
+Nevada,32,NV,Storey,32029,2020,4,1
+Nevada,32,NV,Washoe,32031,2020,4,300
+Nevada,32,NV,White Pine,32033,2020,4,2
+Nevada,32,NV,Carson City,32510,2020,5,55
+Nevada,32,NV,Churchill,32001,2020,5,20
+Nevada,32,NV,Clark,32003,2020,5,1949
+Nevada,32,NV,Douglas,32005,2020,5,24
+Nevada,32,NV,Elko,32007,2020,5,34
+Nevada,32,NV,Esmeralda,32009,2020,5,0
+Nevada,32,NV,Eureka,32011,2020,5,0
+Nevada,32,NV,Humboldt,32013,2020,5,2
+Nevada,32,NV,Lander,32015,2020,5,2
+Nevada,32,NV,Lincoln,32017,2020,5,0
+Nevada,32,NV,Lyon,32019,2020,5,44
+Nevada,32,NV,Mineral,32021,2020,5,1
+Nevada,32,NV,Nye,32023,2020,5,29
+Nevada,32,NV,Pershing,32027,2020,5,5
+Nevada,32,NV,Storey,32029,2020,5,0
+Nevada,32,NV,Washoe,32031,2020,5,344
+Nevada,32,NV,White Pine,32033,2020,5,6
+Nevada,32,NV,Carson City,32510,2020,6,40
+Nevada,32,NV,Churchill,32001,2020,6,12
+Nevada,32,NV,Clark,32003,2020,6,2445
+Nevada,32,NV,Douglas,32005,2020,6,26
+Nevada,32,NV,Elko,32007,2020,6,33
+Nevada,32,NV,Esmeralda,32009,2020,6,0
+Nevada,32,NV,Eureka,32011,2020,6,0
+Nevada,32,NV,Humboldt,32013,2020,6,17
+Nevada,32,NV,Lander,32015,2020,6,5
+Nevada,32,NV,Lincoln,32017,2020,6,1
+Nevada,32,NV,Lyon,32019,2020,6,55
+Nevada,32,NV,Mineral,32021,2020,6,1
+Nevada,32,NV,Nye,32023,2020,6,23
+Nevada,32,NV,Pershing,32027,2020,6,1
+Nevada,32,NV,Storey,32029,2020,6,2
+Nevada,32,NV,Washoe,32031,2020,6,332
+Nevada,32,NV,White Pine,32033,2020,6,11
+Nevada,32,NV,Carson City,32510,2020,7,37
+Nevada,32,NV,Churchill,32001,2020,7,14
+Nevada,32,NV,Clark,32003,2020,7,2297
+Nevada,32,NV,Douglas,32005,2020,7,23
+Nevada,32,NV,Elko,32007,2020,7,38
+Nevada,32,NV,Esmeralda,32009,2020,7,0
+Nevada,32,NV,Eureka,32011,2020,7,0
+Nevada,32,NV,Humboldt,32013,2020,7,10
+Nevada,32,NV,Lander,32015,2020,7,1
+Nevada,32,NV,Lincoln,32017,2020,7,0
+Nevada,32,NV,Lyon,32019,2020,7,62
+Nevada,32,NV,Mineral,32021,2020,7,2
+Nevada,32,NV,Nye,32023,2020,7,31
+Nevada,32,NV,Pershing,32027,2020,7,0
+Nevada,32,NV,Storey,32029,2020,7,2
+Nevada,32,NV,Washoe,32031,2020,7,290
+Nevada,32,NV,White Pine,32033,2020,7,5
+Nevada,32,NV,Carson City,32510,2020,8,44
+Nevada,32,NV,Churchill,32001,2020,8,12
+Nevada,32,NV,Clark,32003,2020,8,1810
+Nevada,32,NV,Douglas,32005,2020,8,26
+Nevada,32,NV,Elko,32007,2020,8,19
+Nevada,32,NV,Esmeralda,32009,2020,8,0
+Nevada,32,NV,Eureka,32011,2020,8,1
+Nevada,32,NV,Humboldt,32013,2020,8,1
+Nevada,32,NV,Lander,32015,2020,8,1
+Nevada,32,NV,Lincoln,32017,2020,8,1
+Nevada,32,NV,Lyon,32019,2020,8,29
+Nevada,32,NV,Mineral,32021,2020,8,4
+Nevada,32,NV,Nye,32023,2020,8,19
+Nevada,32,NV,Pershing,32027,2020,8,3
+Nevada,32,NV,Storey,32029,2020,8,2
+Nevada,32,NV,Washoe,32031,2020,8,295
+Nevada,32,NV,White Pine,32033,2020,8,0
+Nevada,32,NV,Carson City,32510,2020,9,41
+Nevada,32,NV,Churchill,32001,2020,9,9
+Nevada,32,NV,Clark,32003,2020,9,2139
+Nevada,32,NV,Douglas,32005,2020,9,21
+Nevada,32,NV,Elko,32007,2020,9,19
+Nevada,32,NV,Esmeralda,32009,2020,9,1
+Nevada,32,NV,Eureka,32011,2020,9,1
+Nevada,32,NV,Humboldt,32013,2020,9,7
+Nevada,32,NV,Lander,32015,2020,9,4
+Nevada,32,NV,Lincoln,32017,2020,9,2
+Nevada,32,NV,Lyon,32019,2020,9,54
+Nevada,32,NV,Mineral,32021,2020,9,2
+Nevada,32,NV,Nye,32023,2020,9,23
+Nevada,32,NV,Pershing,32027,2020,9,0
+Nevada,32,NV,Storey,32029,2020,9,4
+Nevada,32,NV,Washoe,32031,2020,9,298
+Nevada,32,NV,White Pine,32033,2020,9,2
+Nevada,32,NV,Carson City,32510,2020,10,37
+Nevada,32,NV,Churchill,32001,2020,10,16
+Nevada,32,NV,Clark,32003,2020,10,2106
+Nevada,32,NV,Douglas,32005,2020,10,21
+Nevada,32,NV,Elko,32007,2020,10,17
+Nevada,32,NV,Esmeralda,32009,2020,10,0
+Nevada,32,NV,Eureka,32011,2020,10,2
+Nevada,32,NV,Humboldt,32013,2020,10,6
+Nevada,32,NV,Lander,32015,2020,10,5
+Nevada,32,NV,Lincoln,32017,2020,10,2
+Nevada,32,NV,Lyon,32019,2020,10,45
+Nevada,32,NV,Mineral,32021,2020,10,1
+Nevada,32,NV,Nye,32023,2020,10,16
+Nevada,32,NV,Pershing,32027,2020,10,0
+Nevada,32,NV,Storey,32029,2020,10,0
+Nevada,32,NV,Washoe,32031,2020,10,306
+Nevada,32,NV,White Pine,32033,2020,10,0
+Nevada,32,NV,Carson City,32510,2020,11,43
+Nevada,32,NV,Churchill,32001,2020,11,9
+Nevada,32,NV,Clark,32003,2020,11,6070
+Nevada,32,NV,Douglas,32005,2020,11,20
+Nevada,32,NV,Elko,32007,2020,11,24
+Nevada,32,NV,Esmeralda,32009,2020,11,1
+Nevada,32,NV,Eureka,32011,2020,11,0
+Nevada,32,NV,Humboldt,32013,2020,11,5
+Nevada,32,NV,Lander,32015,2020,11,2
+Nevada,32,NV,Lincoln,32017,2020,11,1
+Nevada,32,NV,Lyon,32019,2020,11,38
+Nevada,32,NV,Mineral,32021,2020,11,3
+Nevada,32,NV,Nye,32023,2020,11,31
+Nevada,32,NV,Pershing,32027,2020,11,3
+Nevada,32,NV,Storey,32029,2020,11,0
+Nevada,32,NV,Washoe,32031,2020,11,318
+Nevada,32,NV,White Pine,32033,2020,11,4
+Nevada,32,NV,Carson City,32510,2020,12,381
+Nevada,32,NV,Churchill,32001,2020,12,101
+Nevada,32,NV,Clark,32003,2020,12,17809
+Nevada,32,NV,Douglas,32005,2020,12,212
+Nevada,32,NV,Elko,32007,2020,12,205
+Nevada,32,NV,Esmeralda,32009,2020,12,4
+Nevada,32,NV,Eureka,32011,2020,12,6
+Nevada,32,NV,Humboldt,32013,2020,12,67
+Nevada,32,NV,Lander,32015,2020,12,39
+Nevada,32,NV,Lincoln,32017,2020,12,14
+Nevada,32,NV,Lyon,32019,2020,12,377
+Nevada,32,NV,Mineral,32021,2020,12,26
+Nevada,32,NV,Nye,32023,2020,12,234
+Nevada,32,NV,Pershing,32027,2020,12,21
+Nevada,32,NV,Storey,32029,2020,12,5
+Nevada,32,NV,Washoe,32031,2020,12,2470
+Nevada,32,NV,White Pine,32033,2020,12,42
+Nevada,32,NV,Carson City,32510,2020,13,1153
+Nevada,32,NV,Churchill,32001,2020,13,223
+Nevada,32,NV,Clark,32003,2020,13,78983
+Nevada,32,NV,Douglas,32005,2020,13,652
+Nevada,32,NV,Elko,32007,2020,13,524
+Nevada,32,NV,Esmeralda,32009,2020,13,3
+Nevada,32,NV,Eureka,32011,2020,13,2
+Nevada,32,NV,Humboldt,32013,2020,13,108
+Nevada,32,NV,Lander,32015,2020,13,30
+Nevada,32,NV,Lincoln,32017,2020,13,23
+Nevada,32,NV,Lyon,32019,2020,13,793
+Nevada,32,NV,Mineral,32021,2020,13,46
+Nevada,32,NV,Nye,32023,2020,13,539
+Nevada,32,NV,Pershing,32027,2020,13,31
+Nevada,32,NV,Storey,32029,2020,13,25
+Nevada,32,NV,Washoe,32031,2020,13,8916
+Nevada,32,NV,White Pine,32033,2020,13,64
+Nevada,32,NV,Carson City,32510,2020,14,848
+Nevada,32,NV,Churchill,32001,2020,14,171
+Nevada,32,NV,Clark,32003,2020,14,58935
+Nevada,32,NV,Douglas,32005,2020,14,541
+Nevada,32,NV,Elko,32007,2020,14,569
+Nevada,32,NV,Esmeralda,32009,2020,14,3
+Nevada,32,NV,Eureka,32011,2020,14,8
+Nevada,32,NV,Humboldt,32013,2020,14,103
+Nevada,32,NV,Lander,32015,2020,14,31
+Nevada,32,NV,Lincoln,32017,2020,14,19
+Nevada,32,NV,Lyon,32019,2020,14,601
+Nevada,32,NV,Mineral,32021,2020,14,31
+Nevada,32,NV,Nye,32023,2020,14,511
+Nevada,32,NV,Pershing,32027,2020,14,28
+Nevada,32,NV,Storey,32029,2020,14,16
+Nevada,32,NV,Washoe,32031,2020,14,7664
+Nevada,32,NV,White Pine,32033,2020,14,47
+Nevada,32,NV,Carson City,32510,2020,15,943
+Nevada,32,NV,Churchill,32001,2020,15,232
+Nevada,32,NV,Clark,32003,2020,15,64889
+Nevada,32,NV,Douglas,32005,2020,15,735
+Nevada,32,NV,Elko,32007,2020,15,839
+Nevada,32,NV,Esmeralda,32009,2020,15,3
+Nevada,32,NV,Eureka,32011,2020,15,10
+Nevada,32,NV,Humboldt,32013,2020,15,112
+Nevada,32,NV,Lander,32015,2020,15,39
+Nevada,32,NV,Lincoln,32017,2020,15,28
+Nevada,32,NV,Lyon,32019,2020,15,722
+Nevada,32,NV,Mineral,32021,2020,15,23
+Nevada,32,NV,Nye,32023,2020,15,587
+Nevada,32,NV,Pershing,32027,2020,15,15
+Nevada,32,NV,Storey,32029,2020,15,23
+Nevada,32,NV,Washoe,32031,2020,15,9034
+Nevada,32,NV,White Pine,32033,2020,15,62
+Nevada,32,NV,Carson City,32510,2020,16,662
+Nevada,32,NV,Churchill,32001,2020,16,186
+Nevada,32,NV,Clark,32003,2020,16,47949
+Nevada,32,NV,Douglas,32005,2020,16,506
+Nevada,32,NV,Elko,32007,2020,16,579
+Nevada,32,NV,Esmeralda,32009,2020,16,2
+Nevada,32,NV,Eureka,32011,2020,16,12
+Nevada,32,NV,Humboldt,32013,2020,16,84
+Nevada,32,NV,Lander,32015,2020,16,20
+Nevada,32,NV,Lincoln,32017,2020,16,19
+Nevada,32,NV,Lyon,32019,2020,16,744
+Nevada,32,NV,Mineral,32021,2020,16,37
+Nevada,32,NV,Nye,32023,2020,16,382
+Nevada,32,NV,Pershing,32027,2020,16,16
+Nevada,32,NV,Storey,32029,2020,16,17
+Nevada,32,NV,Washoe,32031,2020,16,7734
+Nevada,32,NV,White Pine,32033,2020,16,36
+Nevada,32,NV,Carson City,32510,2020,17,539
+Nevada,32,NV,Churchill,32001,2020,17,184
+Nevada,32,NV,Clark,32003,2020,17,31495
+Nevada,32,NV,Douglas,32005,2020,17,372
+Nevada,32,NV,Elko,32007,2020,17,369
+Nevada,32,NV,Esmeralda,32009,2020,17,3
+Nevada,32,NV,Eureka,32011,2020,17,1
+Nevada,32,NV,Humboldt,32013,2020,17,128
+Nevada,32,NV,Lander,32015,2020,17,16
+Nevada,32,NV,Lincoln,32017,2020,17,3
+Nevada,32,NV,Lyon,32019,2020,17,889
+Nevada,32,NV,Mineral,32021,2020,17,18
+Nevada,32,NV,Nye,32023,2020,17,268
+Nevada,32,NV,Pershing,32027,2020,17,17
+Nevada,32,NV,Storey,32029,2020,17,13
+Nevada,32,NV,Washoe,32031,2020,17,5892
+Nevada,32,NV,White Pine,32033,2020,17,32
+Nevada,32,NV,Churchill,32001,2020,18,149
+Nevada,32,NV,Clark,32003,2020,18,35896
+Nevada,32,NV,Douglas,32005,2020,18,462
+Nevada,32,NV,Elko,32007,2020,18,398
+Nevada,32,NV,Esmeralda,32009,2020,18,2
+Nevada,32,NV,Eureka,32011,2020,18,7
+Nevada,32,NV,Humboldt,32013,2020,18,88
+Nevada,32,NV,Lander,32015,2020,18,31
+Nevada,32,NV,Lincoln,32017,2020,18,14
+Nevada,32,NV,Lyon,32019,2020,18,561
+Nevada,32,NV,Mineral,32021,2020,18,23
+Nevada,32,NV,Nye,32023,2020,18,315
+Nevada,32,NV,Pershing,32027,2020,18,17
+Nevada,32,NV,Storey,32029,2020,18,11
+Nevada,32,NV,Washoe,32031,2020,18,5630
+Nevada,32,NV,White Pine,32033,2020,18,31
