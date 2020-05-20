@@ -1,669 +1,4 @@
 state_name,state_fips,state_abbrev,county_name,county_fips,year,week,initial_claims
-Virginia,51,VA,Accomack,51001,2020,16,170
-Virginia,51,VA,Albemarle,51003,2020,16,602
-Virginia,51,VA,Alexandria City,51510,2020,16,1398
-Virginia,51,VA,Alleghany,51005,2020,16,38
-Virginia,51,VA,Amelia,51007,2020,16,88
-Virginia,51,VA,Amherst,51009,2020,16,197
-Virginia,51,VA,Appomattox,51011,2020,16,88
-Virginia,51,VA,Arlington,51013,2020,16,1438
-Virginia,51,VA,Augusta,51015,2020,16,339
-Virginia,51,VA,Bath,51017,2020,16,52
-Virginia,51,VA,Bedford,51019,2020,16,474
-Virginia,51,VA,Bland,51021,2020,16,55
-Virginia,51,VA,Botetourt,51023,2020,16,196
-Virginia,51,VA,Bristol City,51520,2020,16,133
-Virginia,51,VA,Brunswick,51025,2020,16,91
-Virginia,51,VA,Buchanan,51027,2020,16,75
-Virginia,51,VA,Buckingham,51029,2020,16,55
-Virginia,51,VA,Buena Vista City,51530,2020,16,81
-Virginia,51,VA,Campbell,51031,2020,16,286
-Virginia,51,VA,Caroline,51033,2020,16,233
-Virginia,51,VA,Carroll,51035,2020,16,305
-Virginia,51,VA,Charles City,51036,2020,16,48
-Virginia,51,VA,Charlotte,51037,2020,16,78
-Virginia,51,VA,Charlottesville City,51540,2020,16,504
-Virginia,51,VA,Chesapeake City,51550,2020,16,2119
-Virginia,51,VA,Chesterfield,51041,2020,16,3173
-Virginia,51,VA,Clarke,51043,2020,16,97
-Virginia,51,VA,Colonial Heights Cit,51570,2020,16,213
-Virginia,51,VA,Covington City,51580,2020,16,88
-Virginia,51,VA,Craig,51045,2020,16,23
-Virginia,51,VA,Culpeper,51047,2020,16,396
-Virginia,51,VA,Cumberland,51049,2020,16,39
-Virginia,51,VA,Danville City,51590,2020,16,467
-Virginia,51,VA,Dickenson,51051,2020,16,50
-Virginia,51,VA,Dinwiddie,51053,2020,16,109
-Virginia,51,VA,Emporia City,51595,2020,16,4
-Virginia,51,VA,Essex,51057,2020,16,73
-Virginia,51,VA,Fairfax City,51600,2020,16,5
-Virginia,51,VA,Fairfax,51059,2020,16,11239
-Virginia,51,VA,Falls Church City,51610,2020,16,87
-Virginia,51,VA,Fauquier,51061,2020,16,497
-Virginia,51,VA,Floyd,51063,2020,16,115
-Virginia,51,VA,Fluvanna,51065,2020,16,183
-Virginia,51,VA,Franklin City,51620,2020,16,81
-Virginia,51,VA,Franklin,51067,2020,16,327
-Virginia,51,VA,Frederick,51069,2020,16,724
-Virginia,51,VA,Fredericksburg City,51630,2020,16,279
-Virginia,51,VA,Galax City,51640,2020,16,1
-Virginia,51,VA,Giles,51071,2020,16,109
-Virginia,51,VA,Gloucester,51073,2020,16,260
-Virginia,51,VA,Goochland,51075,2020,16,148
-Virginia,51,VA,Grayson,51077,2020,16,66
-Virginia,51,VA,Greene,51079,2020,16,141
-Virginia,51,VA,Greensville,51081,2020,16,130
-Virginia,51,VA,Halifax,51083,2020,16,202
-Virginia,51,VA,Hampton City,51650,2020,16,1427
-Virginia,51,VA,Hanover,51085,2020,16,891
-Virginia,51,VA,Harrisonburg City,51660,2020,16,814
-Virginia,51,VA,Henrico,51087,2020,16,3289
-Virginia,51,VA,Henry,51089,2020,16,619
-Virginia,51,VA,Highland,51091,2020,16,10
-Virginia,51,VA,Hopewell City,51670,2020,16,251
-Virginia,51,VA,Isle of Wight,51093,2020,16,243
-Virginia,51,VA,James City,51095,2020,16,995
-Virginia,51,VA,King and Queen,51097,2020,16,41
-Virginia,51,VA,King George,51099,2020,16,142
-Virginia,51,VA,King William,51101,2020,16,148
-Virginia,51,VA,Lancaster,51103,2020,16,57
-Virginia,51,VA,Lee,51105,2020,16,140
-Virginia,51,VA,Lexington City,51678,2020,16,3
-Virginia,51,VA,Loudoun,51107,2020,16,3751
-Virginia,51,VA,Louisa,51109,2020,16,243
-Virginia,51,VA,Lunenburg,51111,2020,16,48
-Virginia,51,VA,Lynchburg City,51680,2020,16,859
-Virginia,51,VA,Madison,51113,2020,16,65
-Virginia,51,VA,Manassas City,51683,2020,16,482
-Virginia,51,VA,Manassas Park City,51685,2020,16,4
-Virginia,51,VA,Martinsville City,51690,2020,16,19
-Virginia,51,VA,Mathews,51115,2020,16,55
-Virginia,51,VA,Mecklenburg,51117,2020,16,168
-Virginia,51,VA,Middlesex,51119,2020,16,69
-Virginia,51,VA,Montgomery,51121,2020,16,606
-Virginia,51,VA,Nelson,51125,2020,16,119
-Virginia,51,VA,New Kent,51127,2020,16,194
-Virginia,51,VA,Newport News City,51700,2020,16,2146
-Virginia,51,VA,Norfolk City,51710,2020,16,2378
-Virginia,51,VA,Northampton,51131,2020,16,66
-Virginia,51,VA,Northumberland,51133,2020,16,98
-Virginia,51,VA,Norton City,51720,2020,16,33
-Virginia,51,VA,Nottoway,51135,2020,16,90
-Virginia,51,VA,Orange,51137,2020,16,349
-Virginia,51,VA,Page,51139,2020,16,284
-Virginia,51,VA,Patrick,51141,2020,16,83
-Virginia,51,VA,Petersburg City,51730,2020,16,607
-Virginia,51,VA,Pittsylvania,51143,2020,16,278
-Virginia,51,VA,Poquoson City,51735,2020,16,67
-Virginia,51,VA,Portsmouth City,51740,2020,16,912
-Virginia,51,VA,Powhatan,51145,2020,16,208
-Virginia,51,VA,Prince Edward,51147,2020,16,193
-Virginia,51,VA,Prince George,51149,2020,16,191
-Virginia,51,VA,Prince William,51153,2020,16,5080
-Virginia,51,VA,Pulaski,51155,2020,16,213
-Virginia,51,VA,Radford City,51750,2020,16,172
-Virginia,51,VA,Rappahannock,51157,2020,16,42
-Virginia,51,VA,Richmond City,51760,2020,16,2849
-Virginia,51,VA,Richmond,51159,2020,16,44
-Virginia,51,VA,Roanoke City,51770,2020,16,957
-Virginia,51,VA,Roanoke,51161,2020,16,713
-Virginia,51,VA,Rockbridge,51163,2020,16,206
-Virginia,51,VA,Rockingham,51165,2020,16,668
-Virginia,51,VA,Russell,51167,2020,16,120
-Virginia,51,VA,Salem City,51775,2020,16,293
-Virginia,51,VA,Scott,51169,2020,16,104
-Virginia,51,VA,Shenandoah,51171,2020,16,323
-Virginia,51,VA,Smyth,51173,2020,16,193
-Virginia,51,VA,Southampton,51175,2020,16,56
-Virginia,51,VA,Spotsylvania,51177,2020,16,1185
-Virginia,51,VA,Stafford,51179,2020,16,1164
-Virginia,51,VA,Staunton City,51790,2020,16,289
-Virginia,51,VA,Suffolk City,51800,2020,16,718
-Virginia,51,VA,Surry,51181,2020,16,45
-Virginia,51,VA,Sussex,51183,2020,16,58
-Virginia,51,VA,Tazewell,51185,2020,16,302
-Virginia,51,VA,Virginia Beach City,51810,2020,16,4724
-Virginia,51,VA,Warren,51187,2020,16,316
-Virginia,51,VA,Washington,51191,2020,16,365
-Virginia,51,VA,Waynesboro City,51820,2020,16,226
-Virginia,51,VA,Westmoreland,51193,2020,16,116
-Virginia,51,VA,Williamsburg City,51830,2020,16,17
-Virginia,51,VA,Winchester City,51840,2020,16,271
-Virginia,51,VA,Wise,51195,2020,16,215
-Virginia,51,VA,Wythe,51197,2020,16,293
-Virginia,51,VA,York,51199,2020,16,363
-Virginia,51,VA,Accomack,51001,2020,15,200
-Virginia,51,VA,Albemarle,51003,2020,15,846
-Virginia,51,VA,Alexandria City,51510,2020,15,1895
-Virginia,51,VA,Alleghany,51005,2020,15,58
-Virginia,51,VA,Amelia,51007,2020,15,109
-Virginia,51,VA,Amherst,51009,2020,15,264
-Virginia,51,VA,Appomattox,51011,2020,15,111
-Virginia,51,VA,Arlington,51013,2020,15,1897
-Virginia,51,VA,Augusta,51015,2020,15,439
-Virginia,51,VA,Bath,51017,2020,15,75
-Virginia,51,VA,Bedford,51019,2020,15,640
-Virginia,51,VA,Bland,51021,2020,15,56
-Virginia,51,VA,Botetourt,51023,2020,15,280
-Virginia,51,VA,Bristol City,51520,2020,15,210
-Virginia,51,VA,Brunswick,51025,2020,15,91
-Virginia,51,VA,Buchanan,51027,2020,15,153
-Virginia,51,VA,Buckingham,51029,2020,15,89
-Virginia,51,VA,Buena Vista City,51530,2020,15,90
-Virginia,51,VA,Campbell,51031,2020,15,351
-Virginia,51,VA,Caroline,51033,2020,15,279
-Virginia,51,VA,Carroll,51035,2020,15,513
-Virginia,51,VA,Charles City,51036,2020,15,41
-Virginia,51,VA,Charlotte,51037,2020,15,93
-Virginia,51,VA,Charlottesville City,51540,2020,15,621
-Virginia,51,VA,Chesapeake City,51550,2020,15,2597
-Virginia,51,VA,Chesterfield,51041,2020,15,3919
-Virginia,51,VA,Clarke,51043,2020,15,141
-Virginia,51,VA,Colonial Heights Cit,51570,2020,15,318
-Virginia,51,VA,Covington City,51580,2020,15,135
-Virginia,51,VA,Craig,51045,2020,15,52
-Virginia,51,VA,Culpeper,51047,2020,15,478
-Virginia,51,VA,Cumberland,51049,2020,15,45
-Virginia,51,VA,Danville City,51590,2020,15,604
-Virginia,51,VA,Dickenson,51051,2020,15,134
-Virginia,51,VA,Dinwiddie,51053,2020,15,113
-Virginia,51,VA,Emporia City,51595,2020,15,11
-Virginia,51,VA,Essex,51057,2020,15,134
-Virginia,51,VA,Fairfax City,51600,2020,15,4
-Virginia,51,VA,Fairfax,51059,2020,15,14454
-Virginia,51,VA,Falls Church City,51610,2020,15,138
-Virginia,51,VA,Fauquier,51061,2020,15,652
-Virginia,51,VA,Floyd,51063,2020,15,163
-Virginia,51,VA,Fluvanna,51065,2020,15,224
-Virginia,51,VA,Franklin City,51620,2020,15,101
-Virginia,51,VA,Franklin,51067,2020,15,531
-Virginia,51,VA,Frederick,51069,2020,15,938
-Virginia,51,VA,Fredericksburg City,51630,2020,15,331
-Virginia,51,VA,Galax City,51640,2020,15,5
-Virginia,51,VA,Giles,51071,2020,15,143
-Virginia,51,VA,Gloucester,51073,2020,15,404
-Virginia,51,VA,Goochland,51075,2020,15,176
-Virginia,51,VA,Grayson,51077,2020,15,108
-Virginia,51,VA,Greene,51079,2020,15,158
-Virginia,51,VA,Greensville,51081,2020,15,115
-Virginia,51,VA,Halifax,51083,2020,15,266
-Virginia,51,VA,Hampton City,51650,2020,15,1847
-Virginia,51,VA,Hanover,51085,2020,15,1038
-Virginia,51,VA,Harrisonburg City,51660,2020,15,724
-Virginia,51,VA,Henrico,51087,2020,15,3827
-Virginia,51,VA,Henry,51089,2020,15,908
-Virginia,51,VA,Highland,51091,2020,15,19
-Virginia,51,VA,Hopewell City,51670,2020,15,311
-Virginia,51,VA,Isle of Wight,51093,2020,15,321
-Virginia,51,VA,James City,51095,2020,15,1208
-Virginia,51,VA,King and Queen,51097,2020,15,72
-Virginia,51,VA,King George,51099,2020,15,177
-Virginia,51,VA,King William,51101,2020,15,181
-Virginia,51,VA,Lancaster,51103,2020,15,75
-Virginia,51,VA,Lee,51105,2020,15,119
-Virginia,51,VA,Lexington City,51678,2020,15,4
-Virginia,51,VA,Loudoun,51107,2020,15,4799
-Virginia,51,VA,Louisa,51109,2020,15,292
-Virginia,51,VA,Lunenburg,51111,2020,15,63
-Virginia,51,VA,Lynchburg City,51680,2020,15,1010
-Virginia,51,VA,Madison,51113,2020,15,98
-Virginia,51,VA,Manassas City,51683,2020,15,601
-Virginia,51,VA,Manassas Park City,51685,2020,15,5
-Virginia,51,VA,Martinsville City,51690,2020,15,14
-Virginia,51,VA,Mathews,51115,2020,15,65
-Virginia,51,VA,Mecklenburg,51117,2020,15,221
-Virginia,51,VA,Middlesex,51119,2020,15,106
-Virginia,51,VA,Montgomery,51121,2020,15,753
-Virginia,51,VA,Nelson,51125,2020,15,170
-Virginia,51,VA,New Kent,51127,2020,15,244
-Virginia,51,VA,Newport News City,51700,2020,15,2577
-Virginia,51,VA,Norfolk City,51710,2020,15,2939
-Virginia,51,VA,Northampton,51131,2020,15,107
-Virginia,51,VA,Northumberland,51133,2020,15,94
-Virginia,51,VA,Norton City,51720,2020,15,71
-Virginia,51,VA,Nottoway,51135,2020,15,96
-Virginia,51,VA,Orange,51137,2020,15,411
-Virginia,51,VA,Page,51139,2020,15,323
-Virginia,51,VA,Patrick,51141,2020,15,241
-Virginia,51,VA,Petersburg City,51730,2020,15,662
-Virginia,51,VA,Pittsylvania,51143,2020,15,403
-Virginia,51,VA,Poquoson City,51735,2020,15,90
-Virginia,51,VA,Portsmouth City,51740,2020,15,1151
-Virginia,51,VA,Powhatan,51145,2020,15,218
-Virginia,51,VA,Prince Edward,51147,2020,15,167
-Virginia,51,VA,Prince George,51149,2020,15,193
-Virginia,51,VA,Prince William,51153,2020,15,6353
-Virginia,51,VA,Pulaski,51155,2020,15,285
-Virginia,51,VA,Radford City,51750,2020,15,244
-Virginia,51,VA,Rappahannock,51157,2020,15,42
-Virginia,51,VA,Richmond City,51760,2020,15,3291
-Virginia,51,VA,Richmond,51159,2020,15,45
-Virginia,51,VA,Roanoke City,51770,2020,15,1285
-Virginia,51,VA,Roanoke,51161,2020,15,980
-Virginia,51,VA,Rockbridge,51163,2020,15,210
-Virginia,51,VA,Rockingham,51165,2020,15,663
-Virginia,51,VA,Russell,51167,2020,15,257
-Virginia,51,VA,Salem City,51775,2020,15,457
-Virginia,51,VA,Scott,51169,2020,15,125
-Virginia,51,VA,Shenandoah,51171,2020,15,439
-Virginia,51,VA,Smyth,51173,2020,15,310
-Virginia,51,VA,Southampton,51175,2020,15,87
-Virginia,51,VA,Spotsylvania,51177,2020,15,1380
-Virginia,51,VA,Stafford,51179,2020,15,1468
-Virginia,51,VA,Staunton City,51790,2020,15,383
-Virginia,51,VA,Suffolk City,51800,2020,15,881
-Virginia,51,VA,Surry,51181,2020,15,58
-Virginia,51,VA,Sussex,51183,2020,15,48
-Virginia,51,VA,Tazewell,51185,2020,15,449
-Virginia,51,VA,Virginia Beach City,51810,2020,15,5886
-Virginia,51,VA,Warren,51187,2020,15,430
-Virginia,51,VA,Washington,51191,2020,15,603
-Virginia,51,VA,Waynesboro City,51820,2020,15,356
-Virginia,51,VA,Westmoreland,51193,2020,15,129
-Virginia,51,VA,Williamsburg City,51830,2020,15,29
-Virginia,51,VA,Winchester City,51840,2020,15,389
-Virginia,51,VA,Wise,51195,2020,15,373
-Virginia,51,VA,Wythe,51197,2020,15,484
-Virginia,51,VA,York,51199,2020,15,456
-Virginia,51,VA,Accomack,51001,2020,14,409
-Virginia,51,VA,Albemarle,51003,2020,14,1429
-Virginia,51,VA,Alexandria City,51510,2020,14,2578
-Virginia,51,VA,Alleghany,51005,2020,14,77
-Virginia,51,VA,Amelia,51007,2020,14,167
-Virginia,51,VA,Amherst,51009,2020,14,354
-Virginia,51,VA,Appomattox,51011,2020,14,123
-Virginia,51,VA,Arlington,51013,2020,14,2484
-Virginia,51,VA,Augusta,51015,2020,14,572
-Virginia,51,VA,Bath,51017,2020,14,118
-Virginia,51,VA,Bedford,51019,2020,14,986
-Virginia,51,VA,Bland,51021,2020,14,62
-Virginia,51,VA,Botetourt,51023,2020,14,356
-Virginia,51,VA,Bristol City,51520,2020,14,229
-Virginia,51,VA,Brunswick,51025,2020,14,134
-Virginia,51,VA,Buchanan,51027,2020,14,207
-Virginia,51,VA,Buckingham,51029,2020,14,118
-Virginia,51,VA,Buena Vista City,51530,2020,14,111
-Virginia,51,VA,Campbell,51031,2020,14,448
-Virginia,51,VA,Caroline,51033,2020,14,435
-Virginia,51,VA,Carroll,51035,2020,14,626
-Virginia,51,VA,Charles City,51036,2020,14,72
-Virginia,51,VA,Charlotte,51037,2020,14,122
-Virginia,51,VA,Charlottesville City,51540,2020,14,985
-Virginia,51,VA,Chesapeake City,51550,2020,14,3702
-Virginia,51,VA,Chesterfield,51041,2020,14,5720
-Virginia,51,VA,Clarke,51043,2020,14,205
-Virginia,51,VA,Colonial Heights Cit,51570,2020,14,395
-Virginia,51,VA,Covington City,51580,2020,14,185
-Virginia,51,VA,Craig,51045,2020,14,48
-Virginia,51,VA,Culpeper,51047,2020,14,698
-Virginia,51,VA,Cumberland,51049,2020,14,70
-Virginia,51,VA,Danville City,51590,2020,14,969
-Virginia,51,VA,Dickenson,51051,2020,14,115
-Virginia,51,VA,Dinwiddie,51053,2020,14,172
-Virginia,51,VA,Emporia City,51595,2020,14,7
-Virginia,51,VA,Essex,51057,2020,14,137
-Virginia,51,VA,Fairfax City,51600,2020,14,15
-Virginia,51,VA,Fairfax,51059,2020,14,21302
-Virginia,51,VA,Falls Church City,51610,2020,14,214
-Virginia,51,VA,Fauquier,51061,2020,14,1029
-Virginia,51,VA,Floyd,51063,2020,14,242
-Virginia,51,VA,Fluvanna,51065,2020,14,331
-Virginia,51,VA,Franklin City,51620,2020,14,149
-Virginia,51,VA,Franklin,51067,2020,14,595
-Virginia,51,VA,Frederick,51069,2020,14,1292
-Virginia,51,VA,Fredericksburg City,51630,2020,14,541
-Virginia,51,VA,Galax City,51640,2020,14,4
-Virginia,51,VA,Giles,51071,2020,14,207
-Virginia,51,VA,Gloucester,51073,2020,14,602
-Virginia,51,VA,Goochland,51075,2020,14,263
-Virginia,51,VA,Grayson,51077,2020,14,147
-Virginia,51,VA,Greene,51079,2020,14,316
-Virginia,51,VA,Greensville,51081,2020,14,170
-Virginia,51,VA,Halifax,51083,2020,14,332
-Virginia,51,VA,Hampton City,51650,2020,14,2421
-Virginia,51,VA,Hanover,51085,2020,14,1542
-Virginia,51,VA,Harrisonburg City,51660,2020,14,944
-Virginia,51,VA,Henrico,51087,2020,14,5586
-Virginia,51,VA,Henry,51089,2020,14,1002
-Virginia,51,VA,Highland,51091,2020,14,12
-Virginia,51,VA,Hopewell City,51670,2020,14,409
-Virginia,51,VA,Isle of Wight,51093,2020,14,472
-Virginia,51,VA,James City,51095,2020,14,1988
-Virginia,51,VA,King and Queen,51097,2020,14,74
-Virginia,51,VA,King George,51099,2020,14,257
-Virginia,51,VA,King William,51101,2020,14,266
-Virginia,51,VA,Lancaster,51103,2020,14,103
-Virginia,51,VA,Lee,51105,2020,14,173
-Virginia,51,VA,Lexington City,51678,2020,14,4
-Virginia,51,VA,Loudoun,51107,2020,14,7070
-Virginia,51,VA,Louisa,51109,2020,14,452
-Virginia,51,VA,Lunenburg,51111,2020,14,64
-Virginia,51,VA,Lynchburg City,51680,2020,14,1446
-Virginia,51,VA,Madison,51113,2020,14,110
-Virginia,51,VA,Manassas City,51683,2020,14,874
-Virginia,51,VA,Manassas Park City,51685,2020,14,3
-Virginia,51,VA,Martinsville City,51690,2020,14,23
-Virginia,51,VA,Mathews,51115,2020,14,118
-Virginia,51,VA,Mecklenburg,51117,2020,14,286
-Virginia,51,VA,Middlesex,51119,2020,14,156
-Virginia,51,VA,Montgomery,51121,2020,14,1138
-Virginia,51,VA,Nelson,51125,2020,14,277
-Virginia,51,VA,New Kent,51127,2020,14,396
-Virginia,51,VA,Newport News City,51700,2020,14,3667
-Virginia,51,VA,Norfolk City,51710,2020,14,4190
-Virginia,51,VA,Northampton,51131,2020,14,163
-Virginia,51,VA,Northumberland,51133,2020,14,141
-Virginia,51,VA,Norton City,51720,2020,14,76
-Virginia,51,VA,Nottoway,51135,2020,14,125
-Virginia,51,VA,Orange,51137,2020,14,589
-Virginia,51,VA,Page,51139,2020,14,556
-Virginia,51,VA,Patrick,51141,2020,14,205
-Virginia,51,VA,Petersburg City,51730,2020,14,852
-Virginia,51,VA,Pittsylvania,51143,2020,14,608
-Virginia,51,VA,Poquoson City,51735,2020,14,169
-Virginia,51,VA,Portsmouth City,51740,2020,14,1523
-Virginia,51,VA,Powhatan,51145,2020,14,390
-Virginia,51,VA,Prince Edward,51147,2020,14,252
-Virginia,51,VA,Prince George,51149,2020,14,285
-Virginia,51,VA,Prince William,51153,2020,14,9178
-Virginia,51,VA,Pulaski,51155,2020,14,478
-Virginia,51,VA,Radford City,51750,2020,14,317
-Virginia,51,VA,Rappahannock,51157,2020,14,72
-Virginia,51,VA,Richmond City,51760,2020,14,4740
-Virginia,51,VA,Richmond,51159,2020,14,77
-Virginia,51,VA,Roanoke City,51770,2020,14,1696
-Virginia,51,VA,Roanoke,51161,2020,14,1238
-Virginia,51,VA,Rockbridge,51163,2020,14,338
-Virginia,51,VA,Rockingham,51165,2020,14,865
-Virginia,51,VA,Russell,51167,2020,14,273
-Virginia,51,VA,Salem City,51775,2020,14,509
-Virginia,51,VA,Scott,51169,2020,14,169
-Virginia,51,VA,Shenandoah,51171,2020,14,601
-Virginia,51,VA,Smyth,51173,2020,14,365
-Virginia,51,VA,Southampton,51175,2020,14,117
-Virginia,51,VA,Spotsylvania,51177,2020,14,2296
-Virginia,51,VA,Stafford,51179,2020,14,2263
-Virginia,51,VA,Staunton City,51790,2020,14,569
-Virginia,51,VA,Suffolk City,51800,2020,14,1273
-Virginia,51,VA,Surry,51181,2020,14,78
-Virginia,51,VA,Sussex,51183,2020,14,94
-Virginia,51,VA,Tazewell,51185,2020,14,507
-Virginia,51,VA,Virginia Beach City,51810,2020,14,8754
-Virginia,51,VA,Warren,51187,2020,14,605
-Virginia,51,VA,Washington,51191,2020,14,706
-Virginia,51,VA,Waynesboro City,51820,2020,14,561
-Virginia,51,VA,Westmoreland,51193,2020,14,181
-Virginia,51,VA,Williamsburg City,51830,2020,14,30
-Virginia,51,VA,Winchester City,51840,2020,14,490
-Virginia,51,VA,Wise,51195,2020,14,398
-Virginia,51,VA,Wythe,51197,2020,14,559
-Virginia,51,VA,York,51199,2020,14,786
-Virginia,51,VA,Accomack,51001,2020,13,320
-Virginia,51,VA,Albemarle,51003,2020,13,1102
-Virginia,51,VA,Alexandria City,51510,2020,13,1683
-Virginia,51,VA,Alleghany,51005,2020,13,76
-Virginia,51,VA,Amelia,51007,2020,13,134
-Virginia,51,VA,Amherst,51009,2020,13,322
-Virginia,51,VA,Appomattox,51011,2020,13,90
-Virginia,51,VA,Arlington,51013,2020,13,1752
-Virginia,51,VA,Augusta,51015,2020,13,500
-Virginia,51,VA,Bath,51017,2020,13,187
-Virginia,51,VA,Bedford,51019,2020,13,797
-Virginia,51,VA,Bland,51021,2020,13,50
-Virginia,51,VA,Botetourt,51023,2020,13,310
-Virginia,51,VA,Bristol City,51520,2020,13,186
-Virginia,51,VA,Brunswick,51025,2020,13,140
-Virginia,51,VA,Buchanan,51027,2020,13,71
-Virginia,51,VA,Buckingham,51029,2020,13,117
-Virginia,51,VA,Buena Vista City,51530,2020,13,137
-Virginia,51,VA,Campbell,51031,2020,13,338
-Virginia,51,VA,Caroline,51033,2020,13,372
-Virginia,51,VA,Carroll,51035,2020,13,589
-Virginia,51,VA,Charles City,51036,2020,13,59
-Virginia,51,VA,Charlotte,51037,2020,13,78
-Virginia,51,VA,Charlottesville City,51540,2020,13,816
-Virginia,51,VA,Chesapeake City,51550,2020,13,2919
-Virginia,51,VA,Chesterfield,51041,2020,13,4219
-Virginia,51,VA,Clarke,51043,2020,13,162
-Virginia,51,VA,Colonial Heights Cit,51570,2020,13,336
-Virginia,51,VA,Covington City,51580,2020,13,182
-Virginia,51,VA,Craig,51045,2020,13,39
-Virginia,51,VA,Culpeper,51047,2020,13,550
-Virginia,51,VA,Cumberland,51049,2020,13,62
-Virginia,51,VA,Danville City,51590,2020,13,1473
-Virginia,51,VA,Dickenson,51051,2020,13,58
-Virginia,51,VA,Dinwiddie,51053,2020,13,140
-Virginia,51,VA,Emporia City,51595,2020,13,7
-Virginia,51,VA,Essex,51057,2020,13,118
-Virginia,51,VA,Fairfax City,51600,2020,13,11
-Virginia,51,VA,Fairfax,51059,2020,13,12109
-Virginia,51,VA,Falls Church City,51610,2020,13,134
-Virginia,51,VA,Fauquier,51061,2020,13,753
-Virginia,51,VA,Floyd,51063,2020,13,210
-Virginia,51,VA,Fluvanna,51065,2020,13,288
-Virginia,51,VA,Franklin City,51620,2020,13,103
-Virginia,51,VA,Franklin,51067,2020,13,520
-Virginia,51,VA,Frederick,51069,2020,13,1042
-Virginia,51,VA,Fredericksburg City,51630,2020,13,435
-Virginia,51,VA,Galax City,51640,2020,13,11
-Virginia,51,VA,Giles,51071,2020,13,241
-Virginia,51,VA,Gloucester,51073,2020,13,447
-Virginia,51,VA,Goochland,51075,2020,13,172
-Virginia,51,VA,Grayson,51077,2020,13,92
-Virginia,51,VA,Greene,51079,2020,13,195
-Virginia,51,VA,Greensville,51081,2020,13,125
-Virginia,51,VA,Halifax,51083,2020,13,318
-Virginia,51,VA,Hampton City,51650,2020,13,1864
-Virginia,51,VA,Hanover,51085,2020,13,1233
-Virginia,51,VA,Harrisonburg City,51660,2020,13,682
-Virginia,51,VA,Henrico,51087,2020,13,4145
-Virginia,51,VA,Henry,51089,2020,13,957
-Virginia,51,VA,Highland,51091,2020,13,9
-Virginia,51,VA,Hopewell City,51670,2020,13,405
-Virginia,51,VA,Isle of Wight,51093,2020,13,360
-Virginia,51,VA,James City,51095,2020,13,1635
-Virginia,51,VA,King and Queen,51097,2020,13,58
-Virginia,51,VA,King George,51099,2020,13,237
-Virginia,51,VA,King William,51101,2020,13,230
-Virginia,51,VA,Lancaster,51103,2020,13,87
-Virginia,51,VA,Lee,51105,2020,13,94
-Virginia,51,VA,Lexington City,51678,2020,13,3
-Virginia,51,VA,Loudoun,51107,2020,13,4561
-Virginia,51,VA,Louisa,51109,2020,13,343
-Virginia,51,VA,Lunenburg,51111,2020,13,47
-Virginia,51,VA,Lynchburg City,51680,2020,13,1335
-Virginia,51,VA,Madison,51113,2020,13,103
-Virginia,51,VA,Manassas City,51683,2020,13,603
-Virginia,51,VA,Manassas Park City,51685,2020,13,9
-Virginia,51,VA,Martinsville City,51690,2020,13,31
-Virginia,51,VA,Mathews,51115,2020,13,96
-Virginia,51,VA,Mecklenburg,51117,2020,13,278
-Virginia,51,VA,Middlesex,51119,2020,13,141
-Virginia,51,VA,Montgomery,51121,2020,13,1171
-Virginia,51,VA,Nelson,51125,2020,13,187
-Virginia,51,VA,New Kent,51127,2020,13,294
-Virginia,51,VA,Newport News City,51700,2020,13,2902
-Virginia,51,VA,Norfolk City,51710,2020,13,3446
-Virginia,51,VA,Northampton,51131,2020,13,116
-Virginia,51,VA,Northumberland,51133,2020,13,106
-Virginia,51,VA,Norton City,51720,2020,13,61
-Virginia,51,VA,Nottoway,51135,2020,13,113
-Virginia,51,VA,Orange,51137,2020,13,480
-Virginia,51,VA,Page,51139,2020,13,294
-Virginia,51,VA,Patrick,51141,2020,13,235
-Virginia,51,VA,Petersburg City,51730,2020,13,723
-Virginia,51,VA,Pittsylvania,51143,2020,13,781
-Virginia,51,VA,Poquoson City,51735,2020,13,122
-Virginia,51,VA,Portsmouth City,51740,2020,13,1240
-Virginia,51,VA,Powhatan,51145,2020,13,290
-Virginia,51,VA,Prince Edward,51147,2020,13,255
-Virginia,51,VA,Prince George,51149,2020,13,258
-Virginia,51,VA,Prince William,51153,2020,13,5863
-Virginia,51,VA,Pulaski,51155,2020,13,496
-Virginia,51,VA,Radford City,51750,2020,13,349
-Virginia,51,VA,Rappahannock,51157,2020,13,61
-Virginia,51,VA,Richmond City,51760,2020,13,4504
-Virginia,51,VA,Richmond,51159,2020,13,69
-Virginia,51,VA,Roanoke City,51770,2020,13,1682
-Virginia,51,VA,Roanoke,51161,2020,13,1132
-Virginia,51,VA,Rockbridge,51163,2020,13,288
-Virginia,51,VA,Rockingham,51165,2020,13,596
-Virginia,51,VA,Russell,51167,2020,13,169
-Virginia,51,VA,Salem City,51775,2020,13,492
-Virginia,51,VA,Scott,51169,2020,13,61
-Virginia,51,VA,Shenandoah,51171,2020,13,531
-Virginia,51,VA,Smyth,51173,2020,13,214
-Virginia,51,VA,Southampton,51175,2020,13,75
-Virginia,51,VA,Spotsylvania,51177,2020,13,1746
-Virginia,51,VA,Stafford,51179,2020,13,1699
-Virginia,51,VA,Staunton City,51790,2020,13,512
-Virginia,51,VA,Suffolk City,51800,2020,13,864
-Virginia,51,VA,Surry,51181,2020,13,79
-Virginia,51,VA,Sussex,51183,2020,13,77
-Virginia,51,VA,Tazewell,51185,2020,13,333
-Virginia,51,VA,Virginia Beach City,51810,2020,13,7386
-Virginia,51,VA,Warren,51187,2020,13,515
-Virginia,51,VA,Washington,51191,2020,13,522
-Virginia,51,VA,Waynesboro City,51820,2020,13,374
-Virginia,51,VA,Westmoreland,51193,2020,13,146
-Virginia,51,VA,Williamsburg City,51830,2020,13,45
-Virginia,51,VA,Winchester City,51840,2020,13,438
-Virginia,51,VA,Wise,51195,2020,13,272
-Virginia,51,VA,Wythe,51197,2020,13,450
-Virginia,51,VA,York,51199,2020,13,553
-Virginia,51,VA,Accomack,51001,2020,12,121
-Virginia,51,VA,Albemarle,51003,2020,12,589
-Virginia,51,VA,Alexandria City,51510,2020,12,797
-Virginia,51,VA,Alleghany,51005,2020,12,46
-Virginia,51,VA,Amelia,51007,2020,12,48
-Virginia,51,VA,Amherst,51009,2020,12,122
-Virginia,51,VA,Appomattox,51011,2020,12,35
-Virginia,51,VA,Arlington,51013,2020,12,849
-Virginia,51,VA,Augusta,51015,2020,12,196
-Virginia,51,VA,Bath,51017,2020,12,142
-Virginia,51,VA,Bedford,51019,2020,12,258
-Virginia,51,VA,Bland,51021,2020,12,13
-Virginia,51,VA,Botetourt,51023,2020,12,93
-Virginia,51,VA,Bristol City,51520,2020,12,105
-Virginia,51,VA,Brunswick,51025,2020,12,39
-Virginia,51,VA,Buchanan,51027,2020,12,17
-Virginia,51,VA,Buckingham,51029,2020,12,35
-Virginia,51,VA,Buena Vista City,51530,2020,12,44
-Virginia,51,VA,Campbell,51031,2020,12,147
-Virginia,51,VA,Caroline,51033,2020,12,133
-Virginia,51,VA,Carroll,51035,2020,12,175
-Virginia,51,VA,Charles City,51036,2020,12,19
-Virginia,51,VA,Charlotte,51037,2020,12,16
-Virginia,51,VA,Charlottesville City,51540,2020,12,590
-Virginia,51,VA,Chesapeake City,51550,2020,12,1265
-Virginia,51,VA,Chesterfield,51041,2020,12,1970
-Virginia,51,VA,Clarke,51043,2020,12,54
-Virginia,51,VA,Colonial Heights Cit,51570,2020,12,174
-Virginia,51,VA,Covington City,51580,2020,12,86
-Virginia,51,VA,Craig,51045,2020,12,9
-Virginia,51,VA,Culpeper,51047,2020,12,195
-Virginia,51,VA,Cumberland,51049,2020,12,22
-Virginia,51,VA,Danville City,51590,2020,12,242
-Virginia,51,VA,Dickenson,51051,2020,12,24
-Virginia,51,VA,Dinwiddie,51053,2020,12,60
-Virginia,51,VA,Emporia City,51595,2020,12,3
-Virginia,51,VA,Essex,51057,2020,12,41
-Virginia,51,VA,Fairfax City,51600,2020,12,11
-Virginia,51,VA,Fairfax,51059,2020,12,4345
-Virginia,51,VA,Falls Church City,51610,2020,12,55
-Virginia,51,VA,Fauquier,51061,2020,12,254
-Virginia,51,VA,Floyd,51063,2020,12,56
-Virginia,51,VA,Fluvanna,51065,2020,12,133
-Virginia,51,VA,Franklin City,51620,2020,12,31
-Virginia,51,VA,Franklin,51067,2020,12,148
-Virginia,51,VA,Frederick,51069,2020,12,303
-Virginia,51,VA,Fredericksburg City,51630,2020,12,213
-Virginia,51,VA,Galax City,51640,2020,12,4
-Virginia,51,VA,Giles,51071,2020,12,66
-Virginia,51,VA,Gloucester,51073,2020,12,179
-Virginia,51,VA,Goochland,51075,2020,12,79
-Virginia,51,VA,Grayson,51077,2020,12,26
-Virginia,51,VA,Greene,51079,2020,12,108
-Virginia,51,VA,Greensville,51081,2020,12,31
-Virginia,51,VA,Halifax,51083,2020,12,66
-Virginia,51,VA,Hampton City,51650,2020,12,824
-Virginia,51,VA,Hanover,51085,2020,12,453
-Virginia,51,VA,Harrisonburg City,51660,2020,12,340
-Virginia,51,VA,Henrico,51087,2020,12,2096
-Virginia,51,VA,Henry,51089,2020,12,231
-Virginia,51,VA,Highland,51091,2020,12,6
-Virginia,51,VA,Hopewell City,51670,2020,12,185
-Virginia,51,VA,Isle of Wight,51093,2020,12,127
-Virginia,51,VA,James City,51095,2020,12,876
-Virginia,51,VA,King and Queen,51097,2020,12,23
-Virginia,51,VA,King George,51099,2020,12,82
-Virginia,51,VA,King William,51101,2020,12,61
-Virginia,51,VA,Lancaster,51103,2020,12,35
-Virginia,51,VA,Lee,51105,2020,12,19
-Virginia,51,VA,Lexington City,51678,2020,12,3
-Virginia,51,VA,Loudoun,51107,2020,12,1622
-Virginia,51,VA,Louisa,51109,2020,12,147
-Virginia,51,VA,Lunenburg,51111,2020,12,8
-Virginia,51,VA,Lynchburg City,51680,2020,12,641
-Virginia,51,VA,Madison,51113,2020,12,42
-Virginia,51,VA,Manassas City,51683,2020,12,198
-Virginia,51,VA,Manassas Park City,51685,2020,12,2
-Virginia,51,VA,Martinsville City,51690,2020,12,11
-Virginia,51,VA,Mathews,51115,2020,12,37
-Virginia,51,VA,Mecklenburg,51117,2020,12,82
-Virginia,51,VA,Middlesex,51119,2020,12,54
-Virginia,51,VA,Montgomery,51121,2020,12,369
-Virginia,51,VA,Nelson,51125,2020,12,87
-Virginia,51,VA,New Kent,51127,2020,12,99
-Virginia,51,VA,Newport News City,51700,2020,12,1235
-Virginia,51,VA,Norfolk City,51710,2020,12,1763
-Virginia,51,VA,Northampton,51131,2020,12,40
-Virginia,51,VA,Northumberland,51133,2020,12,32
-Virginia,51,VA,Norton City,51720,2020,12,17
-Virginia,51,VA,Nottoway,51135,2020,12,47
-Virginia,51,VA,Orange,51137,2020,12,205
-Virginia,51,VA,Page,51139,2020,12,80
-Virginia,51,VA,Patrick,51141,2020,12,30
-Virginia,51,VA,Petersburg City,51730,2020,12,315
-Virginia,51,VA,Pittsylvania,51143,2020,12,111
-Virginia,51,VA,Poquoson City,51735,2020,12,43
-Virginia,51,VA,Portsmouth City,51740,2020,12,604
-Virginia,51,VA,Powhatan,51145,2020,12,133
-Virginia,51,VA,Prince Edward,51147,2020,12,113
-Virginia,51,VA,Prince George,51149,2020,12,103
-Virginia,51,VA,Prince William,51153,2020,12,2222
-Virginia,51,VA,Pulaski,51155,2020,12,80
-Virginia,51,VA,Radford City,51750,2020,12,93
-Virginia,51,VA,Rappahannock,51157,2020,12,23
-Virginia,51,VA,Richmond City,51760,2020,12,3070
-Virginia,51,VA,Richmond,51159,2020,12,21
-Virginia,51,VA,Roanoke City,51770,2020,12,666
-Virginia,51,VA,Roanoke,51161,2020,12,399
-Virginia,51,VA,Rockbridge,51163,2020,12,91
-Virginia,51,VA,Rockingham,51165,2020,12,245
-Virginia,51,VA,Russell,51167,2020,12,72
-Virginia,51,VA,Salem City,51775,2020,12,146
-Virginia,51,VA,Scott,51169,2020,12,24
-Virginia,51,VA,Shenandoah,51171,2020,12,168
-Virginia,51,VA,Smyth,51173,2020,12,65
-Virginia,51,VA,Southampton,51175,2020,12,23
-Virginia,51,VA,Spotsylvania,51177,2020,12,617
-Virginia,51,VA,Stafford,51179,2020,12,579
-Virginia,51,VA,Staunton City,51790,2020,12,315
-Virginia,51,VA,Suffolk City,51800,2020,12,348
-Virginia,51,VA,Surry,51181,2020,12,26
-Virginia,51,VA,Sussex,51183,2020,12,25
-Virginia,51,VA,Tazewell,51185,2020,12,100
-Virginia,51,VA,Virginia Beach City,51810,2020,12,3314
-Virginia,51,VA,Warren,51187,2020,12,230
-Virginia,51,VA,Washington,51191,2020,12,183
-Virginia,51,VA,Waynesboro City,51820,2020,12,208
-Virginia,51,VA,Westmoreland,51193,2020,12,52
-Virginia,51,VA,Williamsburg City,51830,2020,12,28
-Virginia,51,VA,Winchester City,51840,2020,12,173
-Virginia,51,VA,Wise,51195,2020,12,81
-Virginia,51,VA,Wythe,51197,2020,12,144
-Virginia,51,VA,York,51199,2020,12,248
 Virginia,51,VA,Accomack,51001,2020,11,6
 Virginia,51,VA,Albemarle,51003,2020,11,12
 Virginia,51,VA,Alexandria City,51510,2020,11,33
@@ -797,3 +132,1067 @@ Virginia,51,VA,Winchester City,51840,2020,11,7
 Virginia,51,VA,Wise,51195,2020,11,26
 Virginia,51,VA,Wythe,51197,2020,11,8
 Virginia,51,VA,York,51199,2020,11,10
+Virginia,51,VA,Accomack,51001,2020,12,121
+Virginia,51,VA,Albemarle,51003,2020,12,589
+Virginia,51,VA,Alexandria City,51510,2020,12,797
+Virginia,51,VA,Alleghany,51005,2020,12,46
+Virginia,51,VA,Amelia,51007,2020,12,48
+Virginia,51,VA,Amherst,51009,2020,12,122
+Virginia,51,VA,Appomattox,51011,2020,12,35
+Virginia,51,VA,Arlington,51013,2020,12,849
+Virginia,51,VA,Augusta,51015,2020,12,196
+Virginia,51,VA,Bath,51017,2020,12,142
+Virginia,51,VA,Bedford,51019,2020,12,258
+Virginia,51,VA,Bland,51021,2020,12,13
+Virginia,51,VA,Botetourt,51023,2020,12,93
+Virginia,51,VA,Bristol City,51520,2020,12,105
+Virginia,51,VA,Brunswick,51025,2020,12,39
+Virginia,51,VA,Buchanan,51027,2020,12,17
+Virginia,51,VA,Buckingham,51029,2020,12,35
+Virginia,51,VA,Buena Vista City,51530,2020,12,44
+Virginia,51,VA,Campbell,51031,2020,12,147
+Virginia,51,VA,Caroline,51033,2020,12,133
+Virginia,51,VA,Carroll,51035,2020,12,175
+Virginia,51,VA,Charles City,51036,2020,12,19
+Virginia,51,VA,Charlotte,51037,2020,12,16
+Virginia,51,VA,Charlottesville City,51540,2020,12,590
+Virginia,51,VA,Chesapeake City,51550,2020,12,1265
+Virginia,51,VA,Chesterfield,51041,2020,12,1970
+Virginia,51,VA,Clarke,51043,2020,12,54
+Virginia,51,VA,Colonial Heights Cit,51570,2020,12,174
+Virginia,51,VA,Covington City,51580,2020,12,86
+Virginia,51,VA,Craig,51045,2020,12,9
+Virginia,51,VA,Culpeper,51047,2020,12,195
+Virginia,51,VA,Cumberland,51049,2020,12,22
+Virginia,51,VA,Danville City,51590,2020,12,242
+Virginia,51,VA,Dickenson,51051,2020,12,24
+Virginia,51,VA,Dinwiddie,51053,2020,12,60
+Virginia,51,VA,Emporia City,51595,2020,12,3
+Virginia,51,VA,Essex,51057,2020,12,41
+Virginia,51,VA,Fairfax City,51600,2020,12,11
+Virginia,51,VA,Fairfax,51059,2020,12,4345
+Virginia,51,VA,Falls Church City,51610,2020,12,55
+Virginia,51,VA,Fauquier,51061,2020,12,254
+Virginia,51,VA,Floyd,51063,2020,12,56
+Virginia,51,VA,Fluvanna,51065,2020,12,133
+Virginia,51,VA,Franklin City,51620,2020,12,31
+Virginia,51,VA,Franklin,51067,2020,12,148
+Virginia,51,VA,Frederick,51069,2020,12,303
+Virginia,51,VA,Fredericksburg City,51630,2020,12,213
+Virginia,51,VA,Galax City,51640,2020,12,4
+Virginia,51,VA,Giles,51071,2020,12,66
+Virginia,51,VA,Gloucester,51073,2020,12,179
+Virginia,51,VA,Goochland,51075,2020,12,79
+Virginia,51,VA,Grayson,51077,2020,12,26
+Virginia,51,VA,Greene,51079,2020,12,108
+Virginia,51,VA,Greensville,51081,2020,12,31
+Virginia,51,VA,Halifax,51083,2020,12,66
+Virginia,51,VA,Hampton City,51650,2020,12,824
+Virginia,51,VA,Hanover,51085,2020,12,453
+Virginia,51,VA,Harrisonburg City,51660,2020,12,340
+Virginia,51,VA,Henrico,51087,2020,12,2096
+Virginia,51,VA,Henry,51089,2020,12,231
+Virginia,51,VA,Highland,51091,2020,12,6
+Virginia,51,VA,Hopewell City,51670,2020,12,185
+Virginia,51,VA,Isle of Wight,51093,2020,12,127
+Virginia,51,VA,James City,51095,2020,12,876
+Virginia,51,VA,King and Queen,51097,2020,12,23
+Virginia,51,VA,King George,51099,2020,12,82
+Virginia,51,VA,King William,51101,2020,12,61
+Virginia,51,VA,Lancaster,51103,2020,12,35
+Virginia,51,VA,Lee,51105,2020,12,19
+Virginia,51,VA,Lexington City,51678,2020,12,3
+Virginia,51,VA,Loudoun,51107,2020,12,1622
+Virginia,51,VA,Louisa,51109,2020,12,147
+Virginia,51,VA,Lunenburg,51111,2020,12,8
+Virginia,51,VA,Lynchburg City,51680,2020,12,641
+Virginia,51,VA,Madison,51113,2020,12,42
+Virginia,51,VA,Manassas City,51683,2020,12,198
+Virginia,51,VA,Manassas Park City,51685,2020,12,2
+Virginia,51,VA,Martinsville City,51690,2020,12,11
+Virginia,51,VA,Mathews,51115,2020,12,37
+Virginia,51,VA,Mecklenburg,51117,2020,12,82
+Virginia,51,VA,Middlesex,51119,2020,12,54
+Virginia,51,VA,Montgomery,51121,2020,12,369
+Virginia,51,VA,Nelson,51125,2020,12,87
+Virginia,51,VA,New Kent,51127,2020,12,99
+Virginia,51,VA,Newport News City,51700,2020,12,1235
+Virginia,51,VA,Norfolk City,51710,2020,12,1763
+Virginia,51,VA,Northampton,51131,2020,12,40
+Virginia,51,VA,Northumberland,51133,2020,12,32
+Virginia,51,VA,Norton City,51720,2020,12,17
+Virginia,51,VA,Nottoway,51135,2020,12,47
+Virginia,51,VA,Orange,51137,2020,12,205
+Virginia,51,VA,Page,51139,2020,12,80
+Virginia,51,VA,Patrick,51141,2020,12,30
+Virginia,51,VA,Petersburg City,51730,2020,12,315
+Virginia,51,VA,Pittsylvania,51143,2020,12,111
+Virginia,51,VA,Poquoson City,51735,2020,12,43
+Virginia,51,VA,Portsmouth City,51740,2020,12,604
+Virginia,51,VA,Powhatan,51145,2020,12,133
+Virginia,51,VA,Prince Edward,51147,2020,12,113
+Virginia,51,VA,Prince George,51149,2020,12,103
+Virginia,51,VA,Prince William,51153,2020,12,2222
+Virginia,51,VA,Pulaski,51155,2020,12,80
+Virginia,51,VA,Radford City,51750,2020,12,93
+Virginia,51,VA,Rappahannock,51157,2020,12,23
+Virginia,51,VA,Richmond City,51760,2020,12,3070
+Virginia,51,VA,Richmond,51159,2020,12,21
+Virginia,51,VA,Roanoke City,51770,2020,12,666
+Virginia,51,VA,Roanoke,51161,2020,12,399
+Virginia,51,VA,Rockbridge,51163,2020,12,91
+Virginia,51,VA,Rockingham,51165,2020,12,245
+Virginia,51,VA,Russell,51167,2020,12,72
+Virginia,51,VA,Salem City,51775,2020,12,146
+Virginia,51,VA,Scott,51169,2020,12,24
+Virginia,51,VA,Shenandoah,51171,2020,12,168
+Virginia,51,VA,Smyth,51173,2020,12,65
+Virginia,51,VA,Southampton,51175,2020,12,23
+Virginia,51,VA,Spotsylvania,51177,2020,12,617
+Virginia,51,VA,Stafford,51179,2020,12,579
+Virginia,51,VA,Staunton City,51790,2020,12,315
+Virginia,51,VA,Suffolk City,51800,2020,12,348
+Virginia,51,VA,Surry,51181,2020,12,26
+Virginia,51,VA,Sussex,51183,2020,12,25
+Virginia,51,VA,Tazewell,51185,2020,12,100
+Virginia,51,VA,Virginia Beach City,51810,2020,12,3314
+Virginia,51,VA,Warren,51187,2020,12,230
+Virginia,51,VA,Washington,51191,2020,12,183
+Virginia,51,VA,Waynesboro City,51820,2020,12,208
+Virginia,51,VA,Westmoreland,51193,2020,12,52
+Virginia,51,VA,Williamsburg City,51830,2020,12,28
+Virginia,51,VA,Winchester City,51840,2020,12,173
+Virginia,51,VA,Wise,51195,2020,12,81
+Virginia,51,VA,Wythe,51197,2020,12,144
+Virginia,51,VA,York,51199,2020,12,248
+Virginia,51,VA,Accomack,51001,2020,13,320
+Virginia,51,VA,Albemarle,51003,2020,13,1102
+Virginia,51,VA,Alexandria City,51510,2020,13,1683
+Virginia,51,VA,Alleghany,51005,2020,13,76
+Virginia,51,VA,Amelia,51007,2020,13,134
+Virginia,51,VA,Amherst,51009,2020,13,322
+Virginia,51,VA,Appomattox,51011,2020,13,90
+Virginia,51,VA,Arlington,51013,2020,13,1752
+Virginia,51,VA,Augusta,51015,2020,13,500
+Virginia,51,VA,Bath,51017,2020,13,187
+Virginia,51,VA,Bedford,51019,2020,13,797
+Virginia,51,VA,Bland,51021,2020,13,50
+Virginia,51,VA,Botetourt,51023,2020,13,310
+Virginia,51,VA,Bristol City,51520,2020,13,186
+Virginia,51,VA,Brunswick,51025,2020,13,140
+Virginia,51,VA,Buchanan,51027,2020,13,71
+Virginia,51,VA,Buckingham,51029,2020,13,117
+Virginia,51,VA,Buena Vista City,51530,2020,13,137
+Virginia,51,VA,Campbell,51031,2020,13,338
+Virginia,51,VA,Caroline,51033,2020,13,372
+Virginia,51,VA,Carroll,51035,2020,13,589
+Virginia,51,VA,Charles City,51036,2020,13,59
+Virginia,51,VA,Charlotte,51037,2020,13,78
+Virginia,51,VA,Charlottesville City,51540,2020,13,816
+Virginia,51,VA,Chesapeake City,51550,2020,13,2919
+Virginia,51,VA,Chesterfield,51041,2020,13,4219
+Virginia,51,VA,Clarke,51043,2020,13,162
+Virginia,51,VA,Colonial Heights Cit,51570,2020,13,336
+Virginia,51,VA,Covington City,51580,2020,13,182
+Virginia,51,VA,Craig,51045,2020,13,39
+Virginia,51,VA,Culpeper,51047,2020,13,550
+Virginia,51,VA,Cumberland,51049,2020,13,62
+Virginia,51,VA,Danville City,51590,2020,13,1473
+Virginia,51,VA,Dickenson,51051,2020,13,58
+Virginia,51,VA,Dinwiddie,51053,2020,13,140
+Virginia,51,VA,Emporia City,51595,2020,13,7
+Virginia,51,VA,Essex,51057,2020,13,118
+Virginia,51,VA,Fairfax City,51600,2020,13,11
+Virginia,51,VA,Fairfax,51059,2020,13,12109
+Virginia,51,VA,Falls Church City,51610,2020,13,134
+Virginia,51,VA,Fauquier,51061,2020,13,753
+Virginia,51,VA,Floyd,51063,2020,13,210
+Virginia,51,VA,Fluvanna,51065,2020,13,288
+Virginia,51,VA,Franklin City,51620,2020,13,103
+Virginia,51,VA,Franklin,51067,2020,13,520
+Virginia,51,VA,Frederick,51069,2020,13,1042
+Virginia,51,VA,Fredericksburg City,51630,2020,13,435
+Virginia,51,VA,Galax City,51640,2020,13,11
+Virginia,51,VA,Giles,51071,2020,13,241
+Virginia,51,VA,Gloucester,51073,2020,13,447
+Virginia,51,VA,Goochland,51075,2020,13,172
+Virginia,51,VA,Grayson,51077,2020,13,92
+Virginia,51,VA,Greene,51079,2020,13,195
+Virginia,51,VA,Greensville,51081,2020,13,125
+Virginia,51,VA,Halifax,51083,2020,13,318
+Virginia,51,VA,Hampton City,51650,2020,13,1864
+Virginia,51,VA,Hanover,51085,2020,13,1233
+Virginia,51,VA,Harrisonburg City,51660,2020,13,682
+Virginia,51,VA,Henrico,51087,2020,13,4145
+Virginia,51,VA,Henry,51089,2020,13,957
+Virginia,51,VA,Highland,51091,2020,13,9
+Virginia,51,VA,Hopewell City,51670,2020,13,405
+Virginia,51,VA,Isle of Wight,51093,2020,13,360
+Virginia,51,VA,James City,51095,2020,13,1635
+Virginia,51,VA,King and Queen,51097,2020,13,58
+Virginia,51,VA,King George,51099,2020,13,237
+Virginia,51,VA,King William,51101,2020,13,230
+Virginia,51,VA,Lancaster,51103,2020,13,87
+Virginia,51,VA,Lee,51105,2020,13,94
+Virginia,51,VA,Lexington City,51678,2020,13,3
+Virginia,51,VA,Loudoun,51107,2020,13,4561
+Virginia,51,VA,Louisa,51109,2020,13,343
+Virginia,51,VA,Lunenburg,51111,2020,13,47
+Virginia,51,VA,Lynchburg City,51680,2020,13,1335
+Virginia,51,VA,Madison,51113,2020,13,103
+Virginia,51,VA,Manassas City,51683,2020,13,603
+Virginia,51,VA,Manassas Park City,51685,2020,13,9
+Virginia,51,VA,Martinsville City,51690,2020,13,31
+Virginia,51,VA,Mathews,51115,2020,13,96
+Virginia,51,VA,Mecklenburg,51117,2020,13,278
+Virginia,51,VA,Middlesex,51119,2020,13,141
+Virginia,51,VA,Montgomery,51121,2020,13,1171
+Virginia,51,VA,Nelson,51125,2020,13,187
+Virginia,51,VA,New Kent,51127,2020,13,294
+Virginia,51,VA,Newport News City,51700,2020,13,2902
+Virginia,51,VA,Norfolk City,51710,2020,13,3446
+Virginia,51,VA,Northampton,51131,2020,13,116
+Virginia,51,VA,Northumberland,51133,2020,13,106
+Virginia,51,VA,Norton City,51720,2020,13,61
+Virginia,51,VA,Nottoway,51135,2020,13,113
+Virginia,51,VA,Orange,51137,2020,13,480
+Virginia,51,VA,Page,51139,2020,13,294
+Virginia,51,VA,Patrick,51141,2020,13,235
+Virginia,51,VA,Petersburg City,51730,2020,13,723
+Virginia,51,VA,Pittsylvania,51143,2020,13,781
+Virginia,51,VA,Poquoson City,51735,2020,13,122
+Virginia,51,VA,Portsmouth City,51740,2020,13,1240
+Virginia,51,VA,Powhatan,51145,2020,13,290
+Virginia,51,VA,Prince Edward,51147,2020,13,255
+Virginia,51,VA,Prince George,51149,2020,13,258
+Virginia,51,VA,Prince William,51153,2020,13,5863
+Virginia,51,VA,Pulaski,51155,2020,13,496
+Virginia,51,VA,Radford City,51750,2020,13,349
+Virginia,51,VA,Rappahannock,51157,2020,13,61
+Virginia,51,VA,Richmond City,51760,2020,13,4504
+Virginia,51,VA,Richmond,51159,2020,13,69
+Virginia,51,VA,Roanoke City,51770,2020,13,1682
+Virginia,51,VA,Roanoke,51161,2020,13,1132
+Virginia,51,VA,Rockbridge,51163,2020,13,288
+Virginia,51,VA,Rockingham,51165,2020,13,596
+Virginia,51,VA,Russell,51167,2020,13,169
+Virginia,51,VA,Salem City,51775,2020,13,492
+Virginia,51,VA,Scott,51169,2020,13,61
+Virginia,51,VA,Shenandoah,51171,2020,13,531
+Virginia,51,VA,Smyth,51173,2020,13,214
+Virginia,51,VA,Southampton,51175,2020,13,75
+Virginia,51,VA,Spotsylvania,51177,2020,13,1746
+Virginia,51,VA,Stafford,51179,2020,13,1699
+Virginia,51,VA,Staunton City,51790,2020,13,512
+Virginia,51,VA,Suffolk City,51800,2020,13,864
+Virginia,51,VA,Surry,51181,2020,13,79
+Virginia,51,VA,Sussex,51183,2020,13,77
+Virginia,51,VA,Tazewell,51185,2020,13,333
+Virginia,51,VA,Virginia Beach City,51810,2020,13,7386
+Virginia,51,VA,Warren,51187,2020,13,515
+Virginia,51,VA,Washington,51191,2020,13,522
+Virginia,51,VA,Waynesboro City,51820,2020,13,374
+Virginia,51,VA,Westmoreland,51193,2020,13,146
+Virginia,51,VA,Williamsburg City,51830,2020,13,45
+Virginia,51,VA,Winchester City,51840,2020,13,438
+Virginia,51,VA,Wise,51195,2020,13,272
+Virginia,51,VA,Wythe,51197,2020,13,450
+Virginia,51,VA,York,51199,2020,13,553
+Virginia,51,VA,Accomack,51001,2020,14,409
+Virginia,51,VA,Albemarle,51003,2020,14,1429
+Virginia,51,VA,Alexandria City,51510,2020,14,2578
+Virginia,51,VA,Alleghany,51005,2020,14,77
+Virginia,51,VA,Amelia,51007,2020,14,167
+Virginia,51,VA,Amherst,51009,2020,14,354
+Virginia,51,VA,Appomattox,51011,2020,14,123
+Virginia,51,VA,Arlington,51013,2020,14,2484
+Virginia,51,VA,Augusta,51015,2020,14,572
+Virginia,51,VA,Bath,51017,2020,14,118
+Virginia,51,VA,Bedford,51019,2020,14,986
+Virginia,51,VA,Bland,51021,2020,14,62
+Virginia,51,VA,Botetourt,51023,2020,14,356
+Virginia,51,VA,Bristol City,51520,2020,14,229
+Virginia,51,VA,Brunswick,51025,2020,14,134
+Virginia,51,VA,Buchanan,51027,2020,14,207
+Virginia,51,VA,Buckingham,51029,2020,14,118
+Virginia,51,VA,Buena Vista City,51530,2020,14,111
+Virginia,51,VA,Campbell,51031,2020,14,448
+Virginia,51,VA,Caroline,51033,2020,14,435
+Virginia,51,VA,Carroll,51035,2020,14,626
+Virginia,51,VA,Charles City,51036,2020,14,72
+Virginia,51,VA,Charlotte,51037,2020,14,122
+Virginia,51,VA,Charlottesville City,51540,2020,14,985
+Virginia,51,VA,Chesapeake City,51550,2020,14,3702
+Virginia,51,VA,Chesterfield,51041,2020,14,5720
+Virginia,51,VA,Clarke,51043,2020,14,205
+Virginia,51,VA,Colonial Heights Cit,51570,2020,14,395
+Virginia,51,VA,Covington City,51580,2020,14,185
+Virginia,51,VA,Craig,51045,2020,14,48
+Virginia,51,VA,Culpeper,51047,2020,14,698
+Virginia,51,VA,Cumberland,51049,2020,14,70
+Virginia,51,VA,Danville City,51590,2020,14,969
+Virginia,51,VA,Dickenson,51051,2020,14,115
+Virginia,51,VA,Dinwiddie,51053,2020,14,172
+Virginia,51,VA,Emporia City,51595,2020,14,7
+Virginia,51,VA,Essex,51057,2020,14,137
+Virginia,51,VA,Fairfax City,51600,2020,14,15
+Virginia,51,VA,Fairfax,51059,2020,14,21302
+Virginia,51,VA,Falls Church City,51610,2020,14,214
+Virginia,51,VA,Fauquier,51061,2020,14,1029
+Virginia,51,VA,Floyd,51063,2020,14,242
+Virginia,51,VA,Fluvanna,51065,2020,14,331
+Virginia,51,VA,Franklin City,51620,2020,14,149
+Virginia,51,VA,Franklin,51067,2020,14,595
+Virginia,51,VA,Frederick,51069,2020,14,1292
+Virginia,51,VA,Fredericksburg City,51630,2020,14,541
+Virginia,51,VA,Galax City,51640,2020,14,4
+Virginia,51,VA,Giles,51071,2020,14,207
+Virginia,51,VA,Gloucester,51073,2020,14,602
+Virginia,51,VA,Goochland,51075,2020,14,263
+Virginia,51,VA,Grayson,51077,2020,14,147
+Virginia,51,VA,Greene,51079,2020,14,316
+Virginia,51,VA,Greensville,51081,2020,14,170
+Virginia,51,VA,Halifax,51083,2020,14,332
+Virginia,51,VA,Hampton City,51650,2020,14,2421
+Virginia,51,VA,Hanover,51085,2020,14,1542
+Virginia,51,VA,Harrisonburg City,51660,2020,14,944
+Virginia,51,VA,Henrico,51087,2020,14,5586
+Virginia,51,VA,Henry,51089,2020,14,1002
+Virginia,51,VA,Highland,51091,2020,14,12
+Virginia,51,VA,Hopewell City,51670,2020,14,409
+Virginia,51,VA,Isle of Wight,51093,2020,14,472
+Virginia,51,VA,James City,51095,2020,14,1988
+Virginia,51,VA,King and Queen,51097,2020,14,74
+Virginia,51,VA,King George,51099,2020,14,257
+Virginia,51,VA,King William,51101,2020,14,266
+Virginia,51,VA,Lancaster,51103,2020,14,103
+Virginia,51,VA,Lee,51105,2020,14,173
+Virginia,51,VA,Lexington City,51678,2020,14,4
+Virginia,51,VA,Loudoun,51107,2020,14,7070
+Virginia,51,VA,Louisa,51109,2020,14,452
+Virginia,51,VA,Lunenburg,51111,2020,14,64
+Virginia,51,VA,Lynchburg City,51680,2020,14,1446
+Virginia,51,VA,Madison,51113,2020,14,110
+Virginia,51,VA,Manassas City,51683,2020,14,874
+Virginia,51,VA,Manassas Park City,51685,2020,14,3
+Virginia,51,VA,Martinsville City,51690,2020,14,23
+Virginia,51,VA,Mathews,51115,2020,14,118
+Virginia,51,VA,Mecklenburg,51117,2020,14,286
+Virginia,51,VA,Middlesex,51119,2020,14,156
+Virginia,51,VA,Montgomery,51121,2020,14,1138
+Virginia,51,VA,Nelson,51125,2020,14,277
+Virginia,51,VA,New Kent,51127,2020,14,396
+Virginia,51,VA,Newport News City,51700,2020,14,3667
+Virginia,51,VA,Norfolk City,51710,2020,14,4190
+Virginia,51,VA,Northampton,51131,2020,14,163
+Virginia,51,VA,Northumberland,51133,2020,14,141
+Virginia,51,VA,Norton City,51720,2020,14,76
+Virginia,51,VA,Nottoway,51135,2020,14,125
+Virginia,51,VA,Orange,51137,2020,14,589
+Virginia,51,VA,Page,51139,2020,14,556
+Virginia,51,VA,Patrick,51141,2020,14,205
+Virginia,51,VA,Petersburg City,51730,2020,14,852
+Virginia,51,VA,Pittsylvania,51143,2020,14,608
+Virginia,51,VA,Poquoson City,51735,2020,14,169
+Virginia,51,VA,Portsmouth City,51740,2020,14,1523
+Virginia,51,VA,Powhatan,51145,2020,14,390
+Virginia,51,VA,Prince Edward,51147,2020,14,252
+Virginia,51,VA,Prince George,51149,2020,14,285
+Virginia,51,VA,Prince William,51153,2020,14,9178
+Virginia,51,VA,Pulaski,51155,2020,14,478
+Virginia,51,VA,Radford City,51750,2020,14,317
+Virginia,51,VA,Rappahannock,51157,2020,14,72
+Virginia,51,VA,Richmond City,51760,2020,14,4740
+Virginia,51,VA,Richmond,51159,2020,14,77
+Virginia,51,VA,Roanoke City,51770,2020,14,1696
+Virginia,51,VA,Roanoke,51161,2020,14,1238
+Virginia,51,VA,Rockbridge,51163,2020,14,338
+Virginia,51,VA,Rockingham,51165,2020,14,865
+Virginia,51,VA,Russell,51167,2020,14,273
+Virginia,51,VA,Salem City,51775,2020,14,509
+Virginia,51,VA,Scott,51169,2020,14,169
+Virginia,51,VA,Shenandoah,51171,2020,14,601
+Virginia,51,VA,Smyth,51173,2020,14,365
+Virginia,51,VA,Southampton,51175,2020,14,117
+Virginia,51,VA,Spotsylvania,51177,2020,14,2296
+Virginia,51,VA,Stafford,51179,2020,14,2263
+Virginia,51,VA,Staunton City,51790,2020,14,569
+Virginia,51,VA,Suffolk City,51800,2020,14,1273
+Virginia,51,VA,Surry,51181,2020,14,78
+Virginia,51,VA,Sussex,51183,2020,14,94
+Virginia,51,VA,Tazewell,51185,2020,14,507
+Virginia,51,VA,Virginia Beach City,51810,2020,14,8754
+Virginia,51,VA,Warren,51187,2020,14,605
+Virginia,51,VA,Washington,51191,2020,14,706
+Virginia,51,VA,Waynesboro City,51820,2020,14,561
+Virginia,51,VA,Westmoreland,51193,2020,14,181
+Virginia,51,VA,Williamsburg City,51830,2020,14,30
+Virginia,51,VA,Winchester City,51840,2020,14,490
+Virginia,51,VA,Wise,51195,2020,14,398
+Virginia,51,VA,Wythe,51197,2020,14,559
+Virginia,51,VA,York,51199,2020,14,786
+Virginia,51,VA,Accomack,51001,2020,15,200
+Virginia,51,VA,Albemarle,51003,2020,15,846
+Virginia,51,VA,Alexandria City,51510,2020,15,1895
+Virginia,51,VA,Alleghany,51005,2020,15,58
+Virginia,51,VA,Amelia,51007,2020,15,109
+Virginia,51,VA,Amherst,51009,2020,15,264
+Virginia,51,VA,Appomattox,51011,2020,15,111
+Virginia,51,VA,Arlington,51013,2020,15,1897
+Virginia,51,VA,Augusta,51015,2020,15,439
+Virginia,51,VA,Bath,51017,2020,15,75
+Virginia,51,VA,Bedford,51019,2020,15,640
+Virginia,51,VA,Bland,51021,2020,15,56
+Virginia,51,VA,Botetourt,51023,2020,15,280
+Virginia,51,VA,Bristol City,51520,2020,15,210
+Virginia,51,VA,Brunswick,51025,2020,15,91
+Virginia,51,VA,Buchanan,51027,2020,15,153
+Virginia,51,VA,Buckingham,51029,2020,15,89
+Virginia,51,VA,Buena Vista City,51530,2020,15,90
+Virginia,51,VA,Campbell,51031,2020,15,351
+Virginia,51,VA,Caroline,51033,2020,15,279
+Virginia,51,VA,Carroll,51035,2020,15,513
+Virginia,51,VA,Charles City,51036,2020,15,41
+Virginia,51,VA,Charlotte,51037,2020,15,93
+Virginia,51,VA,Charlottesville City,51540,2020,15,621
+Virginia,51,VA,Chesapeake City,51550,2020,15,2597
+Virginia,51,VA,Chesterfield,51041,2020,15,3919
+Virginia,51,VA,Clarke,51043,2020,15,141
+Virginia,51,VA,Colonial Heights Cit,51570,2020,15,318
+Virginia,51,VA,Covington City,51580,2020,15,135
+Virginia,51,VA,Craig,51045,2020,15,52
+Virginia,51,VA,Culpeper,51047,2020,15,478
+Virginia,51,VA,Cumberland,51049,2020,15,45
+Virginia,51,VA,Danville City,51590,2020,15,604
+Virginia,51,VA,Dickenson,51051,2020,15,134
+Virginia,51,VA,Dinwiddie,51053,2020,15,113
+Virginia,51,VA,Emporia City,51595,2020,15,11
+Virginia,51,VA,Essex,51057,2020,15,134
+Virginia,51,VA,Fairfax City,51600,2020,15,4
+Virginia,51,VA,Fairfax,51059,2020,15,14454
+Virginia,51,VA,Falls Church City,51610,2020,15,138
+Virginia,51,VA,Fauquier,51061,2020,15,652
+Virginia,51,VA,Floyd,51063,2020,15,163
+Virginia,51,VA,Fluvanna,51065,2020,15,224
+Virginia,51,VA,Franklin City,51620,2020,15,101
+Virginia,51,VA,Franklin,51067,2020,15,531
+Virginia,51,VA,Frederick,51069,2020,15,938
+Virginia,51,VA,Fredericksburg City,51630,2020,15,331
+Virginia,51,VA,Galax City,51640,2020,15,5
+Virginia,51,VA,Giles,51071,2020,15,143
+Virginia,51,VA,Gloucester,51073,2020,15,404
+Virginia,51,VA,Goochland,51075,2020,15,176
+Virginia,51,VA,Grayson,51077,2020,15,108
+Virginia,51,VA,Greene,51079,2020,15,158
+Virginia,51,VA,Greensville,51081,2020,15,115
+Virginia,51,VA,Halifax,51083,2020,15,266
+Virginia,51,VA,Hampton City,51650,2020,15,1847
+Virginia,51,VA,Hanover,51085,2020,15,1038
+Virginia,51,VA,Harrisonburg City,51660,2020,15,724
+Virginia,51,VA,Henrico,51087,2020,15,3827
+Virginia,51,VA,Henry,51089,2020,15,908
+Virginia,51,VA,Highland,51091,2020,15,19
+Virginia,51,VA,Hopewell City,51670,2020,15,311
+Virginia,51,VA,Isle of Wight,51093,2020,15,321
+Virginia,51,VA,James City,51095,2020,15,1208
+Virginia,51,VA,King and Queen,51097,2020,15,72
+Virginia,51,VA,King George,51099,2020,15,177
+Virginia,51,VA,King William,51101,2020,15,181
+Virginia,51,VA,Lancaster,51103,2020,15,75
+Virginia,51,VA,Lee,51105,2020,15,119
+Virginia,51,VA,Lexington City,51678,2020,15,4
+Virginia,51,VA,Loudoun,51107,2020,15,4799
+Virginia,51,VA,Louisa,51109,2020,15,292
+Virginia,51,VA,Lunenburg,51111,2020,15,63
+Virginia,51,VA,Lynchburg City,51680,2020,15,1010
+Virginia,51,VA,Madison,51113,2020,15,98
+Virginia,51,VA,Manassas City,51683,2020,15,601
+Virginia,51,VA,Manassas Park City,51685,2020,15,5
+Virginia,51,VA,Martinsville City,51690,2020,15,14
+Virginia,51,VA,Mathews,51115,2020,15,65
+Virginia,51,VA,Mecklenburg,51117,2020,15,221
+Virginia,51,VA,Middlesex,51119,2020,15,106
+Virginia,51,VA,Montgomery,51121,2020,15,753
+Virginia,51,VA,Nelson,51125,2020,15,170
+Virginia,51,VA,New Kent,51127,2020,15,244
+Virginia,51,VA,Newport News City,51700,2020,15,2577
+Virginia,51,VA,Norfolk City,51710,2020,15,2939
+Virginia,51,VA,Northampton,51131,2020,15,107
+Virginia,51,VA,Northumberland,51133,2020,15,94
+Virginia,51,VA,Norton City,51720,2020,15,71
+Virginia,51,VA,Nottoway,51135,2020,15,96
+Virginia,51,VA,Orange,51137,2020,15,411
+Virginia,51,VA,Page,51139,2020,15,323
+Virginia,51,VA,Patrick,51141,2020,15,241
+Virginia,51,VA,Petersburg City,51730,2020,15,662
+Virginia,51,VA,Pittsylvania,51143,2020,15,403
+Virginia,51,VA,Poquoson City,51735,2020,15,90
+Virginia,51,VA,Portsmouth City,51740,2020,15,1151
+Virginia,51,VA,Powhatan,51145,2020,15,218
+Virginia,51,VA,Prince Edward,51147,2020,15,167
+Virginia,51,VA,Prince George,51149,2020,15,193
+Virginia,51,VA,Prince William,51153,2020,15,6353
+Virginia,51,VA,Pulaski,51155,2020,15,285
+Virginia,51,VA,Radford City,51750,2020,15,244
+Virginia,51,VA,Rappahannock,51157,2020,15,42
+Virginia,51,VA,Richmond City,51760,2020,15,3291
+Virginia,51,VA,Richmond,51159,2020,15,45
+Virginia,51,VA,Roanoke City,51770,2020,15,1285
+Virginia,51,VA,Roanoke,51161,2020,15,980
+Virginia,51,VA,Rockbridge,51163,2020,15,210
+Virginia,51,VA,Rockingham,51165,2020,15,663
+Virginia,51,VA,Russell,51167,2020,15,257
+Virginia,51,VA,Salem City,51775,2020,15,457
+Virginia,51,VA,Scott,51169,2020,15,125
+Virginia,51,VA,Shenandoah,51171,2020,15,439
+Virginia,51,VA,Smyth,51173,2020,15,310
+Virginia,51,VA,Southampton,51175,2020,15,87
+Virginia,51,VA,Spotsylvania,51177,2020,15,1380
+Virginia,51,VA,Stafford,51179,2020,15,1468
+Virginia,51,VA,Staunton City,51790,2020,15,383
+Virginia,51,VA,Suffolk City,51800,2020,15,881
+Virginia,51,VA,Surry,51181,2020,15,58
+Virginia,51,VA,Sussex,51183,2020,15,48
+Virginia,51,VA,Tazewell,51185,2020,15,449
+Virginia,51,VA,Virginia Beach City,51810,2020,15,5886
+Virginia,51,VA,Warren,51187,2020,15,430
+Virginia,51,VA,Washington,51191,2020,15,603
+Virginia,51,VA,Waynesboro City,51820,2020,15,356
+Virginia,51,VA,Westmoreland,51193,2020,15,129
+Virginia,51,VA,Williamsburg City,51830,2020,15,29
+Virginia,51,VA,Winchester City,51840,2020,15,389
+Virginia,51,VA,Wise,51195,2020,15,373
+Virginia,51,VA,Wythe,51197,2020,15,484
+Virginia,51,VA,York,51199,2020,15,456
+Virginia,51,VA,Accomack,51001,2020,16,170
+Virginia,51,VA,Albemarle,51003,2020,16,602
+Virginia,51,VA,Alexandria City,51510,2020,16,1398
+Virginia,51,VA,Alleghany,51005,2020,16,38
+Virginia,51,VA,Amelia,51007,2020,16,88
+Virginia,51,VA,Amherst,51009,2020,16,197
+Virginia,51,VA,Appomattox,51011,2020,16,88
+Virginia,51,VA,Arlington,51013,2020,16,1438
+Virginia,51,VA,Augusta,51015,2020,16,339
+Virginia,51,VA,Bath,51017,2020,16,52
+Virginia,51,VA,Bedford,51019,2020,16,474
+Virginia,51,VA,Bland,51021,2020,16,55
+Virginia,51,VA,Botetourt,51023,2020,16,196
+Virginia,51,VA,Bristol City,51520,2020,16,133
+Virginia,51,VA,Brunswick,51025,2020,16,91
+Virginia,51,VA,Buchanan,51027,2020,16,75
+Virginia,51,VA,Buckingham,51029,2020,16,55
+Virginia,51,VA,Buena Vista City,51530,2020,16,81
+Virginia,51,VA,Campbell,51031,2020,16,286
+Virginia,51,VA,Caroline,51033,2020,16,233
+Virginia,51,VA,Carroll,51035,2020,16,305
+Virginia,51,VA,Charles City,51036,2020,16,48
+Virginia,51,VA,Charlotte,51037,2020,16,78
+Virginia,51,VA,Charlottesville City,51540,2020,16,504
+Virginia,51,VA,Chesapeake City,51550,2020,16,2119
+Virginia,51,VA,Chesterfield,51041,2020,16,3173
+Virginia,51,VA,Clarke,51043,2020,16,97
+Virginia,51,VA,Colonial Heights Cit,51570,2020,16,213
+Virginia,51,VA,Covington City,51580,2020,16,88
+Virginia,51,VA,Craig,51045,2020,16,23
+Virginia,51,VA,Culpeper,51047,2020,16,396
+Virginia,51,VA,Cumberland,51049,2020,16,39
+Virginia,51,VA,Danville City,51590,2020,16,467
+Virginia,51,VA,Dickenson,51051,2020,16,50
+Virginia,51,VA,Dinwiddie,51053,2020,16,109
+Virginia,51,VA,Emporia City,51595,2020,16,4
+Virginia,51,VA,Essex,51057,2020,16,73
+Virginia,51,VA,Fairfax City,51600,2020,16,5
+Virginia,51,VA,Fairfax,51059,2020,16,11239
+Virginia,51,VA,Falls Church City,51610,2020,16,87
+Virginia,51,VA,Fauquier,51061,2020,16,497
+Virginia,51,VA,Floyd,51063,2020,16,115
+Virginia,51,VA,Fluvanna,51065,2020,16,183
+Virginia,51,VA,Franklin City,51620,2020,16,81
+Virginia,51,VA,Franklin,51067,2020,16,327
+Virginia,51,VA,Frederick,51069,2020,16,724
+Virginia,51,VA,Fredericksburg City,51630,2020,16,279
+Virginia,51,VA,Galax City,51640,2020,16,1
+Virginia,51,VA,Giles,51071,2020,16,109
+Virginia,51,VA,Gloucester,51073,2020,16,260
+Virginia,51,VA,Goochland,51075,2020,16,148
+Virginia,51,VA,Grayson,51077,2020,16,66
+Virginia,51,VA,Greene,51079,2020,16,141
+Virginia,51,VA,Greensville,51081,2020,16,130
+Virginia,51,VA,Halifax,51083,2020,16,202
+Virginia,51,VA,Hampton City,51650,2020,16,1427
+Virginia,51,VA,Hanover,51085,2020,16,891
+Virginia,51,VA,Harrisonburg City,51660,2020,16,814
+Virginia,51,VA,Henrico,51087,2020,16,3289
+Virginia,51,VA,Henry,51089,2020,16,619
+Virginia,51,VA,Highland,51091,2020,16,10
+Virginia,51,VA,Hopewell City,51670,2020,16,251
+Virginia,51,VA,Isle of Wight,51093,2020,16,243
+Virginia,51,VA,James City,51095,2020,16,995
+Virginia,51,VA,King and Queen,51097,2020,16,41
+Virginia,51,VA,King George,51099,2020,16,142
+Virginia,51,VA,King William,51101,2020,16,148
+Virginia,51,VA,Lancaster,51103,2020,16,57
+Virginia,51,VA,Lee,51105,2020,16,140
+Virginia,51,VA,Lexington City,51678,2020,16,3
+Virginia,51,VA,Loudoun,51107,2020,16,3751
+Virginia,51,VA,Louisa,51109,2020,16,243
+Virginia,51,VA,Lunenburg,51111,2020,16,48
+Virginia,51,VA,Lynchburg City,51680,2020,16,859
+Virginia,51,VA,Madison,51113,2020,16,65
+Virginia,51,VA,Manassas City,51683,2020,16,482
+Virginia,51,VA,Manassas Park City,51685,2020,16,4
+Virginia,51,VA,Martinsville City,51690,2020,16,19
+Virginia,51,VA,Mathews,51115,2020,16,55
+Virginia,51,VA,Mecklenburg,51117,2020,16,168
+Virginia,51,VA,Middlesex,51119,2020,16,69
+Virginia,51,VA,Montgomery,51121,2020,16,606
+Virginia,51,VA,Nelson,51125,2020,16,119
+Virginia,51,VA,New Kent,51127,2020,16,194
+Virginia,51,VA,Newport News City,51700,2020,16,2146
+Virginia,51,VA,Norfolk City,51710,2020,16,2378
+Virginia,51,VA,Northampton,51131,2020,16,66
+Virginia,51,VA,Northumberland,51133,2020,16,98
+Virginia,51,VA,Norton City,51720,2020,16,33
+Virginia,51,VA,Nottoway,51135,2020,16,90
+Virginia,51,VA,Orange,51137,2020,16,349
+Virginia,51,VA,Page,51139,2020,16,284
+Virginia,51,VA,Patrick,51141,2020,16,83
+Virginia,51,VA,Petersburg City,51730,2020,16,607
+Virginia,51,VA,Pittsylvania,51143,2020,16,278
+Virginia,51,VA,Poquoson City,51735,2020,16,67
+Virginia,51,VA,Portsmouth City,51740,2020,16,912
+Virginia,51,VA,Powhatan,51145,2020,16,208
+Virginia,51,VA,Prince Edward,51147,2020,16,193
+Virginia,51,VA,Prince George,51149,2020,16,191
+Virginia,51,VA,Prince William,51153,2020,16,5080
+Virginia,51,VA,Pulaski,51155,2020,16,213
+Virginia,51,VA,Radford City,51750,2020,16,172
+Virginia,51,VA,Rappahannock,51157,2020,16,42
+Virginia,51,VA,Richmond City,51760,2020,16,2849
+Virginia,51,VA,Richmond,51159,2020,16,44
+Virginia,51,VA,Roanoke City,51770,2020,16,957
+Virginia,51,VA,Roanoke,51161,2020,16,713
+Virginia,51,VA,Rockbridge,51163,2020,16,206
+Virginia,51,VA,Rockingham,51165,2020,16,668
+Virginia,51,VA,Russell,51167,2020,16,120
+Virginia,51,VA,Salem City,51775,2020,16,293
+Virginia,51,VA,Scott,51169,2020,16,104
+Virginia,51,VA,Shenandoah,51171,2020,16,323
+Virginia,51,VA,Smyth,51173,2020,16,193
+Virginia,51,VA,Southampton,51175,2020,16,56
+Virginia,51,VA,Spotsylvania,51177,2020,16,1185
+Virginia,51,VA,Stafford,51179,2020,16,1164
+Virginia,51,VA,Staunton City,51790,2020,16,289
+Virginia,51,VA,Suffolk City,51800,2020,16,718
+Virginia,51,VA,Surry,51181,2020,16,45
+Virginia,51,VA,Sussex,51183,2020,16,58
+Virginia,51,VA,Tazewell,51185,2020,16,302
+Virginia,51,VA,Virginia Beach City,51810,2020,16,4724
+Virginia,51,VA,Warren,51187,2020,16,316
+Virginia,51,VA,Washington,51191,2020,16,365
+Virginia,51,VA,Waynesboro City,51820,2020,16,226
+Virginia,51,VA,Westmoreland,51193,2020,16,116
+Virginia,51,VA,Williamsburg City,51830,2020,16,17
+Virginia,51,VA,Winchester City,51840,2020,16,271
+Virginia,51,VA,Wise,51195,2020,16,215
+Virginia,51,VA,Wythe,51197,2020,16,293
+Virginia,51,VA,York,51199,2020,16,363
+Virginia,51,VA,Accomack,51001,2020,17,171
+Virginia,51,VA,Albemarle,51003,2020,17,556
+Virginia,51,VA,Alexandria City,51510,2020,17,33
+Virginia,51,VA,Alleghany,51005,2020,17,76
+Virginia,51,VA,Amelia,51007,2020,17,171
+Virginia,51,VA,Amherst,51009,2020,17,83
+Virginia,51,VA,Appomattox,51011,2020,17,1146
+Virginia,51,VA,Arlington,51013,2020,17,265
+Virginia,51,VA,Augusta,51015,2020,17,35
+Virginia,51,VA,Bath,51017,2020,17,497
+Virginia,51,VA,Bedford,51019,2020,17,33
+Virginia,51,VA,Bland,51021,2020,17,206
+Virginia,51,VA,Botetourt,51023,2020,17,77
+Virginia,51,VA,Bristol City,51520,2020,17,55
+Virginia,51,VA,Brunswick,51025,2020,17,67
+Virginia,51,VA,Buchanan,51027,2020,17,229
+Virginia,51,VA,Buckingham,51029,2020,17,240
+Virginia,51,VA,Buena Vista City,51530,2020,17,233
+Virginia,51,VA,Campbell,51031,2020,17,34
+Virginia,51,VA,Caroline,51033,2020,17,55
+Virginia,51,VA,Carroll,51035,2020,17,2666
+Virginia,51,VA,Charles City,51036,2020,17,106
+Virginia,51,VA,Charlotte,51037,2020,17,20
+Virginia,51,VA,Charlottesville City,51540,2020,17,351
+Virginia,51,VA,Chesapeake City,51550,2020,17,30
+Virginia,51,VA,Chesterfield,51041,2020,17,51
+Virginia,51,VA,Clarke,51043,2020,17,89
+Virginia,51,VA,Colonial Heights Cit,51570,2020,17,87
+Virginia,51,VA,Covington City,51580,2020,17,9126
+Virginia,51,VA,Craig,51045,2020,17,425
+Virginia,51,VA,Culpeper,51047,2020,17,105
+Virginia,51,VA,Cumberland,51049,2020,17,150
+Virginia,51,VA,Danville City,51590,2020,17,382
+Virginia,51,VA,Dickenson,51051,2020,17,554
+Virginia,51,VA,Dinwiddie,51053,2020,17,166
+Virginia,51,VA,Emporia City,51595,2020,17,236
+Virginia,51,VA,Essex,51057,2020,17,112
+Virginia,51,VA,Fairfax City,51600,2020,17,56
+Virginia,51,VA,Fairfax,51059,2020,17,112
+Virginia,51,VA,Falls Church City,51610,2020,17,146
+Virginia,51,VA,Fauquier,51061,2020,17,163
+Virginia,51,VA,Floyd,51063,2020,17,695
+Virginia,51,VA,Fluvanna,51065,2020,17,2577
+Virginia,51,VA,Franklin City,51620,2020,17,528
+Virginia,51,VA,Franklin,51067,2020,17,9
+Virginia,51,VA,Frederick,51069,2020,17,246
+Virginia,51,VA,Fredericksburg City,51630,2020,17,822
+Virginia,51,VA,Galax City,51640,2020,17,34
+Virginia,51,VA,Giles,51071,2020,17,113
+Virginia,51,VA,Gloucester,51073,2020,17,106
+Virginia,51,VA,Goochland,51075,2020,17,63
+Virginia,51,VA,Grayson,51077,2020,17,59
+Virginia,51,VA,Greene,51079,2020,17,3048
+Virginia,51,VA,Greensville,51081,2020,17,196
+Virginia,51,VA,Halifax,51083,2020,17,29
+Virginia,51,VA,Hampton City,51650,2020,17,48
+Virginia,51,VA,Hanover,51085,2020,17,54
+Virginia,51,VA,Harrisonburg City,51660,2020,17,157
+Virginia,51,VA,Henrico,51087,2020,17,67
+Virginia,51,VA,Henry,51089,2020,17,569
+Virginia,51,VA,Highland,51091,2020,17,103
+Virginia,51,VA,Hopewell City,51670,2020,17,158
+Virginia,51,VA,Isle of Wight,51093,2020,17,87
+Virginia,51,VA,James City,51095,2020,17,78
+Virginia,51,VA,King and Queen,51097,2020,17,64
+Virginia,51,VA,King George,51099,2020,17,306
+Virginia,51,VA,King William,51101,2020,17,184
+Virginia,51,VA,Lancaster,51103,2020,17,71
+Virginia,51,VA,Lee,51105,2020,17,251
+Virginia,51,VA,Lexington City,51678,2020,17,165
+Virginia,51,VA,Loudoun,51107,2020,17,152
+Virginia,51,VA,Louisa,51109,2020,17,174
+Virginia,51,VA,Lunenburg,51111,2020,17,4508
+Virginia,51,VA,Lynchburg City,51680,2020,17,230
+Virginia,51,VA,Madison,51113,2020,17,34
+Virginia,51,VA,Manassas City,51683,2020,17,45
+Virginia,51,VA,Manassas Park City,51685,2020,17,757
+Virginia,51,VA,Martinsville City,51690,2020,17,208
+Virginia,51,VA,Mathews,51115,2020,17,413
+Virginia,51,VA,Mecklenburg,51117,2020,17,90
+Virginia,51,VA,Middlesex,51119,2020,17,65
+Virginia,51,VA,Montgomery,51121,2020,17,268
+Virginia,51,VA,Nelson,51125,2020,17,132
+Virginia,51,VA,New Kent,51127,2020,17,76
+Virginia,51,VA,Newport News City,51700,2020,17,1035
+Virginia,51,VA,Norfolk City,51710,2020,17,1004
+Virginia,51,VA,Northampton,51131,2020,17,45
+Virginia,51,VA,Northumberland,51133,2020,17,63
+Virginia,51,VA,Norton City,51720,2020,17,234
+Virginia,51,VA,Nottoway,51135,2020,17,261
+Virginia,51,VA,Orange,51137,2020,17,253
+Virginia,51,VA,Page,51139,2020,17,139
+Virginia,51,VA,Patrick,51141,2020,17,155
+Virginia,51,VA,Petersburg City,51730,2020,17,206
+Virginia,51,VA,Pittsylvania,51143,2020,17,282
+Virginia,51,VA,Poquoson City,51735,2020,17,1212
+Virginia,51,VA,Portsmouth City,51740,2020,17,121
+Virginia,51,VA,Powhatan,51145,2020,17,94
+Virginia,51,VA,Prince Edward,51147,2020,17,402
+Virginia,51,VA,Prince George,51149,2020,17,1897
+Virginia,51,VA,Prince William,51153,2020,17,241
+Virginia,51,VA,Pulaski,51155,2020,17,94
+Virginia,51,VA,Radford City,51750,2020,17,454
+Virginia,51,VA,Rappahannock,51157,2020,17,8
+Virginia,51,VA,Richmond City,51760,2020,17,25
+Virginia,51,VA,Richmond,51159,2020,17,101
+Virginia,51,VA,Roanoke City,51770,2020,17,83
+Virginia,51,VA,Roanoke,51161,2020,17,272
+Virginia,51,VA,Rockbridge,51163,2020,17,6
+Virginia,51,VA,Rockingham,51165,2020,17,1320
+Virginia,51,VA,Russell,51167,2020,17,615
+Virginia,51,VA,Salem City,51775,2020,17,236
+Virginia,51,VA,Scott,51169,2020,17,2
+Virginia,51,VA,Shenandoah,51171,2020,17,756
+Virginia,51,VA,Smyth,51173,2020,17,402
+Virginia,51,VA,Southampton,51175,2020,17,4
+Virginia,51,VA,Spotsylvania,51177,2020,17,20
+Virginia,51,VA,Stafford,51179,2020,17,1978
+Virginia,51,VA,Staunton City,51790,2020,17,2230
+Virginia,51,VA,Suffolk City,51800,2020,17,31
+Virginia,51,VA,Surry,51181,2020,17,552
+Virginia,51,VA,Sussex,51183,2020,17,84
+Virginia,51,VA,Tazewell,51185,2020,17,942
+Virginia,51,VA,Virginia Beach City,51810,2020,17,189
+Virginia,51,VA,Warren,51187,2020,17,2436
+Virginia,51,VA,Washington,51191,2020,17,1214
+Virginia,51,VA,Waynesboro City,51820,2020,17,278
+Virginia,51,VA,Westmoreland,51193,2020,17,247
+Virginia,51,VA,Williamsburg City,51830,2020,17,750
+Virginia,51,VA,Winchester City,51840,2020,17,4094
+Virginia,51,VA,Wise,51195,2020,17,205
+Virginia,51,VA,Wythe,51197,2020,17,33
+Virginia,51,VA,York,51199,2020,17,224
+Virginia,51,VA,Accomack,51001,2020,18,202
+Virginia,51,VA,Albemarle,51003,2020,18,503
+Virginia,51,VA,Alexandria City,51510,2020,18,32
+Virginia,51,VA,Alleghany,51005,2020,18,65
+Virginia,51,VA,Amelia,51007,2020,18,173
+Virginia,51,VA,Amherst,51009,2020,18,49
+Virginia,51,VA,Appomattox,51011,2020,18,946
+Virginia,51,VA,Arlington,51013,2020,18,246
+Virginia,51,VA,Augusta,51015,2020,18,19
+Virginia,51,VA,Bath,51017,2020,18,365
+Virginia,51,VA,Bedford,51019,2020,18,22
+Virginia,51,VA,Bland,51021,2020,18,169
+Virginia,51,VA,Botetourt,51023,2020,18,58
+Virginia,51,VA,Bristol City,51520,2020,18,48
+Virginia,51,VA,Brunswick,51025,2020,18,71
+Virginia,51,VA,Buchanan,51027,2020,18,190
+Virginia,51,VA,Buckingham,51029,2020,18,175
+Virginia,51,VA,Buena Vista City,51530,2020,18,171
+Virginia,51,VA,Campbell,51031,2020,18,37
+Virginia,51,VA,Caroline,51033,2020,18,44
+Virginia,51,VA,Carroll,51035,2020,18,"2,185"
+Virginia,51,VA,Charles City,51036,2020,18,64
+Virginia,51,VA,Charlotte,51037,2020,18,18
+Virginia,51,VA,Charlottesville City,51540,2020,18,318
+Virginia,51,VA,Chesapeake City,51550,2020,18,30
+Virginia,51,VA,Chesterfield,51041,2020,18,30
+Virginia,51,VA,Clarke,51043,2020,18,74
+Virginia,51,VA,Colonial Heights Cit,51570,2020,18,69
+Virginia,51,VA,Covington City,51580,2020,18,"7,029"
+Virginia,51,VA,Craig,51045,2020,18,344
+Virginia,51,VA,Culpeper,51047,2020,18,56
+Virginia,51,VA,Cumberland,51049,2020,18,151
+Virginia,51,VA,Danville City,51590,2020,18,283
+Virginia,51,VA,Dickenson,51051,2020,18,375
+Virginia,51,VA,Dinwiddie,51053,2020,18,79
+Virginia,51,VA,Emporia City,51595,2020,18,201
+Virginia,51,VA,Essex,51057,2020,18,91
+Virginia,51,VA,Fairfax City,51600,2020,18,54
+Virginia,51,VA,Fairfax,51059,2020,18,91
+Virginia,51,VA,Falls Church City,51610,2020,18,110
+Virginia,51,VA,Fauquier,51061,2020,18,131
+Virginia,51,VA,Floyd,51063,2020,18,572
+Virginia,51,VA,Fluvanna,51065,2020,18,"2,163"
+Virginia,51,VA,Franklin City,51620,2020,18,406
+Virginia,51,VA,Franklin,51067,2020,18,10
+Virginia,51,VA,Frederick,51069,2020,18,161
+Virginia,51,VA,Fredericksburg City,51630,2020,18,643
+Virginia,51,VA,Galax City,51640,2020,18,37
+Virginia,51,VA,Giles,51071,2020,18,99
+Virginia,51,VA,Gloucester,51073,2020,18,92
+Virginia,51,VA,Goochland,51075,2020,18,49
+Virginia,51,VA,Grayson,51077,2020,18,36
+Virginia,51,VA,Greene,51079,2020,18,"2,399"
+Virginia,51,VA,Greensville,51081,2020,18,176
+Virginia,51,VA,Halifax,51083,2020,18,25
+Virginia,51,VA,Hampton City,51650,2020,18,41
+Virginia,51,VA,Hanover,51085,2020,18,33
+Virginia,51,VA,Harrisonburg City,51660,2020,18,134
+Virginia,51,VA,Henrico,51087,2020,18,53
+Virginia,51,VA,Henry,51089,2020,18,405
+Virginia,51,VA,Highland,51091,2020,18,94
+Virginia,51,VA,Hopewell City,51670,2020,18,97
+Virginia,51,VA,Isle of Wight,51093,2020,18,93
+Virginia,51,VA,James City,51095,2020,18,62
+Virginia,51,VA,King and Queen,51097,2020,18,55
+Virginia,51,VA,King George,51099,2020,18,238
+Virginia,51,VA,King William,51101,2020,18,160
+Virginia,51,VA,Lancaster,51103,2020,18,62
+Virginia,51,VA,Lee,51105,2020,18,224
+Virginia,51,VA,Lexington City,51678,2020,18,142
+Virginia,51,VA,Loudoun,51107,2020,18,128
+Virginia,51,VA,Louisa,51109,2020,18,147
+Virginia,51,VA,Lunenburg,51111,2020,18,"3,541"
+Virginia,51,VA,Lynchburg City,51680,2020,18,141
+Virginia,51,VA,Madison,51113,2020,18,23
+Virginia,51,VA,Manassas City,51683,2020,18,45
+Virginia,51,VA,Manassas Park City,51685,2020,18,589
+Virginia,51,VA,Martinsville City,51690,2020,18,230
+Virginia,51,VA,Mathews,51115,2020,18,271
+Virginia,51,VA,Mecklenburg,51117,2020,18,66
+Virginia,51,VA,Middlesex,51119,2020,18,63
+Virginia,51,VA,Montgomery,51121,2020,18,225
+Virginia,51,VA,Nelson,51125,2020,18,100
+Virginia,51,VA,New Kent,51127,2020,18,59
+Virginia,51,VA,Newport News City,51700,2020,18,824
+Virginia,51,VA,Norfolk City,51710,2020,18,886
+Virginia,51,VA,Northampton,51131,2020,18,34
+Virginia,51,VA,Northumberland,51133,2020,18,56
+Virginia,51,VA,Norton City,51720,2020,18,179
+Virginia,51,VA,Nottoway,51135,2020,18,218
+Virginia,51,VA,Orange,51137,2020,18,188
+Virginia,51,VA,Page,51139,2020,18,81
+Virginia,51,VA,Patrick,51141,2020,18,119
+Virginia,51,VA,Petersburg City,51730,2020,18,118
+Virginia,51,VA,Pittsylvania,51143,2020,18,264
+Virginia,51,VA,Poquoson City,51735,2020,18,"1,013"
+Virginia,51,VA,Portsmouth City,51740,2020,18,66
+Virginia,51,VA,Powhatan,51145,2020,18,134
+Virginia,51,VA,Prince Edward,51147,2020,18,409
+Virginia,51,VA,Prince George,51149,2020,18,"1,693"
+Virginia,51,VA,Prince William,51153,2020,18,179
+Virginia,51,VA,Pulaski,51155,2020,18,57
+Virginia,51,VA,Radford City,51750,2020,18,375
+Virginia,51,VA,Rappahannock,51157,2020,18,11
+Virginia,51,VA,Richmond City,51760,2020,18,31
+Virginia,51,VA,Richmond,51159,2020,18,72
+Virginia,51,VA,Roanoke City,51770,2020,18,71
+Virginia,51,VA,Roanoke,51161,2020,18,250
+Virginia,51,VA,Rockbridge,51163,2020,18,3
+Virginia,51,VA,Rockingham,51165,2020,18,"1,129"
+Virginia,51,VA,Russell,51167,2020,18,513
+Virginia,51,VA,Salem City,51775,2020,18,231
+Virginia,51,VA,Scott,51169,2020,18,6
+Virginia,51,VA,Shenandoah,51171,2020,18,578
+Virginia,51,VA,Smyth,51173,2020,18,375
+Virginia,51,VA,Southampton,51175,2020,18,6
+Virginia,51,VA,Spotsylvania,51177,2020,18,36
+Virginia,51,VA,Stafford,51179,2020,18,"1,619"
+Virginia,51,VA,Staunton City,51790,2020,18,"1,874"
+Virginia,51,VA,Suffolk City,51800,2020,18,19
+Virginia,51,VA,Surry,51181,2020,18,537
+Virginia,51,VA,Sussex,51183,2020,18,49
+Virginia,51,VA,Tazewell,51185,2020,18,812
+Virginia,51,VA,Virginia Beach City,51810,2020,18,133
+Virginia,51,VA,Warren,51187,2020,18,"2,290"
+Virginia,51,VA,Washington,51191,2020,18,976
+Virginia,51,VA,Waynesboro City,51820,2020,18,223
+Virginia,51,VA,Westmoreland,51193,2020,18,235
+Virginia,51,VA,Williamsburg City,51830,2020,18,645
+Virginia,51,VA,Winchester City,51840,2020,18,"3,093"
+Virginia,51,VA,Wise,51195,2020,18,214
+Virginia,51,VA,Wythe,51197,2020,18,23
+Virginia,51,VA,York,51199,2020,18,178
+Virginia,51,VA,Accomack,51001,2020,19,179
+Virginia,51,VA,Albemarle,51003,2020,19,651
+Virginia,51,VA,Alexandria City,51510,2020,19,30
+Virginia,51,VA,Alleghany,51005,2020,19,57
+Virginia,51,VA,Amelia,51007,2020,19,128
+Virginia,51,VA,Amherst,51009,2020,19,52
+Virginia,51,VA,Appomattox,51011,2020,19,769
+Virginia,51,VA,Arlington,51013,2020,19,210
+Virginia,51,VA,Augusta,51015,2020,19,11
+Virginia,51,VA,Bath,51017,2020,19,265
+Virginia,51,VA,Bedford,51019,2020,19,27
+Virginia,51,VA,Bland,51021,2020,19,147
+Virginia,51,VA,Botetourt,51023,2020,19,77
+Virginia,51,VA,Bristol City,51520,2020,19,43
+Virginia,51,VA,Brunswick,51025,2020,19,58
+Virginia,51,VA,Buchanan,51027,2020,19,160
+Virginia,51,VA,Buckingham,51029,2020,19,152
+Virginia,51,VA,Buena Vista City,51530,2020,19,157
+Virginia,51,VA,Campbell,51031,2020,19,32
+Virginia,51,VA,Caroline,51033,2020,19,36
+Virginia,51,VA,Carroll,51035,2020,19,"1,912"
+Virginia,51,VA,Charles City,51036,2020,19,56
+Virginia,51,VA,Charlotte,51037,2020,19,16
+Virginia,51,VA,Charlottesville City,51540,2020,19,278
+Virginia,51,VA,Chesapeake City,51550,2020,19,26
+Virginia,51,VA,Chesterfield,51041,2020,19,36
+Virginia,51,VA,Clarke,51043,2020,19,68
+Virginia,51,VA,Colonial Heights Cit,51570,2020,19,65
+Virginia,51,VA,Covington City,51580,2020,19,"6,272"
+Virginia,51,VA,Craig,51045,2020,19,268
+Virginia,51,VA,Culpeper,51047,2020,19,57
+Virginia,51,VA,Cumberland,51049,2020,19,160
+Virginia,51,VA,Danville City,51590,2020,19,232
+Virginia,51,VA,Dickenson,51051,2020,19,324
+Virginia,51,VA,Dinwiddie,51053,2020,19,57
+Virginia,51,VA,Emporia City,51595,2020,19,162
+Virginia,51,VA,Essex,51057,2020,19,84
+Virginia,51,VA,Fairfax City,51600,2020,19,43
+Virginia,51,VA,Fairfax,51059,2020,19,115
+Virginia,51,VA,Falls Church City,51610,2020,19,118
+Virginia,51,VA,Fauquier,51061,2020,19,108
+Virginia,51,VA,Floyd,51063,2020,19,452
+Virginia,51,VA,Fluvanna,51065,2020,19,"1,876"
+Virginia,51,VA,Franklin City,51620,2020,19,428
+Virginia,51,VA,Franklin,51067,2020,19,5
+Virginia,51,VA,Frederick,51069,2020,19,155
+Virginia,51,VA,Fredericksburg City,51630,2020,19,466
+Virginia,51,VA,Galax City,51640,2020,19,24
+Virginia,51,VA,Giles,51071,2020,19,78
+Virginia,51,VA,Gloucester,51073,2020,19,84
+Virginia,51,VA,Goochland,51075,2020,19,45
+Virginia,51,VA,Grayson,51077,2020,19,43
+Virginia,51,VA,Greene,51079,2020,19,"1,980"
+Virginia,51,VA,Greensville,51081,2020,19,187
+Virginia,51,VA,Halifax,51083,2020,19,39
+Virginia,51,VA,Hampton City,51650,2020,19,51
+Virginia,51,VA,Hanover,51085,2020,19,22
+Virginia,51,VA,Harrisonburg City,51660,2020,19,114
+Virginia,51,VA,Henrico,51087,2020,19,52
+Virginia,51,VA,Henry,51089,2020,19,301
+Virginia,51,VA,Highland,51091,2020,19,98
+Virginia,51,VA,Hopewell City,51670,2020,19,97
+Virginia,51,VA,Isle of Wight,51093,2020,19,97
+Virginia,51,VA,James City,51095,2020,19,49
+Virginia,51,VA,King and Queen,51097,2020,19,46
+Virginia,51,VA,King George,51099,2020,19,242
+Virginia,51,VA,King William,51101,2020,19,142
+Virginia,51,VA,Lancaster,51103,2020,19,38
+Virginia,51,VA,Lee,51105,2020,19,236
+Virginia,51,VA,Lexington City,51678,2020,19,81
+Virginia,51,VA,Loudoun,51107,2020,19,97
+Virginia,51,VA,Louisa,51109,2020,19,103
+Virginia,51,VA,Lunenburg,51111,2020,19,"3,098"
+Virginia,51,VA,Lynchburg City,51680,2020,19,118
+Virginia,51,VA,Madison,51113,2020,19,20
+Virginia,51,VA,Manassas City,51683,2020,19,34
+Virginia,51,VA,Manassas Park City,51685,2020,19,455
+Virginia,51,VA,Martinsville City,51690,2020,19,102
+Virginia,51,VA,Mathews,51115,2020,19,260
+Virginia,51,VA,Mecklenburg,51117,2020,19,57
+Virginia,51,VA,Middlesex,51119,2020,19,38
+Virginia,51,VA,Montgomery,51121,2020,19,205
+Virginia,51,VA,Nelson,51125,2020,19,179
+Virginia,51,VA,New Kent,51127,2020,19,49
+Virginia,51,VA,Newport News City,51700,2020,19,677
+Virginia,51,VA,Norfolk City,51710,2020,19,614
+Virginia,51,VA,Northampton,51131,2020,19,26
+Virginia,51,VA,Northumberland,51133,2020,19,47
+Virginia,51,VA,Norton City,51720,2020,19,115
+Virginia,51,VA,Nottoway,51135,2020,19,181
+Virginia,51,VA,Orange,51137,2020,19,194
+Virginia,51,VA,Page,51139,2020,19,87
+Virginia,51,VA,Patrick,51141,2020,19,93
+Virginia,51,VA,Petersburg City,51730,2020,19,186
+Virginia,51,VA,Pittsylvania,51143,2020,19,189
+Virginia,51,VA,Poquoson City,51735,2020,19,895
+Virginia,51,VA,Portsmouth City,51740,2020,19,55
+Virginia,51,VA,Powhatan,51145,2020,19,47
+Virginia,51,VA,Prince Edward,51147,2020,19,485
+Virginia,51,VA,Prince George,51149,2020,19,"1,390"
+Virginia,51,VA,Prince William,51153,2020,19,146
+Virginia,51,VA,Pulaski,51155,2020,19,58
+Virginia,51,VA,Radford City,51750,2020,19,361
+Virginia,51,VA,Rappahannock,51157,2020,19,9
+Virginia,51,VA,Richmond City,51760,2020,19,14
+Virginia,51,VA,Richmond,51159,2020,19,69
+Virginia,51,VA,Roanoke City,51770,2020,19,83
+Virginia,51,VA,Roanoke,51161,2020,19,196
+Virginia,51,VA,Rockbridge,51163,2020,19,5
+Virginia,51,VA,Rockingham,51165,2020,19,"1,089"
+Virginia,51,VA,Russell,51167,2020,19,401
+Virginia,51,VA,Salem City,51775,2020,19,209
+Virginia,51,VA,Scott,51169,2020,19,3
+Virginia,51,VA,Shenandoah,51171,2020,19,499
+Virginia,51,VA,Smyth,51173,2020,19,280
+Virginia,51,VA,Southampton,51175,2020,19,4
+Virginia,51,VA,Spotsylvania,51177,2020,19,20
+Virginia,51,VA,Stafford,51179,2020,19,"1,468"
+Virginia,51,VA,Staunton City,51790,2020,19,"1,695"
+Virginia,51,VA,Suffolk City,51800,2020,19,24
+Virginia,51,VA,Surry,51181,2020,19,616
+Virginia,51,VA,Sussex,51183,2020,19,36
+Virginia,51,VA,Tazewell,51185,2020,19,787
+Virginia,51,VA,Virginia Beach City,51810,2020,19,97
+Virginia,51,VA,Warren,51187,2020,19,"1,910"
+Virginia,51,VA,Washington,51191,2020,19,757
+Virginia,51,VA,Waynesboro City,51820,2020,19,171
+Virginia,51,VA,Westmoreland,51193,2020,19,180
+Virginia,51,VA,Williamsburg City,51830,2020,19,584
+Virginia,51,VA,Winchester City,51840,2020,19,"2,542"
+Virginia,51,VA,Wise,51195,2020,19,204
+Virginia,51,VA,Wythe,51197,2020,19,18
+Virginia,51,VA,York,51199,2020,19,155
