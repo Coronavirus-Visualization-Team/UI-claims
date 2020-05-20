@@ -1,586 +1,703 @@
 state_name,state_fips,state_abbrev,county_name,county_fips,year,week,initial_claims
 Washington,53,WA,Adams,53001,2020,1,22
-Washington,53,WA,Adams,53001,2020,2,33
-Washington,53,WA,Adams,53001,2020,3,16
-Washington,53,WA,Adams,53001,2020,4,24
-Washington,53,WA,Adams,53001,2020,5,20
-Washington,53,WA,Adams,53001,2020,6,14
-Washington,53,WA,Adams,53001,2020,7,8
-Washington,53,WA,Adams,53001,2020,8,37
-Washington,53,WA,Adams,53001,2020,9,20
-Washington,53,WA,Adams,53001,2020,10,18
-Washington,53,WA,Adams,53001,2020,11,154
-Washington,53,WA,Adams,53001,2020,12,176
-Washington,53,WA,Adams,53001,2020,13,202
-Washington,53,WA,Adams,53001,2020,14,210
-Washington,53,WA,Adams,53001,2020,15,170
 Washington,53,WA,Asotin,53003,2020,1,17
-Washington,53,WA,Asotin,53003,2020,2,13
-Washington,53,WA,Asotin,53003,2020,3,10
-Washington,53,WA,Asotin,53003,2020,4,16
-Washington,53,WA,Asotin,53003,2020,5,6
-Washington,53,WA,Asotin,53003,2020,6,10
-Washington,53,WA,Asotin,53003,2020,7,6
-Washington,53,WA,Asotin,53003,2020,8,5
-Washington,53,WA,Asotin,53003,2020,9,5
-Washington,53,WA,Asotin,53003,2020,10,8
-Washington,53,WA,Asotin,53003,2020,11,113
-Washington,53,WA,Asotin,53003,2020,12,176
-Washington,53,WA,Asotin,53003,2020,13,196
-Washington,53,WA,Asotin,53003,2020,14,131
-Washington,53,WA,Asotin,53003,2020,15,118
 Washington,53,WA,Benton,53005,2020,1,312
-Washington,53,WA,Benton,53005,2020,2,294
-Washington,53,WA,Benton,53005,2020,3,262
-Washington,53,WA,Benton,53005,2020,4,202
-Washington,53,WA,Benton,53005,2020,5,212
-Washington,53,WA,Benton,53005,2020,6,181
-Washington,53,WA,Benton,53005,2020,7,140
-Washington,53,WA,Benton,53005,2020,8,177
-Washington,53,WA,Benton,53005,2020,9,171
-Washington,53,WA,Benton,53005,2020,10,207
-Washington,53,WA,Benton,53005,2020,11,3014
-Washington,53,WA,Benton,53005,2020,12,4294
-Washington,53,WA,Benton,53005,2020,13,3696
-Washington,53,WA,Benton,53005,2020,14,2336
-Washington,53,WA,Benton,53005,2020,15,1534
 Washington,53,WA,Chelan,53007,2020,1,152
-Washington,53,WA,Chelan,53007,2020,2,171
-Washington,53,WA,Chelan,53007,2020,3,144
-Washington,53,WA,Chelan,53007,2020,4,116
-Washington,53,WA,Chelan,53007,2020,5,126
-Washington,53,WA,Chelan,53007,2020,6,86
-Washington,53,WA,Chelan,53007,2020,7,81
-Washington,53,WA,Chelan,53007,2020,8,72
-Washington,53,WA,Chelan,53007,2020,9,89
-Washington,53,WA,Chelan,53007,2020,10,110
-Washington,53,WA,Chelan,53007,2020,11,1473
-Washington,53,WA,Chelan,53007,2020,12,1889
-Washington,53,WA,Chelan,53007,2020,13,1922
-Washington,53,WA,Chelan,53007,2020,14,1156
-Washington,53,WA,Chelan,53007,2020,15,740
 Washington,53,WA,Clallam,53009,2020,1,121
-Washington,53,WA,Clallam,53009,2020,2,152
-Washington,53,WA,Clallam,53009,2020,3,130
-Washington,53,WA,Clallam,53009,2020,4,57
-Washington,53,WA,Clallam,53009,2020,5,92
-Washington,53,WA,Clallam,53009,2020,6,60
-Washington,53,WA,Clallam,53009,2020,7,57
-Washington,53,WA,Clallam,53009,2020,8,57
-Washington,53,WA,Clallam,53009,2020,9,41
-Washington,53,WA,Clallam,53009,2020,10,56
-Washington,53,WA,Clallam,53009,2020,11,1147
-Washington,53,WA,Clallam,53009,2020,12,1827
-Washington,53,WA,Clallam,53009,2020,13,1553
-Washington,53,WA,Clallam,53009,2020,14,945
-Washington,53,WA,Clallam,53009,2020,15,683
 Washington,53,WA,Clark,53011,2020,1,416
-Washington,53,WA,Clark,53011,2020,2,332
-Washington,53,WA,Clark,53011,2020,3,296
-Washington,53,WA,Clark,53011,2020,4,345
-Washington,53,WA,Clark,53011,2020,5,352
-Washington,53,WA,Clark,53011,2020,6,322
-Washington,53,WA,Clark,53011,2020,7,292
-Washington,53,WA,Clark,53011,2020,8,322
-Washington,53,WA,Clark,53011,2020,9,309
-Washington,53,WA,Clark,53011,2020,10,373
-Washington,53,WA,Clark,53011,2020,11,6249
-Washington,53,WA,Clark,53011,2020,12,8661
-Washington,53,WA,Clark,53011,2020,13,9378
-Washington,53,WA,Clark,53011,2020,14,5591
-Washington,53,WA,Clark,53011,2020,15,3707
 Washington,53,WA,Columbia,53013,2020,1,5
-Washington,53,WA,Columbia,53013,2020,2,4
-Washington,53,WA,Columbia,53013,2020,3,6
-Washington,53,WA,Columbia,53013,2020,4,3
-Washington,53,WA,Columbia,53013,2020,5,3
-Washington,53,WA,Columbia,53013,2020,6,1
-Washington,53,WA,Columbia,53013,2020,7,3
-Washington,53,WA,Columbia,53013,2020,8,4
-Washington,53,WA,Columbia,53013,2020,9,2
-Washington,53,WA,Columbia,53013,2020,10,2
-Washington,53,WA,Columbia,53013,2020,11,34
-Washington,53,WA,Columbia,53013,2020,12,39
-Washington,53,WA,Columbia,53013,2020,13,65
-Washington,53,WA,Columbia,53013,2020,14,38
-Washington,53,WA,Columbia,53013,2020,15,20
 Washington,53,WA,Cowlitz,53015,2020,1,168
-Washington,53,WA,Cowlitz,53015,2020,2,146
-Washington,53,WA,Cowlitz,53015,2020,3,129
-Washington,53,WA,Cowlitz,53015,2020,4,136
-Washington,53,WA,Cowlitz,53015,2020,5,149
-Washington,53,WA,Cowlitz,53015,2020,6,105
-Washington,53,WA,Cowlitz,53015,2020,7,129
-Washington,53,WA,Cowlitz,53015,2020,8,124
-Washington,53,WA,Cowlitz,53015,2020,9,122
-Washington,53,WA,Cowlitz,53015,2020,10,129
-Washington,53,WA,Cowlitz,53015,2020,11,1458
-Washington,53,WA,Cowlitz,53015,2020,12,2096
-Washington,53,WA,Cowlitz,53015,2020,13,2215
-Washington,53,WA,Cowlitz,53015,2020,14,1330
-Washington,53,WA,Cowlitz,53015,2020,15,899
 Washington,53,WA,Douglas,53017,2020,1,67
-Washington,53,WA,Douglas,53017,2020,2,86
-Washington,53,WA,Douglas,53017,2020,3,103
-Washington,53,WA,Douglas,53017,2020,4,42
-Washington,53,WA,Douglas,53017,2020,5,58
-Washington,53,WA,Douglas,53017,2020,6,40
-Washington,53,WA,Douglas,53017,2020,7,35
-Washington,53,WA,Douglas,53017,2020,8,40
-Washington,53,WA,Douglas,53017,2020,9,48
-Washington,53,WA,Douglas,53017,2020,10,46
-Washington,53,WA,Douglas,53017,2020,11,539
-Washington,53,WA,Douglas,53017,2020,12,760
-Washington,53,WA,Douglas,53017,2020,13,820
-Washington,53,WA,Douglas,53017,2020,14,571
-Washington,53,WA,Douglas,53017,2020,15,334
 Washington,53,WA,Ferry,53019,2020,1,15
-Washington,53,WA,Ferry,53019,2020,2,7
-Washington,53,WA,Ferry,53019,2020,3,15
-Washington,53,WA,Ferry,53019,2020,4,13
-Washington,53,WA,Ferry,53019,2020,5,15
-Washington,53,WA,Ferry,53019,2020,6,5
-Washington,53,WA,Ferry,53019,2020,7,13
-Washington,53,WA,Ferry,53019,2020,8,2
-Washington,53,WA,Ferry,53019,2020,9,7
-Washington,53,WA,Ferry,53019,2020,10,8
-Washington,53,WA,Ferry,53019,2020,11,20
-Washington,53,WA,Ferry,53019,2020,12,55
-Washington,53,WA,Ferry,53019,2020,13,54
-Washington,53,WA,Ferry,53019,2020,14,48
-Washington,53,WA,Ferry,53019,2020,15,40
 Washington,53,WA,Franklin,53021,2020,1,146
-Washington,53,WA,Franklin,53021,2020,2,151
-Washington,53,WA,Franklin,53021,2020,3,146
-Washington,53,WA,Franklin,53021,2020,4,106
-Washington,53,WA,Franklin,53021,2020,5,92
-Washington,53,WA,Franklin,53021,2020,6,88
-Washington,53,WA,Franklin,53021,2020,7,82
-Washington,53,WA,Franklin,53021,2020,8,63
-Washington,53,WA,Franklin,53021,2020,9,78
-Washington,53,WA,Franklin,53021,2020,10,195
-Washington,53,WA,Franklin,53021,2020,11,1104
-Washington,53,WA,Franklin,53021,2020,12,1648
-Washington,53,WA,Franklin,53021,2020,13,1435
-Washington,53,WA,Franklin,53021,2020,14,1055
-Washington,53,WA,Franklin,53021,2020,15,673
 Washington,53,WA,Garfield,53023,2020,1,7
-Washington,53,WA,Garfield,53023,2020,2,3
-Washington,53,WA,Garfield,53023,2020,3,0
-Washington,53,WA,Garfield,53023,2020,4,1
-Washington,53,WA,Garfield,53023,2020,5,0
-Washington,53,WA,Garfield,53023,2020,6,1
-Washington,53,WA,Garfield,53023,2020,7,1
-Washington,53,WA,Garfield,53023,2020,8,0
-Washington,53,WA,Garfield,53023,2020,9,0
-Washington,53,WA,Garfield,53023,2020,10,6
-Washington,53,WA,Garfield,53023,2020,11,9
-Washington,53,WA,Garfield,53023,2020,12,9
-Washington,53,WA,Garfield,53023,2020,13,32
-Washington,53,WA,Garfield,53023,2020,14,12
-Washington,53,WA,Garfield,53023,2020,15,10
 Washington,53,WA,Grant,53025,2020,1,236
-Washington,53,WA,Grant,53025,2020,2,174
-Washington,53,WA,Grant,53025,2020,3,171
-Washington,53,WA,Grant,53025,2020,4,167
-Washington,53,WA,Grant,53025,2020,5,120
-Washington,53,WA,Grant,53025,2020,6,98
-Washington,53,WA,Grant,53025,2020,7,98
-Washington,53,WA,Grant,53025,2020,8,182
-Washington,53,WA,Grant,53025,2020,9,92
-Washington,53,WA,Grant,53025,2020,10,93
-Washington,53,WA,Grant,53025,2020,11,1039
-Washington,53,WA,Grant,53025,2020,12,1577
-Washington,53,WA,Grant,53025,2020,13,1512
-Washington,53,WA,Grant,53025,2020,14,894
-Washington,53,WA,Grant,53025,2020,15,621
 Washington,53,WA,Grays Harbor,53027,2020,1,134
-Washington,53,WA,Grays Harbor,53027,2020,2,118
-Washington,53,WA,Grays Harbor,53027,2020,3,111
-Washington,53,WA,Grays Harbor,53027,2020,4,87
-Washington,53,WA,Grays Harbor,53027,2020,5,93
-Washington,53,WA,Grays Harbor,53027,2020,6,93
-Washington,53,WA,Grays Harbor,53027,2020,7,67
-Washington,53,WA,Grays Harbor,53027,2020,8,106
-Washington,53,WA,Grays Harbor,53027,2020,9,97
-Washington,53,WA,Grays Harbor,53027,2020,10,122
-Washington,53,WA,Grays Harbor,53027,2020,11,1053
-Washington,53,WA,Grays Harbor,53027,2020,12,1709
-Washington,53,WA,Grays Harbor,53027,2020,13,1631
-Washington,53,WA,Grays Harbor,53027,2020,14,1170
-Washington,53,WA,Grays Harbor,53027,2020,15,785
 Washington,53,WA,Island,53029,2020,1,62
-Washington,53,WA,Island,53029,2020,2,83
-Washington,53,WA,Island,53029,2020,3,64
-Washington,53,WA,Island,53029,2020,4,51
-Washington,53,WA,Island,53029,2020,5,52
-Washington,53,WA,Island,53029,2020,6,48
-Washington,53,WA,Island,53029,2020,7,40
-Washington,53,WA,Island,53029,2020,8,42
-Washington,53,WA,Island,53029,2020,9,63
-Washington,53,WA,Island,53029,2020,10,66
-Washington,53,WA,Island,53029,2020,11,949
-Washington,53,WA,Island,53029,2020,12,1520
-Washington,53,WA,Island,53029,2020,13,1584
-Washington,53,WA,Island,53029,2020,14,1577
-Washington,53,WA,Island,53029,2020,15,713
 Washington,53,WA,Jefferson,53031,2020,1,21
-Washington,53,WA,Jefferson,53031,2020,2,37
-Washington,53,WA,Jefferson,53031,2020,3,23
-Washington,53,WA,Jefferson,53031,2020,4,23
-Washington,53,WA,Jefferson,53031,2020,5,18
-Washington,53,WA,Jefferson,53031,2020,6,17
-Washington,53,WA,Jefferson,53031,2020,7,17
-Washington,53,WA,Jefferson,53031,2020,8,13
-Washington,53,WA,Jefferson,53031,2020,9,18
-Washington,53,WA,Jefferson,53031,2020,10,25
-Washington,53,WA,Jefferson,53031,2020,11,568
-Washington,53,WA,Jefferson,53031,2020,12,803
-Washington,53,WA,Jefferson,53031,2020,13,670
-Washington,53,WA,Jefferson,53031,2020,14,435
-Washington,53,WA,Jefferson,53031,2020,15,297
 Washington,53,WA,King,53033,2020,1,1889
-Washington,53,WA,King,53033,2020,2,1726
-Washington,53,WA,King,53033,2020,3,1616
-Washington,53,WA,King,53033,2020,4,1408
-Washington,53,WA,King,53033,2020,5,1644
-Washington,53,WA,King,53033,2020,6,1490
-Washington,53,WA,King,53033,2020,7,1357
-Washington,53,WA,King,53033,2020,8,1400
-Washington,53,WA,King,53033,2020,9,1837
-Washington,53,WA,King,53033,2020,10,5834
-Washington,53,WA,King,53033,2020,11,37296
-Washington,53,WA,King,53033,2020,12,44613
-Washington,53,WA,King,53033,2020,13,47233
-Washington,53,WA,King,53033,2020,14,39796
-Washington,53,WA,King,53033,2020,15,24461
 Washington,53,WA,Kitsap,53035,2020,1,249
-Washington,53,WA,Kitsap,53035,2020,2,201
-Washington,53,WA,Kitsap,53035,2020,3,211
-Washington,53,WA,Kitsap,53035,2020,4,170
-Washington,53,WA,Kitsap,53035,2020,5,166
-Washington,53,WA,Kitsap,53035,2020,6,161
-Washington,53,WA,Kitsap,53035,2020,7,132
-Washington,53,WA,Kitsap,53035,2020,8,129
-Washington,53,WA,Kitsap,53035,2020,9,174
-Washington,53,WA,Kitsap,53035,2020,10,259
-Washington,53,WA,Kitsap,53035,2020,11,3606
-Washington,53,WA,Kitsap,53035,2020,12,4941
-Washington,53,WA,Kitsap,53035,2020,13,4860
-Washington,53,WA,Kitsap,53035,2020,14,3905
-Washington,53,WA,Kitsap,53035,2020,15,2378
 Washington,53,WA,Kittitas,53037,2020,1,88
-Washington,53,WA,Kittitas,53037,2020,2,78
-Washington,53,WA,Kittitas,53037,2020,3,73
-Washington,53,WA,Kittitas,53037,2020,4,35
-Washington,53,WA,Kittitas,53037,2020,5,37
-Washington,53,WA,Kittitas,53037,2020,6,35
-Washington,53,WA,Kittitas,53037,2020,7,29
-Washington,53,WA,Kittitas,53037,2020,8,53
-Washington,53,WA,Kittitas,53037,2020,9,46
-Washington,53,WA,Kittitas,53037,2020,10,62
-Washington,53,WA,Kittitas,53037,2020,11,822
-Washington,53,WA,Kittitas,53037,2020,12,1093
-Washington,53,WA,Kittitas,53037,2020,13,1065
-Washington,53,WA,Kittitas,53037,2020,14,650
-Washington,53,WA,Kittitas,53037,2020,15,370
 Washington,53,WA,Klickitat,53039,2020,1,20
-Washington,53,WA,Klickitat,53039,2020,2,42
-Washington,53,WA,Klickitat,53039,2020,3,24
-Washington,53,WA,Klickitat,53039,2020,4,18
-Washington,53,WA,Klickitat,53039,2020,5,26
-Washington,53,WA,Klickitat,53039,2020,6,11
-Washington,53,WA,Klickitat,53039,2020,7,12
-Washington,53,WA,Klickitat,53039,2020,8,17
-Washington,53,WA,Klickitat,53039,2020,9,9
-Washington,53,WA,Klickitat,53039,2020,10,7
-Washington,53,WA,Klickitat,53039,2020,11,141
-Washington,53,WA,Klickitat,53039,2020,12,214
-Washington,53,WA,Klickitat,53039,2020,13,259
-Washington,53,WA,Klickitat,53039,2020,14,173
-Washington,53,WA,Klickitat,53039,2020,15,131
 Washington,53,WA,Lewis,53041,2020,1,147
-Washington,53,WA,Lewis,53041,2020,2,153
-Washington,53,WA,Lewis,53041,2020,3,144
-Washington,53,WA,Lewis,53041,2020,4,84
-Washington,53,WA,Lewis,53041,2020,5,104
-Washington,53,WA,Lewis,53041,2020,6,100
-Washington,53,WA,Lewis,53041,2020,7,91
-Washington,53,WA,Lewis,53041,2020,8,78
-Washington,53,WA,Lewis,53041,2020,9,120
-Washington,53,WA,Lewis,53041,2020,10,92
-Washington,53,WA,Lewis,53041,2020,11,1094
-Washington,53,WA,Lewis,53041,2020,12,1825
-Washington,53,WA,Lewis,53041,2020,13,1703
-Washington,53,WA,Lewis,53041,2020,14,1153
-Washington,53,WA,Lewis,53041,2020,15,755
 Washington,53,WA,Lincoln,53043,2020,1,12
-Washington,53,WA,Lincoln,53043,2020,2,15
-Washington,53,WA,Lincoln,53043,2020,3,5
-Washington,53,WA,Lincoln,53043,2020,4,18
-Washington,53,WA,Lincoln,53043,2020,5,10
-Washington,53,WA,Lincoln,53043,2020,6,7
-Washington,53,WA,Lincoln,53043,2020,7,6
-Washington,53,WA,Lincoln,53043,2020,8,8
-Washington,53,WA,Lincoln,53043,2020,9,8
-Washington,53,WA,Lincoln,53043,2020,10,6
-Washington,53,WA,Lincoln,53043,2020,11,59
-Washington,53,WA,Lincoln,53043,2020,12,117
-Washington,53,WA,Lincoln,53043,2020,13,120
-Washington,53,WA,Lincoln,53043,2020,14,86
-Washington,53,WA,Lincoln,53043,2020,15,62
 Washington,53,WA,Mason,53045,2020,1,80
-Washington,53,WA,Mason,53045,2020,2,82
-Washington,53,WA,Mason,53045,2020,3,92
-Washington,53,WA,Mason,53045,2020,4,56
-Washington,53,WA,Mason,53045,2020,5,71
-Washington,53,WA,Mason,53045,2020,6,64
-Washington,53,WA,Mason,53045,2020,7,64
-Washington,53,WA,Mason,53045,2020,8,57
-Washington,53,WA,Mason,53045,2020,9,60
-Washington,53,WA,Mason,53045,2020,10,124
-Washington,53,WA,Mason,53045,2020,11,865
-Washington,53,WA,Mason,53045,2020,12,1178
-Washington,53,WA,Mason,53045,2020,13,1187
-Washington,53,WA,Mason,53045,2020,14,793
-Washington,53,WA,Mason,53045,2020,15,536
 Washington,53,WA,Okanogan,53047,2020,1,107
-Washington,53,WA,Okanogan,53047,2020,2,105
-Washington,53,WA,Okanogan,53047,2020,3,88
-Washington,53,WA,Okanogan,53047,2020,4,68
-Washington,53,WA,Okanogan,53047,2020,5,59
-Washington,53,WA,Okanogan,53047,2020,6,58
-Washington,53,WA,Okanogan,53047,2020,7,47
-Washington,53,WA,Okanogan,53047,2020,8,44
-Washington,53,WA,Okanogan,53047,2020,9,90
-Washington,53,WA,Okanogan,53047,2020,10,78
-Washington,53,WA,Okanogan,53047,2020,11,357
-Washington,53,WA,Okanogan,53047,2020,12,524
-Washington,53,WA,Okanogan,53047,2020,13,662
-Washington,53,WA,Okanogan,53047,2020,14,440
-Washington,53,WA,Okanogan,53047,2020,15,292
 Washington,53,WA,Pacific,53049,2020,1,18
-Washington,53,WA,Pacific,53049,2020,2,20
-Washington,53,WA,Pacific,53049,2020,3,22
-Washington,53,WA,Pacific,53049,2020,4,19
-Washington,53,WA,Pacific,53049,2020,5,22
-Washington,53,WA,Pacific,53049,2020,6,27
-Washington,53,WA,Pacific,53049,2020,7,26
-Washington,53,WA,Pacific,53049,2020,8,29
-Washington,53,WA,Pacific,53049,2020,9,23
-Washington,53,WA,Pacific,53049,2020,10,25
-Washington,53,WA,Pacific,53049,2020,11,212
-Washington,53,WA,Pacific,53049,2020,12,449
-Washington,53,WA,Pacific,53049,2020,13,418
-Washington,53,WA,Pacific,53049,2020,14,264
-Washington,53,WA,Pacific,53049,2020,15,168
 Washington,53,WA,Pend Oreille,53051,2020,1,10
-Washington,53,WA,Pend Oreille,53051,2020,2,22
-Washington,53,WA,Pend Oreille,53051,2020,3,18
-Washington,53,WA,Pend Oreille,53051,2020,4,17
-Washington,53,WA,Pend Oreille,53051,2020,5,17
-Washington,53,WA,Pend Oreille,53051,2020,6,18
-Washington,53,WA,Pend Oreille,53051,2020,7,13
-Washington,53,WA,Pend Oreille,53051,2020,8,12
-Washington,53,WA,Pend Oreille,53051,2020,9,12
-Washington,53,WA,Pend Oreille,53051,2020,10,11
-Washington,53,WA,Pend Oreille,53051,2020,11,87
-Washington,53,WA,Pend Oreille,53051,2020,12,160
-Washington,53,WA,Pend Oreille,53051,2020,13,181
-Washington,53,WA,Pend Oreille,53051,2020,14,143
-Washington,53,WA,Pend Oreille,53051,2020,15,94
 Washington,53,WA,Pierce,53053,2020,1,1221
-Washington,53,WA,Pierce,53053,2020,2,1264
-Washington,53,WA,Pierce,53053,2020,3,1130
-Washington,53,WA,Pierce,53053,2020,4,942
-Washington,53,WA,Pierce,53053,2020,5,1082
-Washington,53,WA,Pierce,53053,2020,6,965
-Washington,53,WA,Pierce,53053,2020,7,797
-Washington,53,WA,Pierce,53053,2020,8,765
-Washington,53,WA,Pierce,53053,2020,9,950
-Washington,53,WA,Pierce,53053,2020,10,1559
-Washington,53,WA,Pierce,53053,2020,11,14730
-Washington,53,WA,Pierce,53053,2020,12,22145
-Washington,53,WA,Pierce,53053,2020,13,22379
-Washington,53,WA,Pierce,53053,2020,14,19377
-Washington,53,WA,Pierce,53053,2020,15,11016
 Washington,53,WA,San Juan,53055,2020,1,19
-Washington,53,WA,San Juan,53055,2020,2,29
-Washington,53,WA,San Juan,53055,2020,3,9
-Washington,53,WA,San Juan,53055,2020,4,7
-Washington,53,WA,San Juan,53055,2020,5,9
-Washington,53,WA,San Juan,53055,2020,6,3
-Washington,53,WA,San Juan,53055,2020,7,1
-Washington,53,WA,San Juan,53055,2020,8,6
-Washington,53,WA,San Juan,53055,2020,9,8
-Washington,53,WA,San Juan,53055,2020,10,17
-Washington,53,WA,San Juan,53055,2020,11,279
-Washington,53,WA,San Juan,53055,2020,12,465
-Washington,53,WA,San Juan,53055,2020,13,443
-Washington,53,WA,San Juan,53055,2020,14,271
-Washington,53,WA,San Juan,53055,2020,15,191
 Washington,53,WA,Skagit,53057,2020,1,226
-Washington,53,WA,Skagit,53057,2020,2,268
-Washington,53,WA,Skagit,53057,2020,3,259
-Washington,53,WA,Skagit,53057,2020,4,138
-Washington,53,WA,Skagit,53057,2020,5,203
-Washington,53,WA,Skagit,53057,2020,6,161
-Washington,53,WA,Skagit,53057,2020,7,130
-Washington,53,WA,Skagit,53057,2020,8,112
-Washington,53,WA,Skagit,53057,2020,9,127
-Washington,53,WA,Skagit,53057,2020,10,163
-Washington,53,WA,Skagit,53057,2020,11,1966
-Washington,53,WA,Skagit,53057,2020,12,3425
-Washington,53,WA,Skagit,53057,2020,13,3230
-Washington,53,WA,Skagit,53057,2020,14,2731
-Washington,53,WA,Skagit,53057,2020,15,1445
 Washington,53,WA,Skamania,53059,2020,1,16
-Washington,53,WA,Skamania,53059,2020,2,15
-Washington,53,WA,Skamania,53059,2020,3,21
-Washington,53,WA,Skamania,53059,2020,4,10
-Washington,53,WA,Skamania,53059,2020,5,8
-Washington,53,WA,Skamania,53059,2020,6,11
-Washington,53,WA,Skamania,53059,2020,7,12
-Washington,53,WA,Skamania,53059,2020,8,10
-Washington,53,WA,Skamania,53059,2020,9,7
-Washington,53,WA,Skamania,53059,2020,10,13
-Washington,53,WA,Skamania,53059,2020,11,201
-Washington,53,WA,Skamania,53059,2020,12,211
-Washington,53,WA,Skamania,53059,2020,13,185
-Washington,53,WA,Skamania,53059,2020,14,142
-Washington,53,WA,Skamania,53059,2020,15,87
 Washington,53,WA,Snohomish,53061,2020,1,916
-Washington,53,WA,Snohomish,53061,2020,2,1102
-Washington,53,WA,Snohomish,53061,2020,3,1024
-Washington,53,WA,Snohomish,53061,2020,4,638
-Washington,53,WA,Snohomish,53061,2020,5,812
-Washington,53,WA,Snohomish,53061,2020,6,757
-Washington,53,WA,Snohomish,53061,2020,7,617
-Washington,53,WA,Snohomish,53061,2020,8,594
-Washington,53,WA,Snohomish,53061,2020,9,733
-Washington,53,WA,Snohomish,53061,2020,10,1386
-Washington,53,WA,Snohomish,53061,2020,11,13692
-Washington,53,WA,Snohomish,53061,2020,12,21176
-Washington,53,WA,Snohomish,53061,2020,13,21148
-Washington,53,WA,Snohomish,53061,2020,14,27780
-Washington,53,WA,Snohomish,53061,2020,15,10958
 Washington,53,WA,Spokane,53063,2020,1,763
-Washington,53,WA,Spokane,53063,2020,2,659
-Washington,53,WA,Spokane,53063,2020,3,622
-Washington,53,WA,Spokane,53063,2020,4,586
-Washington,53,WA,Spokane,53063,2020,5,575
-Washington,53,WA,Spokane,53063,2020,6,491
-Washington,53,WA,Spokane,53063,2020,7,477
-Washington,53,WA,Spokane,53063,2020,8,442
-Washington,53,WA,Spokane,53063,2020,9,459
-Washington,53,WA,Spokane,53063,2020,10,455
-Washington,53,WA,Spokane,53063,2020,11,8766
-Washington,53,WA,Spokane,53063,2020,12,12102
-Washington,53,WA,Spokane,53063,2020,13,11347
-Washington,53,WA,Spokane,53063,2020,14,8382
-Washington,53,WA,Spokane,53063,2020,15,5069
 Washington,53,WA,Stevens,53065,2020,1,79
-Washington,53,WA,Stevens,53065,2020,2,77
-Washington,53,WA,Stevens,53065,2020,3,84
-Washington,53,WA,Stevens,53065,2020,4,75
-Washington,53,WA,Stevens,53065,2020,5,76
-Washington,53,WA,Stevens,53065,2020,6,45
-Washington,53,WA,Stevens,53065,2020,7,43
-Washington,53,WA,Stevens,53065,2020,8,66
-Washington,53,WA,Stevens,53065,2020,9,82
-Washington,53,WA,Stevens,53065,2020,10,49
-Washington,53,WA,Stevens,53065,2020,11,388
-Washington,53,WA,Stevens,53065,2020,12,744
-Washington,53,WA,Stevens,53065,2020,13,715
-Washington,53,WA,Stevens,53065,2020,14,439
-Washington,53,WA,Stevens,53065,2020,15,254
 Washington,53,WA,Thurston,53067,2020,1,342
-Washington,53,WA,Thurston,53067,2020,2,323
-Washington,53,WA,Thurston,53067,2020,3,305
-Washington,53,WA,Thurston,53067,2020,4,328
-Washington,53,WA,Thurston,53067,2020,5,319
-Washington,53,WA,Thurston,53067,2020,6,257
-Washington,53,WA,Thurston,53067,2020,7,223
-Washington,53,WA,Thurston,53067,2020,8,223
-Washington,53,WA,Thurston,53067,2020,9,265
-Washington,53,WA,Thurston,53067,2020,10,351
-Washington,53,WA,Thurston,53067,2020,11,4708
-Washington,53,WA,Thurston,53067,2020,12,6804
-Washington,53,WA,Thurston,53067,2020,13,6095
-Washington,53,WA,Thurston,53067,2020,14,4239
-Washington,53,WA,Thurston,53067,2020,15,2882
 Washington,53,WA,Wahkiakum,53069,2020,1,2
-Washington,53,WA,Wahkiakum,53069,2020,2,1
-Washington,53,WA,Wahkiakum,53069,2020,3,1
-Washington,53,WA,Wahkiakum,53069,2020,4,1
-Washington,53,WA,Wahkiakum,53069,2020,5,3
-Washington,53,WA,Wahkiakum,53069,2020,6,2
-Washington,53,WA,Wahkiakum,53069,2020,7,8
-Washington,53,WA,Wahkiakum,53069,2020,8,6
-Washington,53,WA,Wahkiakum,53069,2020,9,4
-Washington,53,WA,Wahkiakum,53069,2020,10,3
-Washington,53,WA,Wahkiakum,53069,2020,11,19
-Washington,53,WA,Wahkiakum,53069,2020,12,27
-Washington,53,WA,Wahkiakum,53069,2020,13,45
-Washington,53,WA,Wahkiakum,53069,2020,14,34
-Washington,53,WA,Wahkiakum,53069,2020,15,22
 Washington,53,WA,Walla Walla,53071,2020,1,43
-Washington,53,WA,Walla Walla,53071,2020,2,48
-Washington,53,WA,Walla Walla,53071,2020,3,61
-Washington,53,WA,Walla Walla,53071,2020,4,51
-Washington,53,WA,Walla Walla,53071,2020,5,48
-Washington,53,WA,Walla Walla,53071,2020,6,32
-Washington,53,WA,Walla Walla,53071,2020,7,32
-Washington,53,WA,Walla Walla,53071,2020,8,41
-Washington,53,WA,Walla Walla,53071,2020,9,26
-Washington,53,WA,Walla Walla,53071,2020,10,41
-Washington,53,WA,Walla Walla,53071,2020,11,726
-Washington,53,WA,Walla Walla,53071,2020,12,904
-Washington,53,WA,Walla Walla,53071,2020,13,952
-Washington,53,WA,Walla Walla,53071,2020,14,510
-Washington,53,WA,Walla Walla,53071,2020,15,366
 Washington,53,WA,Whatcom,53073,2020,1,305
-Washington,53,WA,Whatcom,53073,2020,2,474
-Washington,53,WA,Whatcom,53073,2020,3,366
-Washington,53,WA,Whatcom,53073,2020,4,209
-Washington,53,WA,Whatcom,53073,2020,5,247
-Washington,53,WA,Whatcom,53073,2020,6,241
-Washington,53,WA,Whatcom,53073,2020,7,185
-Washington,53,WA,Whatcom,53073,2020,8,181
-Washington,53,WA,Whatcom,53073,2020,9,198
-Washington,53,WA,Whatcom,53073,2020,10,238
-Washington,53,WA,Whatcom,53073,2020,11,4428
-Washington,53,WA,Whatcom,53073,2020,12,6268
-Washington,53,WA,Whatcom,53073,2020,13,5885
-Washington,53,WA,Whatcom,53073,2020,14,3968
-Washington,53,WA,Whatcom,53073,2020,15,2612
 Washington,53,WA,Whitman,53075,2020,1,18
-Washington,53,WA,Whitman,53075,2020,2,19
-Washington,53,WA,Whitman,53075,2020,3,21
-Washington,53,WA,Whitman,53075,2020,4,18
-Washington,53,WA,Whitman,53075,2020,5,11
-Washington,53,WA,Whitman,53075,2020,6,11
-Washington,53,WA,Whitman,53075,2020,7,9
-Washington,53,WA,Whitman,53075,2020,8,13
-Washington,53,WA,Whitman,53075,2020,9,8
-Washington,53,WA,Whitman,53075,2020,10,11
-Washington,53,WA,Whitman,53075,2020,11,282
-Washington,53,WA,Whitman,53075,2020,12,383
-Washington,53,WA,Whitman,53075,2020,13,438
-Washington,53,WA,Whitman,53075,2020,14,275
-Washington,53,WA,Whitman,53075,2020,15,224
 Washington,53,WA,Yakima,53077,2020,1,532
+Washington,53,WA,Adams,53001,2020,2,33
+Washington,53,WA,Asotin,53003,2020,2,13
+Washington,53,WA,Benton,53005,2020,2,294
+Washington,53,WA,Chelan,53007,2020,2,171
+Washington,53,WA,Clallam,53009,2020,2,152
+Washington,53,WA,Clark,53011,2020,2,332
+Washington,53,WA,Columbia,53013,2020,2,4
+Washington,53,WA,Cowlitz,53015,2020,2,146
+Washington,53,WA,Douglas,53017,2020,2,86
+Washington,53,WA,Ferry,53019,2020,2,7
+Washington,53,WA,Franklin,53021,2020,2,151
+Washington,53,WA,Garfield,53023,2020,2,3
+Washington,53,WA,Grant,53025,2020,2,174
+Washington,53,WA,Grays Harbor,53027,2020,2,118
+Washington,53,WA,Island,53029,2020,2,83
+Washington,53,WA,Jefferson,53031,2020,2,37
+Washington,53,WA,King,53033,2020,2,1726
+Washington,53,WA,Kitsap,53035,2020,2,201
+Washington,53,WA,Kittitas,53037,2020,2,78
+Washington,53,WA,Klickitat,53039,2020,2,42
+Washington,53,WA,Lewis,53041,2020,2,153
+Washington,53,WA,Lincoln,53043,2020,2,15
+Washington,53,WA,Mason,53045,2020,2,82
+Washington,53,WA,Okanogan,53047,2020,2,105
+Washington,53,WA,Pacific,53049,2020,2,20
+Washington,53,WA,Pend Oreille,53051,2020,2,22
+Washington,53,WA,Pierce,53053,2020,2,1264
+Washington,53,WA,San Juan,53055,2020,2,29
+Washington,53,WA,Skagit,53057,2020,2,268
+Washington,53,WA,Skamania,53059,2020,2,15
+Washington,53,WA,Snohomish,53061,2020,2,1102
+Washington,53,WA,Spokane,53063,2020,2,659
+Washington,53,WA,Stevens,53065,2020,2,77
+Washington,53,WA,Thurston,53067,2020,2,323
+Washington,53,WA,Wahkiakum,53069,2020,2,1
+Washington,53,WA,Walla Walla,53071,2020,2,48
+Washington,53,WA,Whatcom,53073,2020,2,474
+Washington,53,WA,Whitman,53075,2020,2,19
 Washington,53,WA,Yakima,53077,2020,2,591
+Washington,53,WA,Adams,53001,2020,3,16
+Washington,53,WA,Asotin,53003,2020,3,10
+Washington,53,WA,Benton,53005,2020,3,262
+Washington,53,WA,Chelan,53007,2020,3,144
+Washington,53,WA,Clallam,53009,2020,3,130
+Washington,53,WA,Clark,53011,2020,3,296
+Washington,53,WA,Columbia,53013,2020,3,6
+Washington,53,WA,Cowlitz,53015,2020,3,129
+Washington,53,WA,Douglas,53017,2020,3,103
+Washington,53,WA,Ferry,53019,2020,3,15
+Washington,53,WA,Franklin,53021,2020,3,146
+Washington,53,WA,Garfield,53023,2020,3,0
+Washington,53,WA,Grant,53025,2020,3,171
+Washington,53,WA,Grays Harbor,53027,2020,3,111
+Washington,53,WA,Island,53029,2020,3,64
+Washington,53,WA,Jefferson,53031,2020,3,23
+Washington,53,WA,King,53033,2020,3,1616
+Washington,53,WA,Kitsap,53035,2020,3,211
+Washington,53,WA,Kittitas,53037,2020,3,73
+Washington,53,WA,Klickitat,53039,2020,3,24
+Washington,53,WA,Lewis,53041,2020,3,144
+Washington,53,WA,Lincoln,53043,2020,3,5
+Washington,53,WA,Mason,53045,2020,3,92
+Washington,53,WA,Okanogan,53047,2020,3,88
+Washington,53,WA,Pacific,53049,2020,3,22
+Washington,53,WA,Pend Oreille,53051,2020,3,18
+Washington,53,WA,Pierce,53053,2020,3,1130
+Washington,53,WA,San Juan,53055,2020,3,9
+Washington,53,WA,Skagit,53057,2020,3,259
+Washington,53,WA,Skamania,53059,2020,3,21
+Washington,53,WA,Snohomish,53061,2020,3,1024
+Washington,53,WA,Spokane,53063,2020,3,622
+Washington,53,WA,Stevens,53065,2020,3,84
+Washington,53,WA,Thurston,53067,2020,3,305
+Washington,53,WA,Wahkiakum,53069,2020,3,1
+Washington,53,WA,Walla Walla,53071,2020,3,61
+Washington,53,WA,Whatcom,53073,2020,3,366
+Washington,53,WA,Whitman,53075,2020,3,21
 Washington,53,WA,Yakima,53077,2020,3,503
+Washington,53,WA,Adams,53001,2020,4,24
+Washington,53,WA,Asotin,53003,2020,4,16
+Washington,53,WA,Benton,53005,2020,4,202
+Washington,53,WA,Chelan,53007,2020,4,116
+Washington,53,WA,Clallam,53009,2020,4,57
+Washington,53,WA,Clark,53011,2020,4,345
+Washington,53,WA,Columbia,53013,2020,4,3
+Washington,53,WA,Cowlitz,53015,2020,4,136
+Washington,53,WA,Douglas,53017,2020,4,42
+Washington,53,WA,Ferry,53019,2020,4,13
+Washington,53,WA,Franklin,53021,2020,4,106
+Washington,53,WA,Garfield,53023,2020,4,1
+Washington,53,WA,Grant,53025,2020,4,167
+Washington,53,WA,Grays Harbor,53027,2020,4,87
+Washington,53,WA,Island,53029,2020,4,51
+Washington,53,WA,Jefferson,53031,2020,4,23
+Washington,53,WA,King,53033,2020,4,1408
+Washington,53,WA,Kitsap,53035,2020,4,170
+Washington,53,WA,Kittitas,53037,2020,4,35
+Washington,53,WA,Klickitat,53039,2020,4,18
+Washington,53,WA,Lewis,53041,2020,4,84
+Washington,53,WA,Lincoln,53043,2020,4,18
+Washington,53,WA,Mason,53045,2020,4,56
+Washington,53,WA,Okanogan,53047,2020,4,68
+Washington,53,WA,Pacific,53049,2020,4,19
+Washington,53,WA,Pend Oreille,53051,2020,4,17
+Washington,53,WA,Pierce,53053,2020,4,942
+Washington,53,WA,San Juan,53055,2020,4,7
+Washington,53,WA,Skagit,53057,2020,4,138
+Washington,53,WA,Skamania,53059,2020,4,10
+Washington,53,WA,Snohomish,53061,2020,4,638
+Washington,53,WA,Spokane,53063,2020,4,586
+Washington,53,WA,Stevens,53065,2020,4,75
+Washington,53,WA,Thurston,53067,2020,4,328
+Washington,53,WA,Wahkiakum,53069,2020,4,1
+Washington,53,WA,Walla Walla,53071,2020,4,51
+Washington,53,WA,Whatcom,53073,2020,4,209
+Washington,53,WA,Whitman,53075,2020,4,18
 Washington,53,WA,Yakima,53077,2020,4,384
+Washington,53,WA,Adams,53001,2020,5,20
+Washington,53,WA,Asotin,53003,2020,5,6
+Washington,53,WA,Benton,53005,2020,5,212
+Washington,53,WA,Chelan,53007,2020,5,126
+Washington,53,WA,Clallam,53009,2020,5,92
+Washington,53,WA,Clark,53011,2020,5,352
+Washington,53,WA,Columbia,53013,2020,5,3
+Washington,53,WA,Cowlitz,53015,2020,5,149
+Washington,53,WA,Douglas,53017,2020,5,58
+Washington,53,WA,Ferry,53019,2020,5,15
+Washington,53,WA,Franklin,53021,2020,5,92
+Washington,53,WA,Garfield,53023,2020,5,0
+Washington,53,WA,Grant,53025,2020,5,120
+Washington,53,WA,Grays Harbor,53027,2020,5,93
+Washington,53,WA,Island,53029,2020,5,52
+Washington,53,WA,Jefferson,53031,2020,5,18
+Washington,53,WA,King,53033,2020,5,1644
+Washington,53,WA,Kitsap,53035,2020,5,166
+Washington,53,WA,Kittitas,53037,2020,5,37
+Washington,53,WA,Klickitat,53039,2020,5,26
+Washington,53,WA,Lewis,53041,2020,5,104
+Washington,53,WA,Lincoln,53043,2020,5,10
+Washington,53,WA,Mason,53045,2020,5,71
+Washington,53,WA,Okanogan,53047,2020,5,59
+Washington,53,WA,Pacific,53049,2020,5,22
+Washington,53,WA,Pend Oreille,53051,2020,5,17
+Washington,53,WA,Pierce,53053,2020,5,1082
+Washington,53,WA,San Juan,53055,2020,5,9
+Washington,53,WA,Skagit,53057,2020,5,203
+Washington,53,WA,Skamania,53059,2020,5,8
+Washington,53,WA,Snohomish,53061,2020,5,812
+Washington,53,WA,Spokane,53063,2020,5,575
+Washington,53,WA,Stevens,53065,2020,5,76
+Washington,53,WA,Thurston,53067,2020,5,319
+Washington,53,WA,Wahkiakum,53069,2020,5,3
+Washington,53,WA,Walla Walla,53071,2020,5,48
+Washington,53,WA,Whatcom,53073,2020,5,247
+Washington,53,WA,Whitman,53075,2020,5,11
 Washington,53,WA,Yakima,53077,2020,5,336
+Washington,53,WA,Adams,53001,2020,6,14
+Washington,53,WA,Asotin,53003,2020,6,10
+Washington,53,WA,Benton,53005,2020,6,181
+Washington,53,WA,Chelan,53007,2020,6,86
+Washington,53,WA,Clallam,53009,2020,6,60
+Washington,53,WA,Clark,53011,2020,6,322
+Washington,53,WA,Columbia,53013,2020,6,1
+Washington,53,WA,Cowlitz,53015,2020,6,105
+Washington,53,WA,Douglas,53017,2020,6,40
+Washington,53,WA,Ferry,53019,2020,6,5
+Washington,53,WA,Franklin,53021,2020,6,88
+Washington,53,WA,Garfield,53023,2020,6,1
+Washington,53,WA,Grant,53025,2020,6,98
+Washington,53,WA,Grays Harbor,53027,2020,6,93
+Washington,53,WA,Island,53029,2020,6,48
+Washington,53,WA,Jefferson,53031,2020,6,17
+Washington,53,WA,King,53033,2020,6,1490
+Washington,53,WA,Kitsap,53035,2020,6,161
+Washington,53,WA,Kittitas,53037,2020,6,35
+Washington,53,WA,Klickitat,53039,2020,6,11
+Washington,53,WA,Lewis,53041,2020,6,100
+Washington,53,WA,Lincoln,53043,2020,6,7
+Washington,53,WA,Mason,53045,2020,6,64
+Washington,53,WA,Okanogan,53047,2020,6,58
+Washington,53,WA,Pacific,53049,2020,6,27
+Washington,53,WA,Pend Oreille,53051,2020,6,18
+Washington,53,WA,Pierce,53053,2020,6,965
+Washington,53,WA,San Juan,53055,2020,6,3
+Washington,53,WA,Skagit,53057,2020,6,161
+Washington,53,WA,Skamania,53059,2020,6,11
+Washington,53,WA,Snohomish,53061,2020,6,757
+Washington,53,WA,Spokane,53063,2020,6,491
+Washington,53,WA,Stevens,53065,2020,6,45
+Washington,53,WA,Thurston,53067,2020,6,257
+Washington,53,WA,Wahkiakum,53069,2020,6,2
+Washington,53,WA,Walla Walla,53071,2020,6,32
+Washington,53,WA,Whatcom,53073,2020,6,241
+Washington,53,WA,Whitman,53075,2020,6,11
 Washington,53,WA,Yakima,53077,2020,6,337
+Washington,53,WA,Adams,53001,2020,7,8
+Washington,53,WA,Asotin,53003,2020,7,6
+Washington,53,WA,Benton,53005,2020,7,140
+Washington,53,WA,Chelan,53007,2020,7,81
+Washington,53,WA,Clallam,53009,2020,7,57
+Washington,53,WA,Clark,53011,2020,7,292
+Washington,53,WA,Columbia,53013,2020,7,3
+Washington,53,WA,Cowlitz,53015,2020,7,129
+Washington,53,WA,Douglas,53017,2020,7,35
+Washington,53,WA,Ferry,53019,2020,7,13
+Washington,53,WA,Franklin,53021,2020,7,82
+Washington,53,WA,Garfield,53023,2020,7,1
+Washington,53,WA,Grant,53025,2020,7,98
+Washington,53,WA,Grays Harbor,53027,2020,7,67
+Washington,53,WA,Island,53029,2020,7,40
+Washington,53,WA,Jefferson,53031,2020,7,17
+Washington,53,WA,King,53033,2020,7,1357
+Washington,53,WA,Kitsap,53035,2020,7,132
+Washington,53,WA,Kittitas,53037,2020,7,29
+Washington,53,WA,Klickitat,53039,2020,7,12
+Washington,53,WA,Lewis,53041,2020,7,91
+Washington,53,WA,Lincoln,53043,2020,7,6
+Washington,53,WA,Mason,53045,2020,7,64
+Washington,53,WA,Okanogan,53047,2020,7,47
+Washington,53,WA,Pacific,53049,2020,7,26
+Washington,53,WA,Pend Oreille,53051,2020,7,13
+Washington,53,WA,Pierce,53053,2020,7,797
+Washington,53,WA,San Juan,53055,2020,7,1
+Washington,53,WA,Skagit,53057,2020,7,130
+Washington,53,WA,Skamania,53059,2020,7,12
+Washington,53,WA,Snohomish,53061,2020,7,617
+Washington,53,WA,Spokane,53063,2020,7,477
+Washington,53,WA,Stevens,53065,2020,7,43
+Washington,53,WA,Thurston,53067,2020,7,223
+Washington,53,WA,Wahkiakum,53069,2020,7,8
+Washington,53,WA,Walla Walla,53071,2020,7,32
+Washington,53,WA,Whatcom,53073,2020,7,185
+Washington,53,WA,Whitman,53075,2020,7,9
 Washington,53,WA,Yakima,53077,2020,7,354
+Washington,53,WA,Adams,53001,2020,8,37
+Washington,53,WA,Asotin,53003,2020,8,5
+Washington,53,WA,Benton,53005,2020,8,177
+Washington,53,WA,Chelan,53007,2020,8,72
+Washington,53,WA,Clallam,53009,2020,8,57
+Washington,53,WA,Clark,53011,2020,8,322
+Washington,53,WA,Columbia,53013,2020,8,4
+Washington,53,WA,Cowlitz,53015,2020,8,124
+Washington,53,WA,Douglas,53017,2020,8,40
+Washington,53,WA,Ferry,53019,2020,8,2
+Washington,53,WA,Franklin,53021,2020,8,63
+Washington,53,WA,Garfield,53023,2020,8,0
+Washington,53,WA,Grant,53025,2020,8,182
+Washington,53,WA,Grays Harbor,53027,2020,8,106
+Washington,53,WA,Island,53029,2020,8,42
+Washington,53,WA,Jefferson,53031,2020,8,13
+Washington,53,WA,King,53033,2020,8,1400
+Washington,53,WA,Kitsap,53035,2020,8,129
+Washington,53,WA,Kittitas,53037,2020,8,53
+Washington,53,WA,Klickitat,53039,2020,8,17
+Washington,53,WA,Lewis,53041,2020,8,78
+Washington,53,WA,Lincoln,53043,2020,8,8
+Washington,53,WA,Mason,53045,2020,8,57
+Washington,53,WA,Okanogan,53047,2020,8,44
+Washington,53,WA,Pacific,53049,2020,8,29
+Washington,53,WA,Pend Oreille,53051,2020,8,12
+Washington,53,WA,Pierce,53053,2020,8,765
+Washington,53,WA,San Juan,53055,2020,8,6
+Washington,53,WA,Skagit,53057,2020,8,112
+Washington,53,WA,Skamania,53059,2020,8,10
+Washington,53,WA,Snohomish,53061,2020,8,594
+Washington,53,WA,Spokane,53063,2020,8,442
+Washington,53,WA,Stevens,53065,2020,8,66
+Washington,53,WA,Thurston,53067,2020,8,223
+Washington,53,WA,Wahkiakum,53069,2020,8,6
+Washington,53,WA,Walla Walla,53071,2020,8,41
+Washington,53,WA,Whatcom,53073,2020,8,181
+Washington,53,WA,Whitman,53075,2020,8,13
 Washington,53,WA,Yakima,53077,2020,8,353
+Washington,53,WA,Adams,53001,2020,9,20
+Washington,53,WA,Asotin,53003,2020,9,5
+Washington,53,WA,Benton,53005,2020,9,171
+Washington,53,WA,Chelan,53007,2020,9,89
+Washington,53,WA,Clallam,53009,2020,9,41
+Washington,53,WA,Clark,53011,2020,9,309
+Washington,53,WA,Columbia,53013,2020,9,2
+Washington,53,WA,Cowlitz,53015,2020,9,122
+Washington,53,WA,Douglas,53017,2020,9,48
+Washington,53,WA,Ferry,53019,2020,9,7
+Washington,53,WA,Franklin,53021,2020,9,78
+Washington,53,WA,Garfield,53023,2020,9,0
+Washington,53,WA,Grant,53025,2020,9,92
+Washington,53,WA,Grays Harbor,53027,2020,9,97
+Washington,53,WA,Island,53029,2020,9,63
+Washington,53,WA,Jefferson,53031,2020,9,18
+Washington,53,WA,King,53033,2020,9,1837
+Washington,53,WA,Kitsap,53035,2020,9,174
+Washington,53,WA,Kittitas,53037,2020,9,46
+Washington,53,WA,Klickitat,53039,2020,9,9
+Washington,53,WA,Lewis,53041,2020,9,120
+Washington,53,WA,Lincoln,53043,2020,9,8
+Washington,53,WA,Mason,53045,2020,9,60
+Washington,53,WA,Okanogan,53047,2020,9,90
+Washington,53,WA,Pacific,53049,2020,9,23
+Washington,53,WA,Pend Oreille,53051,2020,9,12
+Washington,53,WA,Pierce,53053,2020,9,950
+Washington,53,WA,San Juan,53055,2020,9,8
+Washington,53,WA,Skagit,53057,2020,9,127
+Washington,53,WA,Skamania,53059,2020,9,7
+Washington,53,WA,Snohomish,53061,2020,9,733
+Washington,53,WA,Spokane,53063,2020,9,459
+Washington,53,WA,Stevens,53065,2020,9,82
+Washington,53,WA,Thurston,53067,2020,9,265
+Washington,53,WA,Wahkiakum,53069,2020,9,4
+Washington,53,WA,Walla Walla,53071,2020,9,26
+Washington,53,WA,Whatcom,53073,2020,9,198
+Washington,53,WA,Whitman,53075,2020,9,8
 Washington,53,WA,Yakima,53077,2020,9,339
+Washington,53,WA,Adams,53001,2020,10,18
+Washington,53,WA,Asotin,53003,2020,10,8
+Washington,53,WA,Benton,53005,2020,10,207
+Washington,53,WA,Chelan,53007,2020,10,110
+Washington,53,WA,Clallam,53009,2020,10,56
+Washington,53,WA,Clark,53011,2020,10,373
+Washington,53,WA,Columbia,53013,2020,10,2
+Washington,53,WA,Cowlitz,53015,2020,10,129
+Washington,53,WA,Douglas,53017,2020,10,46
+Washington,53,WA,Ferry,53019,2020,10,8
+Washington,53,WA,Franklin,53021,2020,10,195
+Washington,53,WA,Garfield,53023,2020,10,6
+Washington,53,WA,Grant,53025,2020,10,93
+Washington,53,WA,Grays Harbor,53027,2020,10,122
+Washington,53,WA,Island,53029,2020,10,66
+Washington,53,WA,Jefferson,53031,2020,10,25
+Washington,53,WA,King,53033,2020,10,5834
+Washington,53,WA,Kitsap,53035,2020,10,259
+Washington,53,WA,Kittitas,53037,2020,10,62
+Washington,53,WA,Klickitat,53039,2020,10,7
+Washington,53,WA,Lewis,53041,2020,10,92
+Washington,53,WA,Lincoln,53043,2020,10,6
+Washington,53,WA,Mason,53045,2020,10,124
+Washington,53,WA,Okanogan,53047,2020,10,78
+Washington,53,WA,Pacific,53049,2020,10,25
+Washington,53,WA,Pend Oreille,53051,2020,10,11
+Washington,53,WA,Pierce,53053,2020,10,1559
+Washington,53,WA,San Juan,53055,2020,10,17
+Washington,53,WA,Skagit,53057,2020,10,163
+Washington,53,WA,Skamania,53059,2020,10,13
+Washington,53,WA,Snohomish,53061,2020,10,1386
+Washington,53,WA,Spokane,53063,2020,10,455
+Washington,53,WA,Stevens,53065,2020,10,49
+Washington,53,WA,Thurston,53067,2020,10,351
+Washington,53,WA,Wahkiakum,53069,2020,10,3
+Washington,53,WA,Walla Walla,53071,2020,10,41
+Washington,53,WA,Whatcom,53073,2020,10,238
+Washington,53,WA,Whitman,53075,2020,10,11
 Washington,53,WA,Yakima,53077,2020,10,265
+Washington,53,WA,Adams,53001,2020,11,154
+Washington,53,WA,Asotin,53003,2020,11,113
+Washington,53,WA,Benton,53005,2020,11,3014
+Washington,53,WA,Chelan,53007,2020,11,1473
+Washington,53,WA,Clallam,53009,2020,11,1147
+Washington,53,WA,Clark,53011,2020,11,6249
+Washington,53,WA,Columbia,53013,2020,11,34
+Washington,53,WA,Cowlitz,53015,2020,11,1458
+Washington,53,WA,Douglas,53017,2020,11,539
+Washington,53,WA,Ferry,53019,2020,11,20
+Washington,53,WA,Franklin,53021,2020,11,1104
+Washington,53,WA,Garfield,53023,2020,11,9
+Washington,53,WA,Grant,53025,2020,11,1039
+Washington,53,WA,Grays Harbor,53027,2020,11,1053
+Washington,53,WA,Island,53029,2020,11,949
+Washington,53,WA,Jefferson,53031,2020,11,568
+Washington,53,WA,King,53033,2020,11,37296
+Washington,53,WA,Kitsap,53035,2020,11,3606
+Washington,53,WA,Kittitas,53037,2020,11,822
+Washington,53,WA,Klickitat,53039,2020,11,141
+Washington,53,WA,Lewis,53041,2020,11,1094
+Washington,53,WA,Lincoln,53043,2020,11,59
+Washington,53,WA,Mason,53045,2020,11,865
+Washington,53,WA,Okanogan,53047,2020,11,357
+Washington,53,WA,Pacific,53049,2020,11,212
+Washington,53,WA,Pend Oreille,53051,2020,11,87
+Washington,53,WA,Pierce,53053,2020,11,14730
+Washington,53,WA,San Juan,53055,2020,11,279
+Washington,53,WA,Skagit,53057,2020,11,1966
+Washington,53,WA,Skamania,53059,2020,11,201
+Washington,53,WA,Snohomish,53061,2020,11,13692
+Washington,53,WA,Spokane,53063,2020,11,8766
+Washington,53,WA,Stevens,53065,2020,11,388
+Washington,53,WA,Thurston,53067,2020,11,4708
+Washington,53,WA,Wahkiakum,53069,2020,11,19
+Washington,53,WA,Walla Walla,53071,2020,11,726
+Washington,53,WA,Whatcom,53073,2020,11,4428
+Washington,53,WA,Whitman,53075,2020,11,282
 Washington,53,WA,Yakima,53077,2020,11,2817
+Washington,53,WA,Adams,53001,2020,12,176
+Washington,53,WA,Asotin,53003,2020,12,176
+Washington,53,WA,Benton,53005,2020,12,4294
+Washington,53,WA,Chelan,53007,2020,12,1889
+Washington,53,WA,Clallam,53009,2020,12,1827
+Washington,53,WA,Clark,53011,2020,12,8661
+Washington,53,WA,Columbia,53013,2020,12,39
+Washington,53,WA,Cowlitz,53015,2020,12,2096
+Washington,53,WA,Douglas,53017,2020,12,760
+Washington,53,WA,Ferry,53019,2020,12,55
+Washington,53,WA,Franklin,53021,2020,12,1648
+Washington,53,WA,Garfield,53023,2020,12,9
+Washington,53,WA,Grant,53025,2020,12,1577
+Washington,53,WA,Grays Harbor,53027,2020,12,1709
+Washington,53,WA,Island,53029,2020,12,1520
+Washington,53,WA,Jefferson,53031,2020,12,803
+Washington,53,WA,King,53033,2020,12,44613
+Washington,53,WA,Kitsap,53035,2020,12,4941
+Washington,53,WA,Kittitas,53037,2020,12,1093
+Washington,53,WA,Klickitat,53039,2020,12,214
+Washington,53,WA,Lewis,53041,2020,12,1825
+Washington,53,WA,Lincoln,53043,2020,12,117
+Washington,53,WA,Mason,53045,2020,12,1178
+Washington,53,WA,Okanogan,53047,2020,12,524
+Washington,53,WA,Pacific,53049,2020,12,449
+Washington,53,WA,Pend Oreille,53051,2020,12,160
+Washington,53,WA,Pierce,53053,2020,12,22145
+Washington,53,WA,San Juan,53055,2020,12,465
+Washington,53,WA,Skagit,53057,2020,12,3425
+Washington,53,WA,Skamania,53059,2020,12,211
+Washington,53,WA,Snohomish,53061,2020,12,21176
+Washington,53,WA,Spokane,53063,2020,12,12102
+Washington,53,WA,Stevens,53065,2020,12,744
+Washington,53,WA,Thurston,53067,2020,12,6804
+Washington,53,WA,Wahkiakum,53069,2020,12,27
+Washington,53,WA,Walla Walla,53071,2020,12,904
+Washington,53,WA,Whatcom,53073,2020,12,6268
+Washington,53,WA,Whitman,53075,2020,12,383
 Washington,53,WA,Yakima,53077,2020,12,4195
+Washington,53,WA,Adams,53001,2020,13,202
+Washington,53,WA,Asotin,53003,2020,13,196
+Washington,53,WA,Benton,53005,2020,13,3696
+Washington,53,WA,Chelan,53007,2020,13,1922
+Washington,53,WA,Clallam,53009,2020,13,1553
+Washington,53,WA,Clark,53011,2020,13,9378
+Washington,53,WA,Columbia,53013,2020,13,65
+Washington,53,WA,Cowlitz,53015,2020,13,2215
+Washington,53,WA,Douglas,53017,2020,13,820
+Washington,53,WA,Ferry,53019,2020,13,54
+Washington,53,WA,Franklin,53021,2020,13,1435
+Washington,53,WA,Garfield,53023,2020,13,32
+Washington,53,WA,Grant,53025,2020,13,1512
+Washington,53,WA,Grays Harbor,53027,2020,13,1631
+Washington,53,WA,Island,53029,2020,13,1584
+Washington,53,WA,Jefferson,53031,2020,13,670
+Washington,53,WA,King,53033,2020,13,47233
+Washington,53,WA,Kitsap,53035,2020,13,4860
+Washington,53,WA,Kittitas,53037,2020,13,1065
+Washington,53,WA,Klickitat,53039,2020,13,259
+Washington,53,WA,Lewis,53041,2020,13,1703
+Washington,53,WA,Lincoln,53043,2020,13,120
+Washington,53,WA,Mason,53045,2020,13,1187
+Washington,53,WA,Okanogan,53047,2020,13,662
+Washington,53,WA,Pacific,53049,2020,13,418
+Washington,53,WA,Pend Oreille,53051,2020,13,181
+Washington,53,WA,Pierce,53053,2020,13,22379
+Washington,53,WA,San Juan,53055,2020,13,443
+Washington,53,WA,Skagit,53057,2020,13,3230
+Washington,53,WA,Skamania,53059,2020,13,185
+Washington,53,WA,Snohomish,53061,2020,13,21148
+Washington,53,WA,Spokane,53063,2020,13,11347
+Washington,53,WA,Stevens,53065,2020,13,715
+Washington,53,WA,Thurston,53067,2020,13,6095
+Washington,53,WA,Wahkiakum,53069,2020,13,45
+Washington,53,WA,Walla Walla,53071,2020,13,952
+Washington,53,WA,Whatcom,53073,2020,13,5885
+Washington,53,WA,Whitman,53075,2020,13,438
 Washington,53,WA,Yakima,53077,2020,13,4008
+Washington,53,WA,Adams,53001,2020,14,210
+Washington,53,WA,Asotin,53003,2020,14,131
+Washington,53,WA,Benton,53005,2020,14,2336
+Washington,53,WA,Chelan,53007,2020,14,1156
+Washington,53,WA,Clallam,53009,2020,14,945
+Washington,53,WA,Clark,53011,2020,14,5591
+Washington,53,WA,Columbia,53013,2020,14,38
+Washington,53,WA,Cowlitz,53015,2020,14,1330
+Washington,53,WA,Douglas,53017,2020,14,571
+Washington,53,WA,Ferry,53019,2020,14,48
+Washington,53,WA,Franklin,53021,2020,14,1055
+Washington,53,WA,Garfield,53023,2020,14,12
+Washington,53,WA,Grant,53025,2020,14,894
+Washington,53,WA,Grays Harbor,53027,2020,14,1170
+Washington,53,WA,Island,53029,2020,14,1577
+Washington,53,WA,Jefferson,53031,2020,14,435
+Washington,53,WA,King,53033,2020,14,39796
+Washington,53,WA,Kitsap,53035,2020,14,3905
+Washington,53,WA,Kittitas,53037,2020,14,650
+Washington,53,WA,Klickitat,53039,2020,14,173
+Washington,53,WA,Lewis,53041,2020,14,1153
+Washington,53,WA,Lincoln,53043,2020,14,86
+Washington,53,WA,Mason,53045,2020,14,793
+Washington,53,WA,Okanogan,53047,2020,14,440
+Washington,53,WA,Pacific,53049,2020,14,264
+Washington,53,WA,Pend Oreille,53051,2020,14,143
+Washington,53,WA,Pierce,53053,2020,14,19377
+Washington,53,WA,San Juan,53055,2020,14,271
+Washington,53,WA,Skagit,53057,2020,14,2731
+Washington,53,WA,Skamania,53059,2020,14,142
+Washington,53,WA,Snohomish,53061,2020,14,27780
+Washington,53,WA,Spokane,53063,2020,14,8382
+Washington,53,WA,Stevens,53065,2020,14,439
+Washington,53,WA,Thurston,53067,2020,14,4239
+Washington,53,WA,Wahkiakum,53069,2020,14,34
+Washington,53,WA,Walla Walla,53071,2020,14,510
+Washington,53,WA,Whatcom,53073,2020,14,3968
+Washington,53,WA,Whitman,53075,2020,14,275
 Washington,53,WA,Yakima,53077,2020,14,3167
+Washington,53,WA,Adams,53001,2020,15,170
+Washington,53,WA,Asotin,53003,2020,15,118
+Washington,53,WA,Benton,53005,2020,15,1534
+Washington,53,WA,Chelan,53007,2020,15,740
+Washington,53,WA,Clallam,53009,2020,15,683
+Washington,53,WA,Clark,53011,2020,15,3707
+Washington,53,WA,Columbia,53013,2020,15,20
+Washington,53,WA,Cowlitz,53015,2020,15,899
+Washington,53,WA,Douglas,53017,2020,15,334
+Washington,53,WA,Ferry,53019,2020,15,40
+Washington,53,WA,Franklin,53021,2020,15,673
+Washington,53,WA,Garfield,53023,2020,15,10
+Washington,53,WA,Grant,53025,2020,15,621
+Washington,53,WA,Grays Harbor,53027,2020,15,785
+Washington,53,WA,Island,53029,2020,15,713
+Washington,53,WA,Jefferson,53031,2020,15,297
+Washington,53,WA,King,53033,2020,15,24461
+Washington,53,WA,Kitsap,53035,2020,15,2378
+Washington,53,WA,Kittitas,53037,2020,15,370
+Washington,53,WA,Klickitat,53039,2020,15,131
+Washington,53,WA,Lewis,53041,2020,15,755
+Washington,53,WA,Lincoln,53043,2020,15,62
+Washington,53,WA,Mason,53045,2020,15,536
+Washington,53,WA,Okanogan,53047,2020,15,292
+Washington,53,WA,Pacific,53049,2020,15,168
+Washington,53,WA,Pend Oreille,53051,2020,15,94
+Washington,53,WA,Pierce,53053,2020,15,11016
+Washington,53,WA,San Juan,53055,2020,15,191
+Washington,53,WA,Skagit,53057,2020,15,1445
+Washington,53,WA,Skamania,53059,2020,15,87
+Washington,53,WA,Snohomish,53061,2020,15,10958
+Washington,53,WA,Spokane,53063,2020,15,5069
+Washington,53,WA,Stevens,53065,2020,15,254
+Washington,53,WA,Thurston,53067,2020,15,2882
+Washington,53,WA,Wahkiakum,53069,2020,15,22
+Washington,53,WA,Walla Walla,53071,2020,15,366
+Washington,53,WA,Whatcom,53073,2020,15,2612
+Washington,53,WA,Whitman,53075,2020,15,224
 Washington,53,WA,Yakima,53077,2020,15,2241
+Washington,53,WA,Adams,53001,2020,16,292
+Washington,53,WA,Asotin,53003,2020,16,145
+Washington,53,WA,Benton,53005,2020,16,2425
+Washington,53,WA,Chelan,53007,2020,16,1563
+Washington,53,WA,Clallam,53009,2020,16,1325
+Washington,53,WA,Clark,53011,2020,16,6292
+Washington,53,WA,Columbia,53013,2020,16,39
+Washington,53,WA,Cowlitz,53015,2020,16,1457
+Washington,53,WA,Douglas,53017,2020,16,696
+Washington,53,WA,Ferry,53019,2020,16,92
+Washington,53,WA,Franklin,53021,2020,16,996
+Washington,53,WA,Garfield,53023,2020,16,13
+Washington,53,WA,Grant,53025,2020,16,983
+Washington,53,WA,Grays Harbor,53027,2020,16,1229
+Washington,53,WA,Island,53029,2020,16,1297
+Washington,53,WA,Jefferson,53031,2020,16,746
+Washington,53,WA,King,53033,2020,16,40088
+Washington,53,WA,Kitsap,53035,2020,16,4266
+Washington,53,WA,Kittitas,53037,2020,16,700
+Washington,53,WA,Klickitat,53039,2020,16,234
+Washington,53,WA,Lewis,53041,2020,16,1305
+Washington,53,WA,Lincoln,53043,2020,16,111
+Washington,53,WA,Mason,53045,2020,16,931
+Washington,53,WA,Okanogan,53047,2020,16,613
+Washington,53,WA,Pacific,53049,2020,16,376
+Washington,53,WA,Pend Oreille,53051,2020,16,190
+Washington,53,WA,Pierce,53053,2020,16,16680
+Washington,53,WA,San Juan,53055,2020,16,503
+Washington,53,WA,Skagit,53057,2020,16,2164
+Washington,53,WA,Skamania,53059,2020,16,155
+Washington,53,WA,Snohomish,53061,2020,16,15122
+Washington,53,WA,Spokane,53063,2020,16,7794
+Washington,53,WA,Stevens,53065,2020,16,650
+Washington,53,WA,Thurston,53067,2020,16,5085
+Washington,53,WA,Wahkiakum,53069,2020,16,51
+Washington,53,WA,Walla Walla,53071,2020,16,650
+Washington,53,WA,Whatcom,53073,2020,16,4343
+Washington,53,WA,Whitman,53075,2020,16,354
+Washington,53,WA,Yakima,53077,2020,16,3477
+Washington,53,WA,Adams,53001,2020,17,259
+Washington,53,WA,Asotin,53003,2020,17,83
+Washington,53,WA,Benton,53005,2020,17,1983
+Washington,53,WA,Chelan,53007,2020,17,1190
+Washington,53,WA,Clallam,53009,2020,17,980
+Washington,53,WA,Clark,53011,2020,17,4842
+Washington,53,WA,Columbia,53013,2020,17,37
+Washington,53,WA,Cowlitz,53015,2020,17,1130
+Washington,53,WA,Douglas,53017,2020,17,569
+Washington,53,WA,Ferry,53019,2020,17,51
+Washington,53,WA,Franklin,53021,2020,17,873
+Washington,53,WA,Garfield,53023,2020,17,7
+Washington,53,WA,Grant,53025,2020,17,869
+Washington,53,WA,Grays Harbor,53027,2020,17,909
+Washington,53,WA,Island,53029,2020,17,882
+Washington,53,WA,Jefferson,53031,2020,17,471
+Washington,53,WA,King,53033,2020,17,31550
+Washington,53,WA,Kitsap,53035,2020,17,2864
+Washington,53,WA,Kittitas,53037,2020,17,510
+Washington,53,WA,Klickitat,53039,2020,17,159
+Washington,53,WA,Lewis,53041,2020,17,950
+Washington,53,WA,Lincoln,53043,2020,17,98
+Washington,53,WA,Mason,53045,2020,17,687
+Washington,53,WA,Okanogan,53047,2020,17,410
+Washington,53,WA,Pacific,53049,2020,17,263
+Washington,53,WA,Pend Oreille,53051,2020,17,104
+Washington,53,WA,Pierce,53053,2020,17,12813
+Washington,53,WA,San Juan,53055,2020,17,336
+Washington,53,WA,Skagit,53057,2020,17,1609
+Washington,53,WA,Skamania,53059,2020,17,118
+Washington,53,WA,Snohomish,53061,2020,17,10864
+Washington,53,WA,Spokane,53063,2020,17,6056
+Washington,53,WA,Stevens,53065,2020,17,416
+Washington,53,WA,Thurston,53067,2020,17,3746
+Washington,53,WA,Wahkiakum,53069,2020,17,29
+Washington,53,WA,Walla Walla,53071,2020,17,506
+Washington,53,WA,Whatcom,53073,2020,17,3170
+Washington,53,WA,Whitman,53075,2020,17,306
+Washington,53,WA,Yakima,53077,2020,17,2756
+Washington,53,WA,Adams,53001,2020,18,302
+Washington,53,WA,Asotin,53003,2020,18,115
+Washington,53,WA,Benton,53005,2020,18,2444
+Washington,53,WA,Chelan,53007,2020,18,955
+Washington,53,WA,Clallam,53009,2020,18,767
+Washington,53,WA,Clark,53011,2020,18,4905
+Washington,53,WA,Columbia,53013,2020,18,35
+Washington,53,WA,Cowlitz,53015,2020,18,1262
+Washington,53,WA,Douglas,53017,2020,18,397
+Washington,53,WA,Ferry,53019,2020,18,65
+Washington,53,WA,Franklin,53021,2020,18,918
+Washington,53,WA,Garfield,53023,2020,18,22
+Washington,53,WA,Grant,53025,2020,18,927
+Washington,53,WA,Grays Harbor,53027,2020,18,975
+Washington,53,WA,Island,53029,2020,18,755
+Washington,53,WA,Jefferson,53031,2020,18,334
+Washington,53,WA,King,53033,2020,18,37701
+Washington,53,WA,Kitsap,53035,2020,18,2995
+Washington,53,WA,Kittitas,53037,2020,18,614
+Washington,53,WA,Klickitat,53039,2020,18,191
+Washington,53,WA,Lewis,53041,2020,18,954
+Washington,53,WA,Lincoln,53043,2020,18,76
+Washington,53,WA,Mason,53045,2020,18,736
+Washington,53,WA,Okanogan,53047,2020,18,399
+Washington,53,WA,Pacific,53049,2020,18,220
+Washington,53,WA,Pend Oreille,53051,2020,18,95
+Washington,53,WA,Pierce,53053,2020,18,12938
+Washington,53,WA,San Juan,53055,2020,18,195
+Washington,53,WA,Skagit,53057,2020,18,1529
+Washington,53,WA,Skamania,53059,2020,18,110
+Washington,53,WA,Snohomish,53061,2020,18,11677
+Washington,53,WA,Spokane,53063,2020,18,6954
+Washington,53,WA,Stevens,53065,2020,18,454
+Washington,53,WA,Thurston,53067,2020,18,3920
+Washington,53,WA,Wahkiakum,53069,2020,18,35
+Washington,53,WA,Walla Walla,53071,2020,18,659
+Washington,53,WA,Whatcom,53073,2020,18,2914
+Washington,53,WA,Whitman,53075,2020,18,455
+Washington,53,WA,Yakima,53077,2020,18,2991
