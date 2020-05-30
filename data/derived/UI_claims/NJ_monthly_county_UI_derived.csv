@@ -1,4 +1,4 @@
-state_name,state_fips,state_abbrev,county_name,county_fips,year,month,total_claims
+state_name,state_fips,state_abbrev,county_name,county_fips,year,month,initial_claims
 New Jersey,34,NJ,Atlantic,34001,2016,1,"5,035"
 New Jersey,34,NJ,Atlantic,34001,2016,2,"4,907"
 New Jersey,34,NJ,Atlantic,34001,2016,3,"4,279"

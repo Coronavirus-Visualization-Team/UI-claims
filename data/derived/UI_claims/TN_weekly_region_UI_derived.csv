@@ -1,61 +1,61 @@
-state_name,state_fips,state_abbrev,region_name,year,week,initial_claims
-Tennessee,47,TN,East Tennessee,2020,12,6854
-Tennessee,47,TN,East TN Mobile American Job Center,2020,12,10
-Tennessee,47,TN,Greater Memphis,2020,12,4355
-Tennessee,47,TN,Middle TN Mobile American Job Center,2020,12,122
-Tennessee,47,TN,Northeast Tennessee,2020,12,1616
-Tennessee,47,TN,Northern Middle Tennessee,2020,12,16993
-Tennessee,47,TN,Northwest Tennessee,2020,12,511
-Tennessee,47,TN,Southeast Tennessee,2020,12,4211
-Tennessee,47,TN,Southern Middle Tennessee,2020,12,1992
-Tennessee,47,TN,Southwest Tennessee,2020,12,518
-Tennessee,47,TN,Upper Cumberland,2020,12,877
-Tennessee,47,TN,West TN Mobile American Job Center,2020,12,5
-Tennessee,47,TN,East Tennessee,2020,13,20025
-Tennessee,47,TN,East TN Mobile American Job Center,2020,13,41
-Tennessee,47,TN,Greater Memphis,2020,13,12548
-Tennessee,47,TN,Middle TN Mobile American Job Center,2020,13,336
-Tennessee,47,TN,Northeast Tennessee,2020,13,4749
-Tennessee,47,TN,Northern Middle Tennessee,2020,13,32246
-Tennessee,47,TN,Northwest Tennessee,2020,13,2299
-Tennessee,47,TN,Southeast Tennessee,2020,13,9309
-Tennessee,47,TN,Southern Middle Tennessee,2020,13,8147
-Tennessee,47,TN,Southwest Tennessee,2020,13,2571
-Tennessee,47,TN,Upper Cumberland,2020,13,3295
-Tennessee,47,TN,West TN Mobile American Job Center,2020,13,30
-Tennessee,47,TN,East Tennessee,2020,14,25040
-Tennessee,47,TN,East TN Mobile American Job Center,2020,14,35
-Tennessee,47,TN,Greater Memphis,2020,14,15452
-Tennessee,47,TN,Middle TN Mobile American Job Center,2020,14,481
-Tennessee,47,TN,Northeast Tennessee,2020,14,6419
-Tennessee,47,TN,Northern Middle Tennessee,2020,14,47325
-Tennessee,47,TN,Northwest Tennessee,2020,14,3409
-Tennessee,47,TN,Southeast Tennessee,2020,14,13578
-Tennessee,47,TN,Southern Middle Tennessee,2020,14,10613
-Tennessee,47,TN,Southwest Tennessee,2020,14,3604
-Tennessee,47,TN,Upper Cumberland,2020,14,4892
-Tennessee,47,TN,West TN Mobile American Job Center,2020,14,35
-Tennessee,47,TN,East Tennessee,2020,15,16669
-Tennessee,47,TN,East TN Mobile American Job Center,2020,15,41
-Tennessee,47,TN,Greater Memphis,2020,15,12216
-Tennessee,47,TN,Middle TN Mobile American Job Center,2020,15,374
-Tennessee,47,TN,Northeast Tennessee,2020,15,4626
-Tennessee,47,TN,Northern Middle Tennessee,2020,15,34643
-Tennessee,47,TN,Northwest Tennessee,2020,15,2233
-Tennessee,47,TN,Southeast Tennessee,2020,15,10442
-Tennessee,47,TN,Southern Middle Tennessee,2020,15,10488
-Tennessee,47,TN,Southwest Tennessee,2020,15,2692
-Tennessee,47,TN,Upper Cumberland,2020,15,4052
-Tennessee,47,TN,West TN Mobile American Job Center,2020,15,38
-Tennessee,47,TN,East Tennessee,2020,16,17222
-Tennessee,47,TN,East TN Mobile American Job Center,2020,16,28
-Tennessee,47,TN,Greater Memphis,2020,16,12361
-Tennessee,47,TN,Middle TN Mobile American Job Center,2020,16,416
-Tennessee,47,TN,Northeast Tennessee,2020,16,5085
-Tennessee,47,TN,Northern Middle Tennessee,2020,16,29065
-Tennessee,47,TN,Northwest Tennessee,2020,16,2966
-Tennessee,47,TN,Southeast Tennessee,2020,16,10188
-Tennessee,47,TN,Southern Middle Tennessee,2020,16,6656
-Tennessee,47,TN,Southwest Tennessee,2020,16,2835
-Tennessee,47,TN,Upper Cumberland,2020,16,3397
-Tennessee,47,TN,West TN Mobile American Job Center,2020,16,33
+state_name,state_fips,state_abbrev,county_name,county_fips,year,week,initial_claims
+Tennessee,47,TN,East Tennessee,,2020,12,6854
+Tennessee,47,TN,East TN Mobile American Job Center,,2020,12,10
+Tennessee,47,TN,Greater Memphis,,2020,12,4355
+Tennessee,47,TN,Middle TN Mobile American Job Center,,2020,12,122
+Tennessee,47,TN,Northeast Tennessee,,2020,12,1616
+Tennessee,47,TN,Northern Middle Tennessee,,2020,12,16993
+Tennessee,47,TN,Northwest Tennessee,,2020,12,511
+Tennessee,47,TN,Southeast Tennessee,,2020,12,4211
+Tennessee,47,TN,Southern Middle Tennessee,,2020,12,1992
+Tennessee,47,TN,Southwest Tennessee,,2020,12,518
+Tennessee,47,TN,Upper Cumberland,,2020,12,877
+Tennessee,47,TN,West TN Mobile American Job Center,,2020,12,5
+Tennessee,47,TN,East Tennessee,,2020,13,20025
+Tennessee,47,TN,East TN Mobile American Job Center,,2020,13,41
+Tennessee,47,TN,Greater Memphis,,2020,13,12548
+Tennessee,47,TN,Middle TN Mobile American Job Center,,2020,13,336
+Tennessee,47,TN,Northeast Tennessee,,2020,13,4749
+Tennessee,47,TN,Northern Middle Tennessee,,2020,13,32246
+Tennessee,47,TN,Northwest Tennessee,,2020,13,2299
+Tennessee,47,TN,Southeast Tennessee,,2020,13,9309
+Tennessee,47,TN,Southern Middle Tennessee,,2020,13,8147
+Tennessee,47,TN,Southwest Tennessee,,2020,13,2571
+Tennessee,47,TN,Upper Cumberland,,2020,13,3295
+Tennessee,47,TN,West TN Mobile American Job Center,,2020,13,30
+Tennessee,47,TN,East Tennessee,,2020,14,25040
+Tennessee,47,TN,East TN Mobile American Job Center,,2020,14,35
+Tennessee,47,TN,Greater Memphis,,2020,14,15452
+Tennessee,47,TN,Middle TN Mobile American Job Center,,2020,14,481
+Tennessee,47,TN,Northeast Tennessee,,2020,14,6419
+Tennessee,47,TN,Northern Middle Tennessee,,2020,14,47325
+Tennessee,47,TN,Northwest Tennessee,,2020,14,3409
+Tennessee,47,TN,Southeast Tennessee,,2020,14,13578
+Tennessee,47,TN,Southern Middle Tennessee,,2020,14,10613
+Tennessee,47,TN,Southwest Tennessee,,2020,14,3604
+Tennessee,47,TN,Upper Cumberland,,2020,14,4892
+Tennessee,47,TN,West TN Mobile American Job Center,,2020,14,35
+Tennessee,47,TN,East Tennessee,,2020,15,16669
+Tennessee,47,TN,East TN Mobile American Job Center,,2020,15,41
+Tennessee,47,TN,Greater Memphis,,2020,15,12216
+Tennessee,47,TN,Middle TN Mobile American Job Center,,2020,15,374
+Tennessee,47,TN,Northeast Tennessee,,2020,15,4626
+Tennessee,47,TN,Northern Middle Tennessee,,2020,15,34643
+Tennessee,47,TN,Northwest Tennessee,,2020,15,2233
+Tennessee,47,TN,Southeast Tennessee,,2020,15,10442
+Tennessee,47,TN,Southern Middle Tennessee,,2020,15,10488
+Tennessee,47,TN,Southwest Tennessee,,2020,15,2692
+Tennessee,47,TN,Upper Cumberland,,2020,15,4052
+Tennessee,47,TN,West TN Mobile American Job Center,,2020,15,38
+Tennessee,47,TN,East Tennessee,,2020,16,17222
+Tennessee,47,TN,East TN Mobile American Job Center,,2020,16,28
+Tennessee,47,TN,Greater Memphis,,2020,16,12361
+Tennessee,47,TN,Middle TN Mobile American Job Center,,2020,16,416
+Tennessee,47,TN,Northeast Tennessee,,2020,16,5085
+Tennessee,47,TN,Northern Middle Tennessee,,2020,16,29065
+Tennessee,47,TN,Northwest Tennessee,,2020,16,2966
+Tennessee,47,TN,Southeast Tennessee,,2020,16,10188
+Tennessee,47,TN,Southern Middle Tennessee,,2020,16,6656
+Tennessee,47,TN,Southwest Tennessee,,2020,16,2835
+Tennessee,47,TN,Upper Cumberland,,2020,16,3397
+Tennessee,47,TN,West TN Mobile American Job Center,,2020,16,33
